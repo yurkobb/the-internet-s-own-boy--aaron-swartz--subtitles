@@ -78,281 +78,422 @@ Growing up, you know, I slowly had this process of realizing
 15
 00:02:00,683 --> 00:02:02,840
 that all the things around me, that people had told me
+;;
+що речі довкола мене, про які мені казали, що вони
 
 16
 00:02:02,850 --> 00:02:06,215
 were just the natural way things were, the way things always would be.
+;;
+є такими від природи, і завжди такими будуть,
 
 17
 00:02:06,225 --> 00:02:08,579
 They weren't natural at all. They were things that could be changed
+;;
+насправді ці речі зовсім не природні. Ці речі можна змінити
 
 18
 00:02:08,589 --> 00:02:11,728
 and they were thing that more importantly were wrong and should change.
+;;
+і, що важливіше, ці речі є неправильним і їх потрібно змінити.
+
 
 19
 00:02:11,738 --> 00:02:15,578
 And once I realized that, there was really kind of no going back
+;;
+І коли я це зрозумів, можна сказати, для мене вже не було зворотнього шляху
 
 20
 00:02:24,101 --> 00:02:27,134
 Welcome to story reading time
+;;
+Почитаємо казку!
 
 21
 00:02:27,992 --> 00:02:32,000
 The name of the book is 'Paddington at the Fair'
+;;
+Назва книжки — «Паддінґтон на ярмарку»
 
 22
 00:02:32,952 --> 00:02:36,500
 Well, he was born in Highland Park and grew up here
+;;
+Отож, він народився й виріс тут у Гайленд-Парку
 
 23
 00:02:36,552 --> 00:02:40,090
 Aaron came from a family of three brothers, all extraordinarily bright
+;;
+Сім'я Аарона — це три брати, усі дуже талановиті
 
 24
 00:02:40,100 --> 00:02:42,370
 The box is flipping over!
+;;
+Коробка перекидається!
 
 25
 00:02:44,574 --> 00:02:47,800
 So, we were all, you know, not the best behaved children
+;;
+Ми всі були, ясна річ, не дуже чемними дітисками
 
 26
 00:02:47,810 --> 00:02:51,590
 you know, three boys running around all the time, causing trouble
+;;
+Три хлопчаки бігають довкола, влаштовують якийсь клопіт
 
 27
 00:02:51,600 --> 00:02:55,100
 Mom: No, no, no... Aaron!?
 Aaron: What?
+;;
+Мама: Ні, ні, ні... Аарон!?
+Аарон: Що?
 
 28
 00:02:55,556 --> 00:03:00,807
 But, I've come to the realization: Aaron learned how to learn at a very young age
+;;
+Але я усвідомив: Аарон навчився вчитися в дуже ранньому віці
 
 29
 00:03:00,807 --> 00:03:06,500
 One, two, three, four, five, six, seven, eight, nine, ten!
+;;
+Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять!
 
 30
 00:03:06,500 --> 00:03:07,700
 Knock, knock!
+;;
+Стук-стук!
 
 31
 00:03:07,800 --> 00:03:08,800
 Who's here?
+;;
+Хто там?
 
 32
 00:03:08,900 --> 00:03:09,800
 Aaron!
+;;
+Аарон!
 
 33
 00:03:09,900 --> 00:03:10,836
 Aaron who?
+;;
+Аарон хто?
 
 34
 00:03:10,887 --> 00:03:12,500
 Aaron funny man!
+;;
+Аарон веселун!
 
 35
 00:03:12,640 --> 00:03:14,862
 He knew what he wanted, he always wanted to do it.
+;;
+Він знав, чого хотів, і завжди хотів це здійснити.
 
 36
 00:03:14,872 --> 00:03:17,152
 He always accomplished what he wanted.
+;;
+Він завжди досягав того, чого хотів.
 
 37
 00:03:18,320 --> 00:03:20,800
 His curiosity was endless
+;;
+Його цікавість була безконечною
 
 38
 00:03:21,150 --> 00:03:24,950
 Here's the little picture of what the planets are
+;;
+Ось тут зображено, які існують планети
 
 39
 00:03:25,020 --> 00:03:27,000
-and each planet has a symbol: 
+and each planet has a symbol:
+;;
+кожна планета має символ:
+
 
 40
 00:03:27,080 --> 00:03:32,950
 Mercury's symbol, Venus' symbol, Earth's symbol,
 Mars' symbol, Jupiter's symbol.
+;;
+Символ Меркурія, Венери, Землі, Марса, Юпітера
 
 41
 00:03:33,000 --> 00:03:34,500
 One day he said to Susan:
+;;
+Одного дня він сказав до Сюзан:
 
 42
 00:03:34,523 --> 00:03:37,371
 "What's this free family entertainment downtown Highland Park?"
+;;
+«Що це за безкоштовна сімейна розвага в центрі Гайленд-Парку?»
 
 43
 00:03:37,381 --> 00:03:40,261
 Free family entertainment downtown Highland Park
+;;
+безкоштовна сімейна розвага в центрі Гайленд-Парку
 
 44
 00:03:40,500 --> 00:03:42,000
 He was three at the time
+;;
+Йому тобі було три
 
 45
 00:03:42,500 --> 00:03:44,290
 She said: "What are you talking about?"
+;;
+Вона сказала: «Ти про що?»
 
 46
 00:03:44,300 --> 00:03:47,044
 He said: "Look it says here on on the refrigerator"
+Він відповів: «Подивися, що тут на холодильнику написано»
 
 47
 00:03:47,054 --> 00:03:49,190
 "Free family entertainment downtown Highland Park"
+;;
+«безкоштовна сімейна розвага в центрі Гайленд-Парку»
 
 48
 00:03:49,200 --> 00:03:54,800
 She was floored and astonished that he could read
+;;
+Вона була шокована і захоплена тим, що він міг читати
 
 49
 00:03:55,010 --> 00:03:59,512
 It's called: "My Family Seder"
+;;
+Вона називається: «Мій сімейний Седер»
 
 50
 00:04:00,094 --> 00:04:04,800
 The Seder night is different from all other nights
+;;
+Вечір на Седер є не таким, як усі інші
 
 51
 00:04:04,858 --> 00:04:08,518
 I remember once we were are the University of Chicago library
+;;
+Одного разу, пригадую, ми були в бібліотеці Чиказького університету
 
 52
 00:04:08,800 --> 00:04:12,320
 I pulled a book off the shelf that was from, like, 1900
+;;
+Я взяв з полиці книжку десь 1900-го року
 
 53
 00:04:12,589 --> 00:04:16,090
 and showed to him, I said: "You know this is really just an extraordinary place"
+;;
+Показав йому й сказав: «Знаєш, це дуже непересічне місце»
 
 54
 00:04:16,100 --> 00:04:22,152
 We all were curious children but Aaron really liked learning and really liked teaching
+;;
+Ми всі були повними цікавості дітьми, але Аарон дуже любив вчитися і навчати інших
 
 55
 00:04:22,225 --> 00:04:30,000
 Today we're going to learn the ABCs backwards z, y, x, w,...
+;;
+Сьогодні ми вчитимемося говорити абетку з кінця: z, y, x, w,...
 
 56
 00:04:31,752 --> 00:04:35,032
 I remember he came home from his first algebra class
+;;
+Одного дня, пригадую, він прийшов з першого уроку алгебри
 
 57
 00:04:35,090 --> 00:04:38,000
 he was like: "Noah, let me teach you algebra!"
+;;
+і тут же сказав: «Ной, давай я навчу тебе алгебри!»
 
 58
 00:04:38,625 --> 00:04:40,545
 and I'm like: "What is algebra?"
+;;
+а я кажу: «Що таке алгебра?»
 
 59
 00:04:40,785 --> 00:04:42,405
 and he was always like that
+;;
+він завжди був таким
 
 60
 00:04:42,800 --> 00:04:45,810
 Now I press button, click button
+;;
+Зараз я натискаю на кнопку, клацаю кнопку
 
 61
 00:04:46,600 --> 00:04:50,500
 there, now it's got that, now it's a pink
+;;
+тут, і воно розуміє, стає рожеве
 
 62
 00:04:52,109 --> 00:04:56,048
 When he was at 2 or 3 three years old and Bob introduced him to computers
+;;
+Коли йому було 2 чи 3, і Боб показав йому комп'ютер
 
 63
 00:04:56,058 --> 00:04:58,647
 then he just took off like crazy on them
+;;
+він дуже активно за них узявся
 
 64
 00:04:59,178 --> 00:05:02,712
 Go press that one, go to ABC
+;;
+Натискай цю, переходь до ABC
 
 65
 00:05:03,243 --> 00:05:08,247
 We all had computers, but Aaron really took to them, really took to the Internet
+;;
+У нас всіх були комп'ютери, але Аарон дійсно за це вхопився, дійсно вхопився за Інтернет
 
 66
 00:05:09,207 --> 00:05:10,535
 Looking at the computer?
+;;
+Дивишся на комп'ютер?
 
 67
 00:05:10,545 --> 00:05:13,545
 Nah... How could... Mommy, why is nothing working?
+;;
+Нєе... Як це... Мамцю, чому нічого не працює?
 
 68
 00:05:15,854 --> 00:05:18,142
 He started programming from a really young age.
+;;
+Він почав програмувати в дуже юному віці.
 
 69
 00:05:18,152 --> 00:05:21,771
 I remember the first program that I wrote with him was in basic
+;;
+Пригадую, перша програма, яку я з ним написав, була на Бейсіку
 
 70
 00:05:21,781 --> 00:05:24,334
 and it was a Star Wars trivia game
+;;
+і це була гра-квіз на тему Зоряних воєн
 
 71
 00:05:25,883 --> 00:05:29,500
 He sat down with me in the basement where the computer was
+;;
+Він сидів зі мною в підвалі, де був комп'ютер
 
 72
 00:05:29,600 --> 00:05:32,500
 for hours programming this game
+;;
+годинами, програмуючи цю гру
 
 73
 00:05:34,880 --> 00:05:38,237
 The problem that I kept having with him is that
 there was nothing that I wanted done
+;;
+У мене постійно була проблема —
+у мене не було чогось такого, що я б хотів зробити
 
 74
 00:05:38,247 --> 00:05:41,563
 and to him there was always something to do
+;;
+але він завжди бачив щось таке, що треба було зробити
 
 75
 00:05:41,600 --> 00:05:44,300
 always something that programming could solve
+;;
+щось таке, що можна було б розв'язати з допомогою програмування
 
 76
 00:05:47,185 --> 00:05:50,833
 The way Aaron always thought is that programming is magic, right,
+;;
+Аарон завжди вважав, що програмування — це магія,
 
 77
 00:05:50,843 --> 00:05:54,019
 you can accomplish these things that normal humans can't
+;;
+ви можете здійснити щось таке, що нормальні люди не можуть
 
 78
 00:05:54,029 --> 00:05:57,941
 Aaron made an ATM using like a Macintosh and like a cardboard box
+;;
+Аарон зробив банкомат з Макінтоша і картонної коробки
 
 79
 00:05:58,000 --> 00:06:01,700
 One year for Halloween I didn't know what I wanted to be
+;;
+Один раз на Гелловін я не знав, ким би хотів бути
 
 80
 00:06:01,800 --> 00:06:04,690
 and he thought it would be really really cool if I dressed up
+;;
+і він подумав, що було б дуже класно, якби я перевдягнувся
 
 81
 00:06:04,700 --> 00:06:08,900
 like his new favorite computer which at the time was the original iMac
+;;
+як його улюблений комп'ютер, тоді це був оригінальний iMac
 
 82
 00:06:09,025 --> 00:06:11,150
 I mean, he hated dressing up for Halloween
+;;
+Розумієте, він дуже не любив перевдягатися на Гелловін
 
 83
 00:06:11,160 --> 00:06:16,020
 but he loved convincing other people to dress up as other things he wanted to see
+;;
+але він любив заохочувати інших перевдягнутися у щось таке, що він хотів би бачити
 
 84
 00:06:16,470 --> 00:06:20,200
