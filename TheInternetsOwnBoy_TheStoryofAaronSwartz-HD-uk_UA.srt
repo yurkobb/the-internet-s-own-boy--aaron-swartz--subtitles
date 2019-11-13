@@ -499,70 +499,105 @@ but he loved convincing other people to dress up as other things he wanted to se
 00:06:16,470 --> 00:06:20,200
 Host Aaron, stop!
 Guys, come on, look at the camera
+;;
+Ведучий Аарон, стоп!
+Хлопці, давайте, дивіться в камеру
 
 85
 00:06:24,130 --> 00:06:28,174
 He made this website called "The Info"
+;;
+Він створив цей сайт під назво "Інфо"
 
 86
 00:06:28,247 --> 00:06:30,827
 where people could just fill in information
+;;
+де люди могли просто заповнювати інформацію
 
 87
 00:06:31,716 --> 00:06:34,775
 Like, I'm sure someone out there knows all about gold, gold leafing...
+;;
+Ну, точно десь є хтось, хто все знає про роботу з золотом і сухозлітне золото
 
 88
 00:06:34,785 --> 00:06:36,724
 Why don't they write about that on this website?
+;
+Чому б їм не написати про це на тому сайті?
 
 89
 00:06:36,734 --> 00:06:39,939
 And then other people could come at a later point and read that information
+;;
+І потім інші люди зможуть цю.інформсцію прочитати
 
 90
 00:06:39,949 --> 00:06:43,309
 and edit the information if they thought that it was bad
+;;
+і відредагувати її, якщо на їхню думку вона неправильна
 
 91
 00:06:43,650 --> 00:06:46,128
 Not too dissimilar from Wikipedia, all right?
+;;
+Нагадує Вікіпедію, чи не так?
 
 92
 00:06:46,138 --> 00:06:49,500
 This was before Wikipedia had begun
+;;
+Це все було ще перед тим, як з'явилася Вікіпедія
 
 93
 00:06:49,687 --> 00:06:52,011
 and this was developed by a 12 year old
+;;
+і це створив 12-річний хлопчина
 
 94
 00:06:52,021 --> 00:06:54,600
 in his room, by himself
+;;
+сам у своїй кімнаті
 
 95
 00:06:54,683 --> 00:06:58,574
 running on this tiny server using ancient technology
+;;
+і це працювало на маленькому сервері і старій технології
 
 96
 00:06:58,625 --> 00:07:00,800
 One of the teachers responds like:
+;;
+Один вчитель сказав на це:
 
 97
 00:07:01,541 --> 00:07:04,712
 "This is a terrible idea, you can't just let anyone
+;;
+"Це жахлива ідея, не можна просто дозволити будь-кому
 
 98
 00:07:04,756 --> 00:07:07,139
 author the dictionary, like, author the encyclopedia"
+;;
+писати словник, писати енциклопедію"
 
 99
 00:07:07,149 --> 00:07:10,290
 "The whole reason we have scholars is to write these books for us"
+;;
+"На те у нас і є науковці, щоб писати для нас ці книжки"
 
 100
 00:07:10,300 --> 00:07:12,586
 "How could you ever have such a terrible idea?"
+;;
+"Як тобі таке жпхіття могло спасти на думку?"
 
 101
 00:07:12,596 --> 00:07:14,840
