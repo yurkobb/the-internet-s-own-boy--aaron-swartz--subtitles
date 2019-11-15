@@ -602,146 +602,219 @@ author the dictionary, like, author the encyclopedia"
 101
 00:07:12,596 --> 00:07:14,840
 Me and my other brother would be like: "Oh, you know"
+;;
+Я і мій брат можемо сказати: "Знаєте,
 
 102
 00:07:14,850 --> 00:07:19,800
 "Yeah, Wikipedia is cool but we had that in our house, like 5 years ago"
+;;
+Вікіпедія класна, але у нас це було вдома так років з 5 тому"
 
 103
 00:07:21,490 --> 00:07:25,770
 Aaron's website "The Info.org" wins a school competition
+;;
+Сайт Аарона "The Info.org" перемагає на шільному конкурсі
 
 104
 00:07:25,800 --> 00:07:30,000
 hosted by the Cambridge based web design firm ArsDigita
+;;
+який організовувала базована в Кембриджі вебдизайнерська фірма ArsDigita
 
 105
 00:07:34,240 --> 00:07:37,738
 We all went to Cambridge when he won the ArsDigita Prize
+;;
+Ми всі поїхали до Кембриджа, коли виграли приз від ArsDigita
 
 106
 00:07:37,774 --> 00:07:39,793
 and, you know, we had no clue what Aaron was doing
+;;
+і ми не мали поняття, що Аарон робив
 
 107
 00:07:39,803 --> 00:07:43,156
 it was obvious that the prize was really important
+;;
+було очевидно, що ця нагорода була дуже важливою
 
 108
 00:07:44,261 --> 00:07:47,742
 Aaron soon became involved with on-line programming communities
+;;
+Невдовзі Аарон долучився до онлайноних програмістських спільнот
 
 109
 00:07:47,752 --> 00:07:50,932
 then in the process of shaping a new tool for the Web
+;;
+а потім - до процесу створення нового знаряддя для Вебу
 
 110
 00:07:51,460 --> 00:07:55,757
 He...comes up to me, it's like: "Ben, there's a really awesome thing that I'm working on"
+;;
+Він йде до мене й каже: "Бене, я зараз працюю над чимось дуже класним"
 
 111
 00:07:55,767 --> 00:07:57,700
 "you need to hear about it!"
+;;
+"я мушу тобі розказати"
 
 112
 00:07:57,760 --> 00:07:58,855
 I'm like: "Yeah, what is it?"
+;;
+Я йому кажу: "Так, в що це?"
 
 113
 00:07:58,865 --> 00:08:01,145
 He says: "It's this thing called RSS!"
+;;
+"Це називається RSS!"
 
 114
 00:08:02,510 --> 00:08:04,011
 And he explains to me what RSS is
+;;
+Далі він поя,нює, що таке RSS
 
 115
 00:08:04,021 --> 00:08:11,500
 and I'm like: "Why is that useful, Aaron? Is any site using it? Why would I want to use it?"
+;;
+І я питаю: "Чим це корисно? Якісь сайти це використовують? Чим би це було корисно мені?"
 
 116
 00:08:11,672 --> 00:08:15,150
 There was this mailing list for people who were working on RSS
+;;
+Була ця поштова конференція, де люди працювали над розробкою RSS
 
 117
 00:08:15,160 --> 00:08:19,374
 and XML more generally and there was a person on it named Aaron Swartz
+;;
+та, ширше, XML, і там була людина, яку звали Аарон Шварц
 
 118
 00:08:19,400 --> 00:08:23,600
 who was combative but very smart and who had lots of good ideas
+;;
+він мав багато гарних ідей, хоч часом був схильний сперечатися
 
 119
 00:08:23,700 --> 00:08:28,330
 and he didn't ever come to the face to face meetings and they said:
+;;
+він ніколи не приходив на офлайнові зустрічі, тому одного ращу його спитали:
 
 120
 00:08:28,349 --> 00:08:32,084
 "You know, when are you gonna come out to one of those face to face meetings?"
+;;
+"Коли ти прийдеш на якусь із циз зустрічей?"
 
 121
 00:08:32,094 --> 00:08:37,300
 He said: "You know, I don't think my mom would let me, you know I just turned 14"
+;;
+Він відповів: "Я не знаю, чи мені мама дозволить - мені ж тільки 14 недавно виповниося"
 
 122
 00:08:37,400 --> 00:08:39,655
 So their first reaction was, well you know,
+;;
+Їхня перша реакція була:
 
 123
 00:08:39,665 --> 00:08:42,542
 "This person, this colleague we've been working with all year
+;;
+"Ця людина, цей колега, з яким ми працювали весь рік"
 
 124
 00:08:42,552 --> 00:08:46,589
 was 13 years old when we were working with him and is only 14 now!"
+;;
+"Йому було всього 13, коли ми з ним працювали, і зараз йому всього 14!"
+
 
 125
 00:08:46,683 --> 00:08:49,459
 and their second reaction was: "Christ, we really want to meet him!"
+;;
+а насицпною реакцією було: "Господи, ми хочемо з ним зустрітися"
 
 126
 00:08:49,469 --> 00:08:50,920
 you know, "That's extraordinary!"
+;;
+"це ж неймовірно!"
 
 127
 00:08:50,930 --> 00:08:53,466
 He was part of the committee that drafted RSS
+;;
+Він належав до комітету, який написав RSS
 
 128
 00:08:53,476 --> 00:08:59,236
 What he was doing was to help build the plumbing for modern hypertext
+;;
+Він допомагав "прокладати труби" для сучасногт гіпертексту
 
 129
 00:08:59,800 --> 00:09:02,705
 and the piece that he was working on, RSS
+;;
+а ця деталь, над якою він працював, RSS,
 
 130
 00:09:02,756 --> 00:09:05,800
 was a tool that you can use to get summaries
+;;
+дає вам можливість отримувати резюме оновлень
 
 131
 00:09:05,854 --> 00:09:08,317
 of things that are going on on other web pages
+;;
+того, що відбувається на вебсторінках
 
 132
 00:09:08,327 --> 00:09:10,855
 Most commonly, you would use this for a blog
+;;
+Зазвичай це використовують на блоґах
 
 133
 00:09:10,865 --> 00:09:13,924
 You might have 10 or 20 people's blogs you wanna read
+;;
+У вас може бути 10 чи 20 блоґів які ви читаєте
 
 134
 00:09:13,934 --> 00:09:18,644
 you use their RSS feeds, these summaries of what's going on on those other pages
+;;
+Ви можете використати RSS, ці стрічки оновлень різних вебстрінок
 
 135
 00:09:18,654 --> 00:09:22,400
 to create a unified list of all the stuff that's going on
+;;
+щоб мати об'єднаний список того, що там відбуваєтся
 
 136
 00:09:22,458 --> 00:09:26,000
 Aaron was really young but he understood the technology
+;;
+Аарон був дуже юним, коли він зрозумів технологію
 
 137
 00:09:26,050 --> 00:09:30,550
