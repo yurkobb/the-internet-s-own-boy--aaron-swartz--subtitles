@@ -814,15 +814,19 @@ to create a unified list of all the stuff that's going on
 00:09:22,458 --> 00:09:26,000
 Aaron was really young but he understood the technology
 ;;
-Аарон був дуже юним, коли він зрозумів технологію
+Аарон був дуже юним, але він розумів технологію
 
 137
 00:09:26,050 --> 00:09:30,550
 and he saw that it was imperfect and looked for ways to help make it better
+;;
+і бачив її недосконалості, й тому шукав можливість допомогти її вдосконалювати
 
 138
 00:09:35,500 --> 00:09:39,890
 So his mom started bundling him on planes in Chicago, we'd pick him up in San Francisco
+;;
+Його мама посадила на літак у Чикаго, а ми його зустріли в Сан-Франциско
 
 139
 00:09:39,900 --> 00:09:42,782
