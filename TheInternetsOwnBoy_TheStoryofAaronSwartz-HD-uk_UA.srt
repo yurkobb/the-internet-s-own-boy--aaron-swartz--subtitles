@@ -831,115 +831,172 @@ So his mom started bundling him on planes in Chicago, we'd pick him up in San Fr
 139
 00:09:39,900 --> 00:09:42,782
 we introduced him to interesting people to argue with
+;;
+Ми познайомили його з цікавими людьми, з якими можна буоо дискутувати
 
 140
 00:09:42,792 --> 00:09:45,255
 and we marveled at his horrific eating habits
+;;
+і ми дивувалися з його неймовірних харчових звичок
 
 141
 00:09:45,265 --> 00:09:48,484
 he only ate white food, only like, you know, steamed rice
+;;
+він їв лише білу їжу, наприклад тільки парений рис
 
 142
 00:09:48,494 --> 00:09:51,284
 and not fried rice, because that wasn't sufficiently white,
+;;
+але не смажений, бо він був замало білим
 
 143
 00:09:51,294 --> 00:09:53,800
 and white bread, and so on
+;;
+і білий хліб, і так далі
 
 144
 00:09:53,847 --> 00:09:57,927
 and you kind of marvel at the quality of the debate
+;;
+і вас зачаровувала якість дискусії
 
 145
 00:09:57,949 --> 00:10:01,051
 emerging from what appeared to be a small boy's mouth
+;;
+яку вів, здавалося б, такий малий хлопчина
 
 146
 00:10:01,061 --> 00:10:04,710
 and you think, you know, this is a kid who is really going to go somewhere if he doesn't die of scurvy
+;;
+і ви думаєте собі: він з тих дітей, які далеко зайдуть, якщо не помруть від цинги
+
 
 147
 00:10:04,720 --> 00:10:05,927
 Aaron you're up
+;;
+Аароне, твоя черга
 
 148
 00:10:06,887 --> 00:10:10,130
 I think the difference is that now you can't make companies like that per-se
+;;
+Думаю  що різниця в тому, що ви ее можете створювати таких компаній per se
 
 149
 00:10:10,140 --> 00:10:12,208
 you can't have companies that just like
+;;
+компаній, чия філософія - це
 
 150
 00:10:12,218 --> 00:10:15,720
 "let's sell dog food over the Internet, dog food over the cellphones"
+;;
+"нумо продавати корм для собак в Інтернеті чи через мобільні телефони""
 
 151
 00:10:15,730 --> 00:10:18,106
 but there is still a lot of innovation going on,
+;;
+але все одно відбувається багато інновації,
 
 152
 00:10:18,116 --> 00:10:21,546
 I think, if you don't see the innovation maybe your head is in the sand
+;;
+Думаю, якщо ви не бачите інновації, мабуть у вас голов в піску
 
 153
 00:10:21,556 --> 00:10:25,400
 He takes on this "Alpha Nerd" personality where he's sort of like
+;;
+Він обирає цей стиль поведінки своєрідного "Альфа-нерда", це приблизно:
 
 154
 00:10:25,410 --> 00:10:27,713
 "I'm smarter than you, and because I'm smarter than you
+;;
+"Оскільки я розумніший за тебе,"
 
 155
 00:10:27,723 --> 00:10:29,997
 I'm better than you, and I can tell you what to do"
+;;
+"я кращий за тебе, і можу казати тобі, що робити"
 
 156
 00:10:30,007 --> 00:10:34,500
 It's an extension of him being kind of like a twerp. [Chuckles].
+;;
+Це доповнення до того, що він був ніби "малявкою"
 
 157
 00:10:35,100 --> 00:10:38,615
 So you aggregate all these computers together and now they're solving big problems
+;;
+Отож ви збираєте всі ці комп'ютери разом і тепер вони розв'язують великі проблеми
 
 158
 00:10:38,625 --> 00:10:42,000
 like searching for aliens or trying to cure cancer
+;;
+як то пошук інопланетян чи ліуюків від раку
 
 159
 00:10:45,003 --> 00:10:49,600
 First met him on IRC, on Internet Relay Chat, he didn't just write code
+;;
+Вперше ми познайомилися в IRC [такій чатовій системі], він не просто писав код
 
 160
 00:10:49,650 --> 00:10:55,600
 he also got people excited about solving problems, he was a connector
+;;
+він також мотивував людей розв'язувати проблеми, він був об'єднувачем
 
 161
 00:10:55,658 --> 00:10:58,346
 the free culture movement, which had lot of his energy
+;;
+рух за вільну культуру, в який він вклав багато енергії
 
 162
 00:10:58,356 --> 00:11:03,600
 I think Aaron was trying to make the world work.
 He was trying to fix it
+;;
+Я важаю, що Аарон намагався зробити так, щоб світ працював. Він намагався поремонтувати його
 
 163
 00:11:03,800 --> 00:11:05,990
 He had a very kind of strong personality,
+;;
+Він був доволі сильною особистістю,
 
 164
 00:11:06,000 --> 00:11:08,661
 that definitely ruffled feathers at times.
+;;
+безумовно, часом це здіймало пилюку
 
 165
 00:11:08,705 --> 00:11:13,500
 It wasn't necessarily the case that he was always comfortable in the world
+;;
+Не можна сказати, що йому було комфортно в цьому світі як він є
 
 166
 00:11:13,556 --> 00:11:16,496
 and the world wasn't always comfortable with him.
+;;
+і світові теж не завжди було з ним комфортно.
 
 167
 00:11:19,287 --> 00:11:23,040
@@ -1008,79 +1065,117 @@ and how this educational system was developed
 183
 00:12:08,378 --> 00:12:12,266
 and, you know, alternatives to it, and ways that people could actually learn things
+;;
+і, власне, про альтенативи - способи, як люди можуть справді чогось навчитися
 
 184
 00:12:12,276 --> 00:12:14,890
 as opposed to just regurgitating facts that the teachers told them
+;;
+на відміну від простого блювання завченими фактами
 
 185
 00:12:14,900 --> 00:12:17,640
 and that kind of led me down this path of questioning things
+;;
+і таким чином я почав ставити під сумнів різні речі
 
 186
 00:12:17,650 --> 00:12:21,553
 you know, once I questioned the school I was in, I questioned the society that built the school
+;;
+скажімо, коли я поставив під сумнів шуолу, в якій я був, я почав ставити під сумнів суспільство, яке цю школу створило
 
 187
 00:12:21,563 --> 00:12:24,782
 I questioned the businesses that the schools were training people for
+;;
+я почав ставити під сумнів бізнес, для якого школи готують людей
 
 188
 00:12:24,792 --> 00:12:28,011
 I questioned the government that, you know, setup this whole structure
+;;
+Я ставив під сумнів уряд, який, самі розумієте, створив усю цю структуру
 
 189
 00:12:28,021 --> 00:12:30,484
 One of the things he was more passionate about was copyright,
+;;
+Серед речей, якимм він переймався, було авторське право,
 
 190
 00:12:30,494 --> 00:12:31,830
 especially in those early days
+;;
+особливо в цей ранній період
 
 191
 00:12:31,840 --> 00:12:37,236
 Copyright has always been something of a burden on the publishing industry and on readers
+;;
+Авторське право завжди створювало навантаження на видавничу індустрію та на читачів
 
 192
 00:12:38,181 --> 00:12:41,069
 but it wasn't an excessive burden
+;;
+але цей тягар не був занадто важким
 
 193
 00:12:41,100 --> 00:12:46,200
 it was a reasonable institution to have in place
 to make sure that people got paid
+;;
+це була виправдана система для того, щоб люди отримували плату за свою працю
 
 194
 00:12:46,254 --> 00:12:50,100
 What Aaron's generation experienced was the collision
+;;
+Але покоління Аарона зіштовхнулося з колізією
 
 195
 00:12:50,145 --> 00:12:52,800
 between this antique copyright system
+;;
+між цією старою системою авторського права
 
 196
 00:12:52,930 --> 00:12:56,622
 and this amazing new thing we were trying to build, the Internet and the Web
+;;
+і цим захопливим новим явищем, яке ми намагалися побудувати - Інтернетом і Вебом
 
 197
 00:12:56,632 --> 00:13:00,000
 These things collided and what we got was chaos
+;;
+Ці речі зіштовхнулися й ми отримали хаос
 
 198
 00:13:02,494 --> 00:13:05,434
 He then met Harvard Law professor Lawrence Lessig
+;;
+Тоді він зустрівся з професором права у Гарварді Лоренсом Лессіґом
 
 199
 00:13:05,476 --> 00:13:08,890
 who was then challenging copyright law in the supreme court
+;;
+який на у той час боровся з обмеженнями авторського права у верховному суді
 
 200
 00:13:08,900 --> 00:13:13,277
 A young Aaron Swartz flew to Washington to listen to the supreme court hearings
+;;
+Молодий Аарон Шварц полетів до Вашингтона, щоб послухаити засідання верховного суду
 
 201
 00:13:13,287 --> 00:13:18,090
 I'm Aaron Swartz and I'm here to listen to the Eldred...to see the Eldred argument
+;;
+
 
 202
 00:13:18,100 --> 00:13:23,190
