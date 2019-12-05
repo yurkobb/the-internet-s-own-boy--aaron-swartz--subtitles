@@ -13,219 +13,219 @@ He was totally unexcited about starting businesses and making money
 4
 00:01:09,941 --> 00:01:14,861
 There's a profound sense of loss tonight in Highland Park, Aaron Swartz's hometown
-;;
+//
 Глибоке відчуття втрати панує зараз у Гайленд Парку, місті, де Аарон народився
 
 5
 00:01:14,909 --> 00:01:18,929
 as loved ones say goodbye to one of the Internet's brightest lights
-;;
+//
 коли близькі прощаются з одним з найсвітліших умів Інтернету
 
 6
 00:01:19,000 --> 00:01:22,270
 ...Open Access and computer activists are mourning his loss
-;;
+//
 ...Відкритий Доступ і цифрові активіст(к)и в жалобі
 
 7
 00:01:22,280 --> 00:01:25,204
 ...an astonishing intellect. You talk to people who knew his
-;;
+//
 ...надзвичайний інтелект. Ви розмовляєте з людьми, які знали його
 
 8
 00:01:25,214 --> 00:01:29,590
 ...he was killed by the government and MIT betrayed all of its basic principle
-;;
+//
 ...його вбив уряд, а MIT зрадили всі свої основні принципи
 
 9
 00:01:29,600 --> 00:01:34,283
 ...they wanted to make an example out of him, ok?
-;;
+//
 ...вони хотіли зробити з нього приклад, гаразд?
 
 10
 00:01:34,865 --> 00:01:39,000
 Governments have an insatiable desire to control
-;;xx
+//xx
 
 11
 00:01:39,100 --> 00:01:43,400
 ...he was potentially facing 35 years in prison and a 1 million dollar fine
-;;
+//
 ...його чекало до 35 років в'язниці та мільйон доларів штрафу
 
 12
 00:01:43,410 --> 00:01:49,076
 Raising questions of prosecutorial zeal and I would say even misconduct.
-;;xx
+//xx
 
 
 13
 00:01:49,141 --> 00:01:54,600
 Have you looked into that particular matter and reached any conclusions?
-;;
+//
 Ви розглядали це питання й дійшли якихось висновків?
 
 14
 00:01:57,700 --> 00:02:00,673
 Growing up, you know, I slowly had this process of realizing
-;;
+//
 Дорослішаючи, знаєте, я поступово починав усвідомлювати
 
 15
 00:02:00,683 --> 00:02:02,840
 that all the things around me, that people had told me
-;;
+//
 що речі довкола мене, про які мені казали, що вони
 
 16
 00:02:02,850 --> 00:02:06,215
 were just the natural way things were, the way things always would be.
-;;
+//
 є такими від природи, і завжди такими будуть,
 
 17
 00:02:06,225 --> 00:02:08,579
 They weren't natural at all. They were things that could be changed
-;;
+//
 насправді ці речі зовсім не природні. Ці речі можна змінити
 
 18
 00:02:08,589 --> 00:02:11,728
 and they were thing that more importantly were wrong and should change.
-;;
+//
 і, що важливіше, ці речі є неправильним і їх потрібно змінити.
 
 
 19
 00:02:11,738 --> 00:02:15,578
 And once I realized that, there was really kind of no going back
-;;
+//
 І коли я це зрозумів, можна сказати, для мене вже не було зворотнього шляху
 
 20
 00:02:24,101 --> 00:02:27,134
 Welcome to story reading time
-;;
+//
 Почитаємо казку!
 
 21
 00:02:27,992 --> 00:02:32,000
 The name of the book is 'Paddington at the Fair'
-;;
+//
 Назва книжки — «Паддінґтон на ярмарку»
 
 22
 00:02:32,952 --> 00:02:36,500
 Well, he was born in Highland Park and grew up here
-;;
+//
 Отож, він народився й виріс тут у Гайленд-Парку
 
 23
 00:02:36,552 --> 00:02:40,090
 Aaron came from a family of three brothers, all extraordinarily bright
-;;
+//
 Сім'я Аарона — це три брати, усі дуже талановиті
 
 24
 00:02:40,100 --> 00:02:42,370
 The box is flipping over!
-;;
+//
 Коробка перекидається!
 
 25
 00:02:44,574 --> 00:02:47,800
 So, we were all, you know, not the best behaved children
-;;
+//
 Ми всі були, ясна річ, не дуже чемними дітисками
 
 26
 00:02:47,810 --> 00:02:51,590
 you know, three boys running around all the time, causing trouble
-;;
+//
 Три хлопчаки бігають довкола, влаштовують якийсь клопіт
 
 27
 00:02:51,600 --> 00:02:55,100
 Mom: No, no, no... Aaron!?
 Aaron: What?
-;;
+//
 Мама: Ні, ні, ні... Аарон!?
 Аарон: Що?
 
 28
 00:02:55,556 --> 00:03:00,807
 But, I've come to the realization: Aaron learned how to learn at a very young age
-;;
+//
 Але я усвідомив: Аарон навчився вчитися в дуже ранньому віці
 
 29
 00:03:00,807 --> 00:03:06,500
 One, two, three, four, five, six, seven, eight, nine, ten!
-;;
+//
 Один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять!
 
 30
 00:03:06,500 --> 00:03:07,700
 Knock, knock!
-;;
+//
 Стук-стук!
 
 31
 00:03:07,800 --> 00:03:08,800
 Who's here?
-;;
+//
 Хто там?
 
 32
 00:03:08,900 --> 00:03:09,800
 Aaron!
-;;
+//
 Аарон!
 
 33
 00:03:09,900 --> 00:03:10,836
 Aaron who?
-;;
+//
 Аарон хто?
 
 34
 00:03:10,887 --> 00:03:12,500
 Aaron funny man!
-;;
+//
 Аарон веселун!
 
 35
 00:03:12,640 --> 00:03:14,862
 He knew what he wanted, he always wanted to do it.
-;;
+//
 Він знав, чого хотів, і завжди хотів це здійснити.
 
 36
 00:03:14,872 --> 00:03:17,152
 He always accomplished what he wanted.
-;;
+//
 Він завжди досягав того, чого хотів.
 
 37
 00:03:18,320 --> 00:03:20,800
 His curiosity was endless
-;;
+//
 Його цікавість була безконечною
 
 38
 00:03:21,150 --> 00:03:24,950
 Here's the little picture of what the planets are
-;;
+//
 Ось тут зображено, які існують планети
 
 39
 00:03:25,020 --> 00:03:27,000
 and each planet has a symbol:
-;;
+//
 кожна планета має символ:
 
 
@@ -233,37 +233,37 @@ and each planet has a symbol:
 00:03:27,080 --> 00:03:32,950
 Mercury's symbol, Venus' symbol, Earth's symbol,
 Mars' symbol, Jupiter's symbol.
-;;
+//
 Символ Меркурія, Венери, Землі, Марса, Юпітера
 
 41
 00:03:33,000 --> 00:03:34,500
 One day he said to Susan:
-;;
+//
 Одного дня він сказав до Сюзан:
 
 42
 00:03:34,523 --> 00:03:37,371
 "What's this free family entertainment downtown Highland Park?"
-;;
+//
 «Що це за безкоштовна сімейна розвага в центрі Гайленд-Парку?»
 
 43
 00:03:37,381 --> 00:03:40,261
 Free family entertainment downtown Highland Park
-;;
+//
 безкоштовна сімейна розвага в центрі Гайленд-Парку
 
 44
 00:03:40,500 --> 00:03:42,000
 He was three at the time
-;;
+//
 Йому тобі було три
 
 45
 00:03:42,500 --> 00:03:44,290
 She said: "What are you talking about?"
-;;
+//
 Вона сказала: «Ти про що?»
 
 46
@@ -274,251 +274,251 @@ He said: "Look it says here on on the refrigerator"
 47
 00:03:47,054 --> 00:03:49,190
 "Free family entertainment downtown Highland Park"
-;;
+//
 «безкоштовна сімейна розвага в центрі Гайленд-Парку»
 
 48
 00:03:49,200 --> 00:03:54,800
 She was floored and astonished that he could read
-;;
+//
 Вона була шокована і захоплена тим, що він міг читати
 
 49
 00:03:55,010 --> 00:03:59,512
 It's called: "My Family Seder"
-;;
+//
 Вона називається: «Мій сімейний Седер»
 
 50
 00:04:00,094 --> 00:04:04,800
 The Seder night is different from all other nights
-;;
+//
 Вечір на Седер є не таким, як усі інші
 
 51
 00:04:04,858 --> 00:04:08,518
 I remember once we were are the University of Chicago library
-;;
+//
 Одного разу, пригадую, ми були в бібліотеці Чиказького університету
 
 52
 00:04:08,800 --> 00:04:12,320
 I pulled a book off the shelf that was from, like, 1900
-;;
+//
 Я взяв з полиці книжку десь 1900-го року
 
 53
 00:04:12,589 --> 00:04:16,090
 and showed to him, I said: "You know this is really just an extraordinary place"
-;;
+//
 Показав йому й сказав: «Знаєш, це дуже непересічне місце»
 
 54
 00:04:16,100 --> 00:04:22,152
 We all were curious children but Aaron really liked learning and really liked teaching
-;;
+//
 Ми всі були повними цікавості дітьми, але Аарон дуже любив вчитися і навчати інших
 
 55
 00:04:22,225 --> 00:04:30,000
 Today we're going to learn the ABCs backwards z, y, x, w,...
-;;
+//
 Сьогодні ми вчитимемося говорити абетку з кінця: z, y, x, w,...
 
 56
 00:04:31,752 --> 00:04:35,032
 I remember he came home from his first algebra class
-;;
+//
 Одного дня, пригадую, він прийшов з першого уроку алгебри
 
 57
 00:04:35,090 --> 00:04:38,000
 he was like: "Noah, let me teach you algebra!"
-;;
+//
 і тут же сказав: «Ной, давай я навчу тебе алгебри!»
 
 58
 00:04:38,625 --> 00:04:40,545
 and I'm like: "What is algebra?"
-;;
+//
 а я кажу: «Що таке алгебра?»
 
 59
 00:04:40,785 --> 00:04:42,405
 and he was always like that
-;;
+//
 він завжди був таким
 
 60
 00:04:42,800 --> 00:04:45,810
 Now I press button, click button
-;;
+//
 Зараз я натискаю на кнопку, клацаю кнопку
 
 61
 00:04:46,600 --> 00:04:50,500
 there, now it's got that, now it's a pink
-;;
+//
 тут, і воно розуміє, стає рожеве
 
 62
 00:04:52,109 --> 00:04:56,048
 When he was at 2 or 3 three years old and Bob introduced him to computers
-;;
+//
 Коли йому було 2 чи 3, і Боб показав йому комп'ютер
 
 63
 00:04:56,058 --> 00:04:58,647
 then he just took off like crazy on them
-;;
+//
 він дуже активно за них узявся
 
 64
 00:04:59,178 --> 00:05:02,712
 Go press that one, go to ABC
-;;
+//
 Натискай цю, переходь до ABC
 
 65
 00:05:03,243 --> 00:05:08,247
 We all had computers, but Aaron really took to them, really took to the Internet
-;;
+//
 У нас всіх були комп'ютери, але Аарон дійсно за це вхопився, дійсно вхопився за Інтернет
 
 66
 00:05:09,207 --> 00:05:10,535
 Looking at the computer?
-;;
+//
 Дивишся на комп'ютер?
 
 67
 00:05:10,545 --> 00:05:13,545
 Nah... How could... Mommy, why is nothing working?
-;;
+//
 Нєе... Як це... Мамцю, чому нічого не працює?
 
 68
 00:05:15,854 --> 00:05:18,142
 He started programming from a really young age.
-;;
+//
 Він почав програмувати в дуже юному віці.
 
 69
 00:05:18,152 --> 00:05:21,771
 I remember the first program that I wrote with him was in basic
-;;
+//
 Пригадую, перша програма, яку я з ним написав, була на Бейсіку
 
 70
 00:05:21,781 --> 00:05:24,334
 and it was a Star Wars trivia game
-;;
+//
 і це була гра-квіз на тему Зоряних воєн
 
 71
 00:05:25,883 --> 00:05:29,500
 He sat down with me in the basement where the computer was
-;;
+//
 Він сидів зі мною в підвалі, де був комп'ютер
 
 72
 00:05:29,600 --> 00:05:32,500
 for hours programming this game
-;;
+//
 годинами, програмуючи цю гру
 
 73
 00:05:34,880 --> 00:05:38,237
 The problem that I kept having with him is that
 there was nothing that I wanted done
-;;
+//
 У мене постійно була проблема —
 у мене не було чогось такого, що я б хотів зробити
 
 74
 00:05:38,247 --> 00:05:41,563
 and to him there was always something to do
-;;
+//
 але він завжди бачив щось таке, що треба було зробити
 
 75
 00:05:41,600 --> 00:05:44,300
 always something that programming could solve
-;;
+//
 щось таке, що можна було б розв'язати з допомогою програмування
 
 76
 00:05:47,185 --> 00:05:50,833
 The way Aaron always thought is that programming is magic, right,
-;;
+//
 Аарон завжди вважав, що програмування — це магія,
 
 77
 00:05:50,843 --> 00:05:54,019
 you can accomplish these things that normal humans can't
-;;
+//
 ви можете здійснити щось таке, що нормальні люди не можуть
 
 78
 00:05:54,029 --> 00:05:57,941
 Aaron made an ATM using like a Macintosh and like a cardboard box
-;;
+//
 Аарон зробив банкомат з Макінтоша і картонної коробки
 
 79
 00:05:58,000 --> 00:06:01,700
 One year for Halloween I didn't know what I wanted to be
-;;
+//
 Один раз на Гелловін я не знав, ким би хотів бути
 
 80
 00:06:01,800 --> 00:06:04,690
 and he thought it would be really really cool if I dressed up
-;;
+//
 і він подумав, що було б дуже класно, якби я перевдягнувся
 
 81
 00:06:04,700 --> 00:06:08,900
 like his new favorite computer which at the time was the original iMac
-;;
+//
 як його улюблений комп'ютер, тоді це був оригінальний iMac
 
 82
 00:06:09,025 --> 00:06:11,150
 I mean, he hated dressing up for Halloween
-;;
+//
 Розумієте, він дуже не любив перевдягатися на Гелловін
 
 83
 00:06:11,160 --> 00:06:16,020
 but he loved convincing other people to dress up as other things he wanted to see
-;;
+//
 але він любив заохочувати інших перевдягнутися у щось таке, що він хотів би бачити
 
 84
 00:06:16,470 --> 00:06:20,200
 Host Aaron, stop!
 Guys, come on, look at the camera
-;;
+//
 Ведучий Аарон, стоп!
 Хлопці, давайте, дивіться в камеру
 
 85
 00:06:24,130 --> 00:06:28,174
 He made this website called "The Info"
-;;
+//
 Він створив цей сайт під назво "Інфо"
 
 86
 00:06:28,247 --> 00:06:30,827
 where people could just fill in information
-;;
+//
 де люди могли просто заповнювати інформацію
 
 87
 00:06:31,716 --> 00:06:34,775
 Like, I'm sure someone out there knows all about gold, gold leafing...
-;;
+//
 Ну, точно десь є хтось, хто все знає про роботу з золотом і сухозлітне золото
 
 88
@@ -530,472 +530,472 @@ Why don't they write about that on this website?
 89
 00:06:36,734 --> 00:06:39,939
 And then other people could come at a later point and read that information
-;;
+//
 І потім інші люди зможуть цю.інформсцію прочитати
 
 90
 00:06:39,949 --> 00:06:43,309
 and edit the information if they thought that it was bad
-;;
+//
 і відредагувати її, якщо на їхню думку вона неправильна
 
 91
 00:06:43,650 --> 00:06:46,128
 Not too dissimilar from Wikipedia, all right?
-;;
+//
 Нагадує Вікіпедію, чи не так?
 
 92
 00:06:46,138 --> 00:06:49,500
 This was before Wikipedia had begun
-;;
+//
 Це все було ще перед тим, як з'явилася Вікіпедія
 
 93
 00:06:49,687 --> 00:06:52,011
 and this was developed by a 12 year old
-;;
+//
 і це створив 12-річний хлопчина
 
 94
 00:06:52,021 --> 00:06:54,600
 in his room, by himself
-;;
+//
 сам у своїй кімнаті
 
 95
 00:06:54,683 --> 00:06:58,574
 running on this tiny server using ancient technology
-;;
+//
 і це працювало на маленькому сервері і старій технології
 
 96
 00:06:58,625 --> 00:07:00,800
 One of the teachers responds like:
-;;
+//
 Один вчитель сказав на це:
 
 97
 00:07:01,541 --> 00:07:04,712
 "This is a terrible idea, you can't just let anyone
-;;
+//
 "Це жахлива ідея, не можна просто дозволити будь-кому
 
 98
 00:07:04,756 --> 00:07:07,139
 author the dictionary, like, author the encyclopedia"
-;;
+//
 писати словник, писати енциклопедію"
 
 99
 00:07:07,149 --> 00:07:10,290
 "The whole reason we have scholars is to write these books for us"
-;;
+//
 "На те у нас і є науковці, щоб писати для нас ці книжки"
 
 100
 00:07:10,300 --> 00:07:12,586
 "How could you ever have such a terrible idea?"
-;;
+//
 "Як тобі таке жпхіття могло спасти на думку?"
 
 101
 00:07:12,596 --> 00:07:14,840
 Me and my other brother would be like: "Oh, you know"
-;;
+//
 Я і мій брат можемо сказати: "Знаєте,
 
 102
 00:07:14,850 --> 00:07:19,800
 "Yeah, Wikipedia is cool but we had that in our house, like 5 years ago"
-;;
+//
 Вікіпедія класна, але у нас це було вдома так років з 5 тому"
 
 103
 00:07:21,490 --> 00:07:25,770
 Aaron's website "The Info.org" wins a school competition
-;;
+//
 Сайт Аарона "The Info.org" перемагає на шільному конкурсі
 
 104
 00:07:25,800 --> 00:07:30,000
 hosted by the Cambridge based web design firm ArsDigita
-;;
+//
 який організовувала базована в Кембриджі вебдизайнерська фірма ArsDigita
 
 105
 00:07:34,240 --> 00:07:37,738
 We all went to Cambridge when he won the ArsDigita Prize
-;;
+//
 Ми всі поїхали до Кембриджа, коли виграли приз від ArsDigita
 
 106
 00:07:37,774 --> 00:07:39,793
 and, you know, we had no clue what Aaron was doing
-;;
+//
 і ми не мали поняття, що Аарон робив
 
 107
 00:07:39,803 --> 00:07:43,156
 it was obvious that the prize was really important
-;;
+//
 було очевидно, що ця нагорода була дуже важливою
 
 108
 00:07:44,261 --> 00:07:47,742
 Aaron soon became involved with on-line programming communities
-;;
+//
 Невдовзі Аарон долучився до онлайноних програмістських спільнот
 
 109
 00:07:47,752 --> 00:07:50,932
 then in the process of shaping a new tool for the Web
-;;
+//
 а потім - до процесу створення нового знаряддя для Вебу
 
 110
 00:07:51,460 --> 00:07:55,757
 He...comes up to me, it's like: "Ben, there's a really awesome thing that I'm working on"
-;;
+//
 Він йде до мене й каже: "Бене, я зараз працюю над чимось дуже класним"
 
 111
 00:07:55,767 --> 00:07:57,700
 "you need to hear about it!"
-;;
+//
 "я мушу тобі розказати"
 
 112
 00:07:57,760 --> 00:07:58,855
 I'm like: "Yeah, what is it?"
-;;
+//
 Я йому кажу: "Так, в що це?"
 
 113
 00:07:58,865 --> 00:08:01,145
 He says: "It's this thing called RSS!"
-;;
+//
 "Це називається RSS!"
 
 114
 00:08:02,510 --> 00:08:04,011
 And he explains to me what RSS is
-;;
+//
 Далі він поя,нює, що таке RSS
 
 115
 00:08:04,021 --> 00:08:11,500
 and I'm like: "Why is that useful, Aaron? Is any site using it? Why would I want to use it?"
-;;
+//
 І я питаю: "Чим це корисно? Якісь сайти це використовують? Чим би це було корисно мені?"
 
 116
 00:08:11,672 --> 00:08:15,150
 There was this mailing list for people who were working on RSS
-;;
+//
 Була ця поштова конференція, де люди працювали над розробкою RSS
 
 117
 00:08:15,160 --> 00:08:19,374
 and XML more generally and there was a person on it named Aaron Swartz
-;;
+//
 та, ширше, XML, і там була людина, яку звали Аарон Шварц
 
 118
 00:08:19,400 --> 00:08:23,600
 who was combative but very smart and who had lots of good ideas
-;;
+//
 він мав багато гарних ідей, хоч часом був схильний сперечатися
 
 119
 00:08:23,700 --> 00:08:28,330
 and he didn't ever come to the face to face meetings and they said:
-;;
+//
 він ніколи не приходив на офлайнові зустрічі, тому одного ращу його спитали:
 
 120
 00:08:28,349 --> 00:08:32,084
 "You know, when are you gonna come out to one of those face to face meetings?"
-;;
+//
 "Коли ти прийдеш на якусь із циз зустрічей?"
 
 121
 00:08:32,094 --> 00:08:37,300
 He said: "You know, I don't think my mom would let me, you know I just turned 14"
-;;
+//
 Він відповів: "Я не знаю, чи мені мама дозволить - мені ж тільки 14 недавно виповниося"
 
 122
 00:08:37,400 --> 00:08:39,655
 So their first reaction was, well you know,
-;;
+//
 Їхня перша реакція була:
 
 123
 00:08:39,665 --> 00:08:42,542
 "This person, this colleague we've been working with all year
-;;
+//
 "Ця людина, цей колега, з яким ми працювали весь рік"
 
 124
 00:08:42,552 --> 00:08:46,589
 was 13 years old when we were working with him and is only 14 now!"
-;;
+//
 "Йому було всього 13, коли ми з ним працювали, і зараз йому всього 14!"
 
 
 125
 00:08:46,683 --> 00:08:49,459
 and their second reaction was: "Christ, we really want to meet him!"
-;;
+//
 а насицпною реакцією було: "Господи, ми хочемо з ним зустрітися"
 
 126
 00:08:49,469 --> 00:08:50,920
 you know, "That's extraordinary!"
-;;
+//
 "це ж неймовірно!"
 
 127
 00:08:50,930 --> 00:08:53,466
 He was part of the committee that drafted RSS
-;;
+//
 Він належав до комітету, який написав RSS
 
 128
 00:08:53,476 --> 00:08:59,236
 What he was doing was to help build the plumbing for modern hypertext
-;;
+//
 Він допомагав "прокладати труби" для сучасногт гіпертексту
 
 129
 00:08:59,800 --> 00:09:02,705
 and the piece that he was working on, RSS
-;;
+//
 а ця деталь, над якою він працював, RSS,
 
 130
 00:09:02,756 --> 00:09:05,800
 was a tool that you can use to get summaries
-;;
+//
 дає вам можливість отримувати резюме оновлень
 
 131
 00:09:05,854 --> 00:09:08,317
 of things that are going on on other web pages
-;;
+//
 того, що відбувається на вебсторінках
 
 132
 00:09:08,327 --> 00:09:10,855
 Most commonly, you would use this for a blog
-;;
+//
 Зазвичай це використовують на блоґах
 
 133
 00:09:10,865 --> 00:09:13,924
 You might have 10 or 20 people's blogs you wanna read
-;;
+//
 У вас може бути 10 чи 20 блоґів які ви читаєте
 
 134
 00:09:13,934 --> 00:09:18,644
 you use their RSS feeds, these summaries of what's going on on those other pages
-;;
+//
 Ви можете використати RSS, ці стрічки оновлень різних вебстрінок
 
 135
 00:09:18,654 --> 00:09:22,400
 to create a unified list of all the stuff that's going on
-;;
+//
 щоб мати об'єднаний список того, що там відбуваєтся
 
 136
 00:09:22,458 --> 00:09:26,000
 Aaron was really young but he understood the technology
-;;
+//
 Аарон був дуже юним, але він розумів технологію
 
 137
 00:09:26,050 --> 00:09:30,550
 and he saw that it was imperfect and looked for ways to help make it better
-;;
+//
 і бачив її недосконалості, й тому шукав можливість допомогти її вдосконалювати
 
 138
 00:09:35,500 --> 00:09:39,890
 So his mom started bundling him on planes in Chicago, we'd pick him up in San Francisco
-;;
+//
 Його мама посадила на літак у Чикаго, а ми його зустріли в Сан-Франциско
 
 139
 00:09:39,900 --> 00:09:42,782
 we introduced him to interesting people to argue with
-;;
+//
 Ми познайомили його з цікавими людьми, з якими можна буоо дискутувати
 
 140
 00:09:42,792 --> 00:09:45,255
 and we marveled at his horrific eating habits
-;;
+//
 і ми дивувалися з його неймовірних харчових звичок
 
 141
 00:09:45,265 --> 00:09:48,484
 he only ate white food, only like, you know, steamed rice
-;;
+//
 він їв лише білу їжу, наприклад тільки парений рис
 
 142
 00:09:48,494 --> 00:09:51,284
 and not fried rice, because that wasn't sufficiently white,
-;;
+//
 але не смажений, бо він був замало білим
 
 143
 00:09:51,294 --> 00:09:53,800
 and white bread, and so on
-;;
+//
 і білий хліб, і так далі
 
 144
 00:09:53,847 --> 00:09:57,927
 and you kind of marvel at the quality of the debate
-;;
+//
 і вас зачаровувала якість дискусії
 
 145
 00:09:57,949 --> 00:10:01,051
 emerging from what appeared to be a small boy's mouth
-;;
+//
 яку вів, здавалося б, такий малий хлопчина
 
 146
 00:10:01,061 --> 00:10:04,710
 and you think, you know, this is a kid who is really going to go somewhere if he doesn't die of scurvy
-;;
+//
 і ви думаєте собі: він з тих дітей, які далеко зайдуть, якщо не помруть від цинги
 
 
 147
 00:10:04,720 --> 00:10:05,927
 Aaron you're up
-;;
+//
 Аароне, твоя черга
 
 148
 00:10:06,887 --> 00:10:10,130
 I think the difference is that now you can't make companies like that per-se
-;;
+//
 Думаю  що різниця в тому, що ви ее можете створювати таких компаній per se
 
 149
 00:10:10,140 --> 00:10:12,208
 you can't have companies that just like
-;;
+//
 компаній, чия філософія - це
 
 150
 00:10:12,218 --> 00:10:15,720
 "let's sell dog food over the Internet, dog food over the cellphones"
-;;
+//
 "нумо продавати корм для собак в Інтернеті чи через мобільні телефони""
 
 151
 00:10:15,730 --> 00:10:18,106
 but there is still a lot of innovation going on,
-;;
+//
 але все одно відбувається багато інновації,
 
 152
 00:10:18,116 --> 00:10:21,546
 I think, if you don't see the innovation maybe your head is in the sand
-;;
+//
 Думаю, якщо ви не бачите інновації, мабуть у вас голов в піску
 
 153
 00:10:21,556 --> 00:10:25,400
 He takes on this "Alpha Nerd" personality where he's sort of like
-;;
+//
 Він обирає цей стиль поведінки своєрідного "Альфа-нерда", це приблизно:
 
 154
 00:10:25,410 --> 00:10:27,713
 "I'm smarter than you, and because I'm smarter than you
-;;
+//
 "Оскільки я розумніший за тебе,"
 
 155
 00:10:27,723 --> 00:10:29,997
 I'm better than you, and I can tell you what to do"
-;;
+//
 "я кращий за тебе, і можу казати тобі, що робити"
 
 156
 00:10:30,007 --> 00:10:34,500
 It's an extension of him being kind of like a twerp. [Chuckles].
-;;
+//
 Це доповнення до того, що він був ніби "малявкою"
 
 157
 00:10:35,100 --> 00:10:38,615
 So you aggregate all these computers together and now they're solving big problems
-;;
+//
 Отож ви збираєте всі ці комп'ютери разом і тепер вони розв'язують великі проблеми
 
 158
 00:10:38,625 --> 00:10:42,000
 like searching for aliens or trying to cure cancer
-;;
+//
 як то пошук інопланетян чи ліуюків від раку
 
 159
 00:10:45,003 --> 00:10:49,600
 First met him on IRC, on Internet Relay Chat, he didn't just write code
-;;
+//
 Вперше ми познайомилися в IRC [такій чатовій системі], він не просто писав код
 
 160
 00:10:49,650 --> 00:10:55,600
 he also got people excited about solving problems, he was a connector
-;;
+//
 він також мотивував людей розв'язувати проблеми, він був об'єднувачем
 
 161
 00:10:55,658 --> 00:10:58,346
 the free culture movement, which had lot of his energy
-;;
+//
 рух за вільну культуру, в який він вклав багато енергії
 
 162
 00:10:58,356 --> 00:11:03,600
 I think Aaron was trying to make the world work.
 He was trying to fix it
-;;
+//
 Я важаю, що Аарон намагався зробити так, щоб світ працював. Він намагався поремонтувати його
 
 163
 00:11:03,800 --> 00:11:05,990
 He had a very kind of strong personality,
-;;
+//
 Він був доволі сильною особистістю,
 
 164
 00:11:06,000 --> 00:11:08,661
 that definitely ruffled feathers at times.
-;;
+//
 безумовно, часом це здіймало пилюку
 
 165
 00:11:08,705 --> 00:11:13,500
 It wasn't necessarily the case that he was always comfortable in the world
-;;
+//
 Не можна сказати, що йому було комфортно в цьому світі як він є
 
 166
 00:11:13,556 --> 00:11:16,496
 and the world wasn't always comfortable with him.
-;;
+//
 і світові теж не завжди було з ним комфортно.
 
 167
@@ -1065,262 +1065,262 @@ and how this educational system was developed
 183
 00:12:08,378 --> 00:12:12,266
 and, you know, alternatives to it, and ways that people could actually learn things
-;;
+//
 і, власне, про альтенативи - способи, як люди можуть справді чогось навчитися
 
 184
 00:12:12,276 --> 00:12:14,890
 as opposed to just regurgitating facts that the teachers told them
-;;
+//
 на відміну від простого блювання завченими фактами
 
 185
 00:12:14,900 --> 00:12:17,640
 and that kind of led me down this path of questioning things
-;;
+//
 і таким чином я почав ставити під сумнів різні речі
 
 186
 00:12:17,650 --> 00:12:21,553
 you know, once I questioned the school I was in, I questioned the society that built the school
-;;
+//
 скажімо, коли я поставив під сумнів шуолу, в якій я був, я почав ставити під сумнів суспільство, яке цю школу створило
 
 187
 00:12:21,563 --> 00:12:24,782
 I questioned the businesses that the schools were training people for
-;;
+//
 я почав ставити під сумнів бізнес, для якого школи готують людей
 
 188
 00:12:24,792 --> 00:12:28,011
 I questioned the government that, you know, setup this whole structure
-;;
+//
 Я ставив під сумнів уряд, який, самі розумієте, створив усю цю структуру
 
 189
 00:12:28,021 --> 00:12:30,484
 One of the things he was more passionate about was copyright,
-;;
+//
 Серед речей, якимм він переймався, було авторське право,
 
 190
 00:12:30,494 --> 00:12:31,830
 especially in those early days
-;;
+//
 особливо в цей ранній період
 
 191
 00:12:31,840 --> 00:12:37,236
 Copyright has always been something of a burden on the publishing industry and on readers
-;;
+//
 Авторське право завжди створювало навантаження на видавничу індустрію та на читачів
 
 192
 00:12:38,181 --> 00:12:41,069
 but it wasn't an excessive burden
-;;
+//
 але цей тягар не був занадто важким
 
 193
 00:12:41,100 --> 00:12:46,200
 it was a reasonable institution to have in place
 to make sure that people got paid
-;;
+//
 це була виправдана система для того, щоб люди отримували плату за свою працю
 
 194
 00:12:46,254 --> 00:12:50,100
 What Aaron's generation experienced was the collision
-;;
+//
 Але покоління Аарона зіштовхнулося з колізією
 
 195
 00:12:50,145 --> 00:12:52,800
 between this antique copyright system
-;;
+//
 між цією старою системою авторського права
 
 196
 00:12:52,930 --> 00:12:56,622
 and this amazing new thing we were trying to build, the Internet and the Web
-;;
+//
 і цим захопливим новим явищем, яке ми намагалися побудувати - Інтернетом і Вебом
 
 197
 00:12:56,632 --> 00:13:00,000
 These things collided and what we got was chaos
-;;
+//
 Ці речі зіштовхнулися й ми отримали хаос
 
 198
 00:13:02,494 --> 00:13:05,434
 He then met Harvard Law professor Lawrence Lessig
-;;
+//
 Тоді він зустрівся з професором права у Гарварді Лоренсом Лессіґом
 
 199
 00:13:05,476 --> 00:13:08,890
 who was then challenging copyright law in the supreme court
-;;
+//
 який на у той час боровся з обмеженнями авторського права у верховному суді
 
 200
 00:13:08,900 --> 00:13:13,277
 A young Aaron Swartz flew to Washington to listen to the supreme court hearings
-;;
+//
 Молодий Аарон Шварц полетів до Вашингтона, щоб послухаити засідання верховного суду
 
 201
 00:13:13,287 --> 00:13:18,090
 I'm Aaron Swartz and I'm here to listen to the Eldred...to see the Eldred argument
-;;
+//
 Мене звати Аарон Шварц і я тут, щоб послухати... подивитися розгляд справи Елдреда
 
 202
 00:13:18,100 --> 00:13:23,190
 Why did you fly out here from Chicago and come all this way to see the Eldred argument?
-;;
+//
 Що змусио прилетіти сюди з Чикаго, подолати таку дорогу, щоб побачити засідання щодо Елдреда
 
 203
 00:13:23,200 --> 00:13:25,120
 That's a more difficult question
-;;
+//
 Це складніше запитання
 
 204
 00:13:30,000 --> 00:13:33,790
 Cause, I don't know, it's very exciting to see the supreme court
-;;
+//
 Ну не знаю, дуже цікаво побачити засідання Верховного суду
 
 205
 00:13:33,800 --> 00:13:36,740
 especially in such a prestigious case as this one
-;;
+//
 Особливо в такій вагомій справі, як ця
 
 
 206
 00:13:42,000 --> 00:13:46,860
 Lessig was also moving forward with a new way to define copyright on the Internet
-;;
+//
 Лессіґ також розвивав новий підхід до авторського права в Інтернеті
 
 207
 00:13:46,900 --> 00:13:48,800
 it was called Creative Commons
-;;
+//
 під назвою Creative Commons
 
 208
 00:13:49,200 --> 00:13:52,990
 So the simple idea of Creative Commons is to give people, creators
-;;
+//
 Ідея Creative Commons проста: дати людям, твррцям,
 
 209
 00:13:53,000 --> 00:13:55,800
 a simple way to mark their creativity
-;;
+//
 Простий спосіб позначати їхню творчість
 
 210
 00:13:56,000 --> 00:13:58,600
 with the freedoms they intend it to carry
-;;
+//
 певними свободами, які вони бажають закріпити за твором
 
 211
 00:13:59,000 --> 00:14:01,890
 So if copyright is all about "all rights reserved"
-;;
+//
 Отож якщо копірайт підкреслює принцип "всі права застережено",
 
 212
 00:14:01,900 --> 00:14:04,960
 then this is a kind of "some rights reserved" model
-;;
+//
 то тут ідеться про модель "деякі права застережено"
 
 213
 00:14:05,100 --> 00:14:08,690
 It's I want a simple way to say to you "here's what you can do with my work"
-;;
+//
 Це простий спосіб сказати: "ось що я дозволяю вам робити з моїм твором"
 
 214
 00:14:08,700 --> 00:14:13,290
 even if there are other things which you need to get my permission before you could do
-;;
+//
 навіть якщо для інших випадків вам треба буде отримати від мене окремий дозвіл
 
 215
 00:14:13,300 --> 00:14:16,400
 And Aaron's role was the computer part
-;;
+//
 Роль Арона була пов'язана з комп'ютерами
 
 216
 00:14:16,600 --> 00:14:18,790
 like how do you architect the licenses
-;;
+//
 приміром, як сконструювати ці ліцензії
 
 217
 00:14:18,800 --> 00:14:23,590
 so they would be simple and understandable and expressed in way that machines could process it
-;;
+//
 таким чином, щоб вони були простими і зрозумілими, і крім того втраженими у формі, в якій комп'ютери могли б їх опрацьовувати
 
 218
 00:14:23,600 --> 00:14:26,890
 And people are like, why do you have this fifteen year old kid
-;;
+//
 Люди дивувалися - чому ця 15-річна дитина
 
 219
 00:14:26,900 --> 00:14:29,390
 writing the specifications for the creative commons?
-;;
+//
 пише специфікації для Creative Commons?
 
 220
 00:14:29,400 --> 00:14:31,190
 like, don't you think that's a huge mistake?
-;;
+//
 не думаєте, що це серйозна помилка?
 
 221
 00:14:31,200 --> 00:14:35,520
 and Larry is like: "the biggest mistake we would have is not listening to this kid"
-;;
+//
 але Ларрі відповідав: "найбільшою помилкою було б не прислухатися до цієї дитини"
 
 222
 00:14:35,530 --> 00:14:39,340
 And he barely he's not even tall enough to get over the podium
-;;
+//
 І він не достатньо високий, щоб його було видно за трибуною
 
 223
 00:14:39,400 --> 00:14:41,490
 and it wasn't these movable podiums
-;;
+//
 і це не була рухома трибуна
 
 
 224
 00:14:41,500 --> 00:14:45,890
 so there's this embarrassing thing where, once he puts his screen up, nobody could see his face
-;;
+//
 тому виникала така трохи кумедна ситуація: коли він відкриває комп'ютер, за екраном ніхто не бачить його лиця
 
 225
 00:14:45,900 --> 00:14:49,000
 When we come to our website here
-;;
+//
 Коли ви заходите на наш сайт, 
 
 226
