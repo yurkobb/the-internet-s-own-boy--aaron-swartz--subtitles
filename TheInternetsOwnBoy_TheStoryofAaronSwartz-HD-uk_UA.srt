@@ -1175,143 +1175,213 @@ A young Aaron Swartz flew to Washington to listen to the supreme court hearings
 00:13:13,287 --> 00:13:18,090
 I'm Aaron Swartz and I'm here to listen to the Eldred...to see the Eldred argument
 ;;
-
+Мене звати Аарон Шварц і я тут, щоб послухати... подивитися розгляд справи Елдреда
 
 202
 00:13:18,100 --> 00:13:23,190
 Why did you fly out here from Chicago and come all this way to see the Eldred argument?
+;;
+Що змусио прилетіти сюди з Чикаго, подолати таку дорогу, щоб побачити засідання щодо Елдреда
 
 203
 00:13:23,200 --> 00:13:25,120
 That's a more difficult question
+;;
+Це складніше запитання
 
 204
 00:13:30,000 --> 00:13:33,790
 Cause, I don't know, it's very exciting to see the supreme court
+;;
+Ну не знаю, дуже цікаво побачити засідання Верховного суду
 
 205
 00:13:33,800 --> 00:13:36,740
 especially in such a prestigious case as this one
+;;
+Особливо в такій вагомій справі, як ця
+
 
 206
 00:13:42,000 --> 00:13:46,860
 Lessig was also moving forward with a new way to define copyright on the Internet
+;;
+Лессіґ також розвивав новий підхід до авторського права в Інтернеті
 
 207
 00:13:46,900 --> 00:13:48,800
 it was called Creative Commons
+;;
+під назвою Creative Commons
 
 208
 00:13:49,200 --> 00:13:52,990
 So the simple idea of Creative Commons is to give people, creators
+;;
+Ідея Creative Commons проста: дати людям, твррцям,
 
 209
 00:13:53,000 --> 00:13:55,800
 a simple way to mark their creativity
+;;
+Простий спосіб позначати їхню творчість
 
 210
 00:13:56,000 --> 00:13:58,600
 with the freedoms they intend it to carry
+;;
+певними свободами, які вони бажають закріпити за твором
 
 211
 00:13:59,000 --> 00:14:01,890
 So if copyright is all about "all rights reserved"
+;;
+Отож якщо копірайт підкреслює принцип "всі права застережено",
 
 212
 00:14:01,900 --> 00:14:04,960
 then this is a kind of "some rights reserved" model
+;;
+то тут ідеться про модель "деякі права застережено"
 
 213
 00:14:05,100 --> 00:14:08,690
 It's I want a simple way to say to you "here's what you can do with my work"
+;;
+Це простий спосіб сказати: "ось що я дозволяю вам робити з моїм твором"
 
 214
 00:14:08,700 --> 00:14:13,290
 even if there are other things which you need to get my permission before you could do
+;;
+навіть якщо для інших випадків вам треба буде отримати від мене окремий дозвіл
 
 215
 00:14:13,300 --> 00:14:16,400
 And Aaron's role was the computer part
+;;
+Роль Арона була пов'язана з комп'ютерами
 
 216
 00:14:16,600 --> 00:14:18,790
 like how do you architect the licenses
+;;
+приміром, як сконструювати ці ліцензії
 
 217
 00:14:18,800 --> 00:14:23,590
 so they would be simple and understandable and expressed in way that machines could process it
+;;
+таким чином, щоб вони були простими і зрозумілими, і крім того втраженими у формі, в якій комп'ютери могли б їх опрацьовувати
 
 218
 00:14:23,600 --> 00:14:26,890
 And people are like, why do you have this fifteen year old kid
+;;
+Люди дивувалися - чому ця 15-річна дитина
 
 219
 00:14:26,900 --> 00:14:29,390
 writing the specifications for the creative commons?
+;;
+пише специфікації для Creative Commons?
 
 220
 00:14:29,400 --> 00:14:31,190
 like, don't you think that's a huge mistake?
+;;
+не думаєте, що це серйозна помилка?
 
 221
 00:14:31,200 --> 00:14:35,520
 and Larry is like: "the biggest mistake we would have is not listening to this kid"
+;;
+але Ларрі відповідав: "найбільшою помилкою було б не прислухатися до цієї дитини"
 
 222
 00:14:35,530 --> 00:14:39,340
 And he barely he's not even tall enough to get over the podium
+;;
+І він не достатньо високий, щоб його було видно за трибуною
 
 223
 00:14:39,400 --> 00:14:41,490
 and it wasn't these movable podiums
+;;
+і це не була рухома трибуна
+
 
 224
 00:14:41,500 --> 00:14:45,890
 so there's this embarrassing thing where, once he puts his screen up, nobody could see his face
+;;
+тому виникала така трохи кумедна ситуація: коли він відкриває комп'ютер, за екраном ніхто не бачить його лиця
 
 225
 00:14:45,900 --> 00:14:49,000
 When we come to our website here
+;;
+Коли ви заходите на наш сайт, 
 
 226
 00:14:49,300 --> 00:14:50,890
 and you go to "choose liscense"
+//
+і натиснете "обрати ліцензію"
 
 227
 00:14:50,900 --> 00:14:54,600
 it gives you this list of options, explains what it means
+//
+сайт покаже вам пенелік варіантів, пояснить, що вони означають
 
 228
 00:14:54,900 --> 00:14:57,240
 and you fill out three simple questions
+//
+і ви дасте відповідь на три простих запитань
 
 229
 00:14:57,500 --> 00:14:59,600
 Do you want to require attribution?
+//
+Бажаєте додати вимогу згадування авторства?
 
 230
 00:14:59,900 --> 00:15:02,890
 Do you want to allow commercial uses of your work?
+//
+Хочете дозволити комерційне використання вашого твору? 
 
 231
 00:15:02,900 --> 00:15:05,780
 Do you want to allow modifications of your work?
+//
+Хочете дозволити модифікації твору?
+
 
 232
 00:15:05,800 --> 00:15:06,900
 I was floored
+//
+Я була внажена
 
 233
 00:15:07,400 --> 00:15:11,800
 just completely flabbergasted that these adults regarded him as an adult
+//
+неймовірно здивована тим, що ці дорослі трактували його як дорослого
 
 234
 00:15:12,000 --> 00:15:14,990
 and Aaron stood up there in front a whole audience full of people
+//
+і Аарон вийшов перед повним залом людей
 
 235
 00:15:15,000 --> 00:15:20,000
 and just started talking about the platform that he'd created for Creative Commons
+і просто почав розповідати про платформу, яку він створив для Creative Commons
 
 236
 00:15:20,200 --> 00:15:22,800
