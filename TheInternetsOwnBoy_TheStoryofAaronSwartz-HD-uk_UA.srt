@@ -1339,7 +1339,7 @@ it gives you this list of options, explains what it means
 00:14:54,900 --> 00:14:57,240
 and you fill out three simple questions
 //
-і ви дасте відповідь на три простих запитань
+і ви дасте відповідь на три прості запитання
 
 229
 00:14:57,500 --> 00:14:59,600
