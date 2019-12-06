@@ -1001,66 +1001,98 @@ and the world wasn't always comfortable with him.
 167
 00:11:19,287 --> 00:11:23,040
 Aaron got into high school, and was really just sick of school
+//
+Аарон пішов у старші класи, і школа його мучила
 
 168
 00:11:23,100 --> 00:11:25,844
 he didn't like it, he didn't like any of the classes he had been taught
+//
+йому там не подобалося, жоден з предметів, яких його навчали
 
 169
 00:11:25,854 --> 00:11:27,800
 he didn't like the teachers
+//
+йому не подобалися вчителі
 
 170
 00:11:28,167 --> 00:11:30,491
 Aaron really knew how to get information
+//
+Аарон знав, як дістати інформацію
 
 171
 00:11:30,501 --> 00:11:34,310
 He was like, I don't need to go to this teacher to learn how to do geometry
+//
+Він мислив приблизно так: «Мені не треба йти до вчителя, щоб навчитися геометрії»
 
 172
 00:11:34,320 --> 00:11:36,640
 I can just read the geometry book
+//
+«я можу просто прочитати підручник з геометрії»
 
 173
 00:11:36,683 --> 00:11:41,444
 and I don't need to go to this teacher to learn their version of American history
+//
+«і мені не треба йти до вчителя, щоб дізнатися його версію історії Америки»
 
 174
 00:11:41,454 --> 00:11:45,800
 I have like three historical compilations here like I can just read them
+//
+«у мене є з три історичні хрестоматії, і я можу просто їх прочитати»
 
 175
 00:11:45,840 --> 00:11:48,990
 and I'm not interested in that, I'm interested in the Web
+//
+«та й я не цікавлюся цим; мене цікавить Всесвітня павутина»
 
 176
 00:11:49,000 --> 00:11:50,630
 I was very frustrated with school
+//
+Я був дуже розчарований школою
 
 177
 00:11:50,640 --> 00:11:53,390
 I thought, you know, the teachers didn't know what they were talking about
+//
+У мене було враження, що вчителі не знали, про що говорять
 
 178
 00:11:53,400 --> 00:11:56,804
 and they were very domineering and controlling, and that homework was kind of a sham.
+//
+і вони дуже домінують і контролюють, та й домашні завдання були фікцією
 
 179
 00:11:56,814 --> 00:11:59,597
 I was just like, you know, all the way it pens them[?] together
+//
+Це все було для того, щоб зібрати учнів у стадо
 
 180
 00:11:59,607 --> 00:12:01,440
 and force them to do busy work
+//
+й змусити їх робити важку роботу
 
 181
 00:12:01,701 --> 00:12:05,590
 and, you know, I started reading books about the history of education
+//
+тоді я почав читати книжки про історію освіти
 
 182
 00:12:05,600 --> 00:12:08,312
 and how this educational system was developed
+//
+і як вона розвивалася
 
 183
 00:12:08,378 --> 00:12:12,266
@@ -1381,245 +1413,365 @@ and Aaron stood up there in front a whole audience full of people
 235
 00:15:15,000 --> 00:15:20,000
 and just started talking about the platform that he'd created for Creative Commons
+//
 і просто почав розповідати про платформу, яку він створив для Creative Commons
 
 236
 00:15:20,200 --> 00:15:22,800
 And they where all listening to him, just
+//
+І вони всі його слухали, а я просто
 
 237
 00:15:23,000 --> 00:15:28,600
 I was sitting at the back thinking:
 "he's just a kid, why are they listening to him?"
+//
+сиділа в кінці залу й думала:
+«він просто дитина, чому вони його слухають?»
 
 238
 00:15:28,800 --> 00:15:29,700
 but they did
+//
+але вони слухали
 
 239
 00:15:29,900 --> 00:15:32,420
 well I don't think I comprehended it fully
+//
+що ж, я не думаю, що розуміла це повністю
 
 240
 00:15:32,600 --> 00:15:37,190
 Though critics have said that it does little to ensure artists get payed for their work
+//
+Хоча критики стверджували, що це мало сприяє фінансовій винагороді мистців за їхню роботу
 
 241
 00:15:37,200 --> 00:15:40,140
 the success of Creative Commons has been enormous
+//
+успіх Creative Commons був величезним
 
 242
 00:15:40,200 --> 00:15:46,700
 Currently on the website Flickr alone over 200 million people use some form of Creative Commons license
+//
+Зараз тільки на сайті Flickr понад 200 мільйонів людей використовують якусь із ліцензій Creative Commons
 
 243
 00:15:46,800 --> 00:15:51,400
 He contributed through his technical abilities
+//
+Він долучився своїми технічними вміннями
 
 244
 00:15:51,600 --> 00:15:56,600
 and yet it was not simply a technical matter to him
+//
+але це не було суто технічною справою для нього
 
 245
 00:15:57,600 --> 00:16:00,600
 Aaron often wrote candidly in his personal blog
+//
+Аарон часто відверто писав на своєму блозі
 
 246
 00:16:01,300 --> 00:16:05,600
 I think deeply about things and I want others to do likewise.
+//
+Я задумуюся глибоко над речами й хочу, щоб інші також так робили.
 
 247
 00:16:06,500 --> 00:16:10,800
 I work for ideas and learn from people. I don't like excluding people.
+//
+Я працюю на ідеї й вчуся у людей. Я не люблю виключати людей.
 
 248
 00:16:11,000 --> 00:16:15,190
 I'm a perfectionist, but I won't let that get in the way of publication.
+//
+Я перфекціоніст, але я не дам цьому завадити публікуванню.
 
 249
 00:16:15,200 --> 00:16:21,390
 Except for education and entertainment, I'm not going to waste my time on things that won't have an impact.
+//
+За винятком навчання й розваг, я не буду вирачати свій час на речі, які не матимуть якогось наслідку.
 
 250
 00:16:21,400 --> 00:16:26,320
 I try to be friends with everyone, but I hate it when you don't take me seriously.
+//
+Я намагаюся зі всіма дружити, але я ненавиджу, коли мене не сприймають серйозно.
 
 251
 00:16:26,500 --> 00:16:31,800
 I don't hold grudges (it's not productive) but I learn from my experience.
+//
+Я не тримаю образ (це непродуктивно), але я вчуся на власному досвіді.
 
 252
 00:16:32,200 --> 00:16:36,000
 I want to make the world a better place.
+//
+Я хочу зробити світ кращим.
 
 253
 00:16:40,700 --> 00:16:45,700
 In 2004 Swartz, leaves Highland Park and enrolls in Stanford University
+//
+У 2004 Шварц покидає Гайленд Парк і вступає до Стенфордського Університету
 
 254
 00:16:46,000 --> 00:16:49,800
 He had had ulcerative colitis, which was very troubling
+//
+У нього був виразковий коліт, що дуже бентежило
 
 255
 00:16:50,000 --> 00:16:52,990
 and we were concerned about him taking his medication.
+//
+ми хвилювалися, чи він прийматиме ліки як належить.
 
 256
 00:16:53,000 --> 00:16:56,390
 He got hospitalized and he would take this cocktail of pills every day
+//
+Він був госпіталізований і мусив приймати щодня коктейль таблеток
 
 257
 00:16:56,400 --> 00:17:00,300
 and one of those pills was a steroid which stunted his growth and
+//
+і однією з цих таблеток був стероїд, який сповільнював його ріст
 
 258
 00:17:00,700 --> 00:17:03,940
 made him feel different from any of the other students
+//
+і змушував його почуватися інакше, ніж інші студенти
 
 259
 00:17:04,000 --> 00:17:06,990
 Aaron, I think, shows up at Stanford ready to do scholarship
+//
+Аарон, я думаю, поїхав до Стенфорда серйозно займатися навчанням
 
 260
 00:17:07,000 --> 00:17:12,600
 and finds himself in, effectively, a baby sitting program for overachieving high schoolers
+//
+але опинився в де факто програмі догляду за гіперуспішними старшокласниками
 
 261
 00:17:12,800 --> 00:17:21,300
 who in four years are meant to become, you know, captains of industry and one percent-ers
+//
+які за 4 роки мають стати, типу, капітанами в своїй галузі і належати до 1% найбагатших
 
 262
 00:17:21,500 --> 00:17:25,600
 and I think it just made him bananas
+//
+і це його зводило з розуму
 
 263
 00:17:25,800 --> 00:17:28,900
 In 2005 after only one year of college
+//
+У 2005 після лише одного року навчання
 
 264
 00:17:28,923 --> 00:17:32,302
 Swartz was offered a spot at a new startup incubation firm
+//
+Шварцу запропонували роботу в одній фрірмі-інкубаторі стартапів
 
 265
 00:17:32,312 --> 00:17:36,130
 called Y Combinator, led by Paul Graham
+//
+під назвою Y Combinator, де керував Пол Ґрагам
 
 266
 00:17:36,283 --> 00:17:39,223
 He's like, "Hey, I have this idea for a website!"
+//
+Він тоді каже: «Гей, у мене є ідея для вебсайту!»
 
 267
 00:17:39,272 --> 00:17:41,876
 and Paul Graham likes him enough and says
+//
+Полу Ґрагаму він сподобався, і він сказав: «Так, авжеж!»
 
 268
 00:17:41,941 --> 00:17:46,174
 "Yeah, sure!", so Aaron drops out of school, moves to this apartment
+//
+Отож Аарон покидає навчання й переїздить у це помешкання
 
 269
 00:17:46,247 --> 00:17:48,942
 So this used to be Aaron's apartment when he lived here
+//
+Це було Аароновим помешкання, коли він тут жив
 
 270
 00:17:48,952 --> 00:17:55,163
 I have big memories of my father telling me how difficult it was to get a lease
+//
+Я пам'ятаю, як тато казав мені, як важко було знайти помешкання для винайму
 
 271
 00:17:55,701 --> 00:17:58,491
 cause Aaron had no credit and he dropped out of college
+//
+оскільки Аарон не мав кредиту й покинув навчання
 
 272
 00:17:58,501 --> 00:18:00,644
 Aaron lived in what's now the living room
+//
+Аарон жив там, де зараз вітальня
 
 273
 00:18:00,654 --> 00:18:04,346
 and some of the posters are left over from when Aaron lived here
+//
+Деякі з цих плакатів залишилися з часу, коли Аарон тут жив
 
 274
 00:18:04,356 --> 00:18:08,800
 and the library, there are more books, but, a lot of them are Aaron's
+//
+і бібліотека, тут багато книжок, але деякі з них Ааронові
 
 275
 00:18:11,500 --> 00:18:17,400
 Aaron's Y Combinator site was called "infogami", a tool to build websites
+//
+Сайт Аарона, реалізований в Y Combinator, називався "infogami" — знаряддя для створення вебсайтів
 
 276
 00:18:17,476 --> 00:18:19,774
 but infogami struggles to find users
+//
+Але infogami важко знаходить користувачів
 
 277
 00:18:19,800 --> 00:18:22,019
 and Swartz eventually merges his company
+//
+і Шварц невдовзі об'єднує свою компанію
 
 278
 00:18:22,029 --> 00:18:24,790
 with another Y Combinator project in need of help
+//
+з іншим проєктом Y Combinator, який потребує допомоги
 
 279
 00:18:24,800 --> 00:18:29,700
 it was a project headed by Steve Huffman and Alexis Ohanian called "reddit"
+//
+цей проєкт, якій вів Стів Гафман та Алексіс Оганіан називається "reddit"
 
 280
 00:18:29,774 --> 00:18:33,735
 There we were starting from almost nothing, no users, no money, no code
+//
+Ми стартували практичн з нічого: ніяких користувачів, ніяких грошей, ніякого коду
 
 281
 00:18:33,745 --> 00:18:36,865
 and growing day by day into a hugely popular website
+//
+і день у день виростали до дуже популярного вебсайту
 
 282
 00:18:37,200 --> 00:18:38,840
 and it showed no signs of letting up
+//
+і не виглядало, що він скоро затухне
 
 283
 00:18:38,850 --> 00:18:44,310
 first we had a thousand users, than 10,000, then 20,000 and on and on, it's just incredible
+//
+спочатку ми мали тисячу користувачів, потім 10 тис., потім 20 і так далі, це було неймовірно
 
 284
 00:18:49,025 --> 00:18:51,690
 reddit becomes huge and it's a real sort of geeky corner of the Internet
+//
+reddit стає величезним і це справжній «ґіківський» куточок Інтернету
 
 285
 00:18:51,700 --> 00:18:57,100
 There's a lot of humor, there's a lot of art
+//
+Там багато гумору, багато мистецтва
 
 286
 00:18:57,300 --> 00:19:01,100
 and there's just people who flocked to the site
+//
+і є люди, які просто масово приходили на сайт
 
 287
 00:19:01,300 --> 00:19:07,500
 and made that site the main site they go to every morning to get their news.
+//
+і заходили туди щоранку, щоб почитати новини.
 
 288
 00:19:07,600 --> 00:19:15,500
 "reddit" kind of just borders on chaos at some level, so on the one hand its a place where people discuss
+//
+«reddit» майже межує з хаосом на певному рівні, тобто з одного боку це місце, де люди обговорюють
 
 289
 00:19:15,600 --> 00:19:21,800
 ...news of the day, technology, politics and issues and yet there is a lot of kind of not safe for work
+//
+новини дня, технологій, політику та проблеми, але також є багато матеріалу, який не зовсім можна показувати на роботі
 
 290
 00:19:21,900 --> 00:19:29,800
 ...material, offensive material. Some subreddits where "trolls", "find a welcome home"
+//
+...образливий матеріал. На деяких під-реддітах «тролі» знаходять свій другий дім
 
 291
 00:19:29,900 --> 00:19:33,800
 and so in that sense, reddit has been home to controversy as well
+//
+і в цьому сенсі reddit був також місцем з контроверсіями
 
 292
 00:19:33,900 --> 00:19:36,700
 It kind of sits on that edge of chaos.
+//
+Він ніби балансує на межі з хаосом.
 
 293
 00:19:36,900 --> 00:19:40,690
 reddit catches the attention of the corporate magazine giant "Condé Nast"
+//
+На reddit звертає увагу корпоративний журнальний гігант «Condé Nast»
 
 294
 00:19:40,700 --> 00:19:40,790
 ...who makes an offer to buy the company.
-reddit catches the attention of the corporate magazine giant "Condé Nast"
+//
+...який хоче купити компанію.
+
 
 295
 00:19:40,800 --> 00:19:42,590
@@ -1628,31 +1780,46 @@ reddit catches the attention of the corporate magazine giant "Condé Nast"
 296
 00:19:42,600 --> 00:19:43,890
 Some large amount of money,
+//
+Велика сума грошей,
 
 297
 00:19:43,900 --> 00:19:46,990
 large enough that my dad was getting bugged with questions about like
+//
+достатньо велика, щоб мій тато задавав собі запитання
 
 298
 00:19:47,000 --> 00:19:51,300
 "How do I... store this money?"
+//
+«Де я... маю зберігати ці гроші?»
 
 299
 00:19:51,400 --> 00:19:53,890
 Interviewer: Like a lot of money
 Noah: Like a lot of money
+//
+Інтерв'юер: ціла купа грошей
+Ной: ціла купа грошей
 
 300
 00:19:53,900 --> 00:20:00,200
 Like... probably more than a million dollars. But I don't actually know.
+//
+Напевно... понад мільйон доларів. Але я не знаю точної суми.
 
 301
 00:20:00,200 --> 00:20:02,000
 And he is how old at the time?
+//
+І скільки йому тоді було?
 
 302
 00:20:02,100 --> 00:20:03,200
 Nineteen? Twenty?
+//
+Дев'ятнадцять? Двадцять?
 
 303
 00:20:05,100 --> 00:20:13,500
