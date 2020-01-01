@@ -3206,405 +3206,405 @@ He hadn't killed anybody, he hadn't hurt anybody,
 
 800
 00:52:25,256 --> 00:52:27,768
-he hadn't like stolen money,
+не вкрав жодних грошей,
 
 801
-00:52:28,208 --> 00:52:31,628
-he hadn't done anything that seemed felony worthy, right?
+00:52:28,208 --> 00:52:30,830
+не зробив нічого, що тягнуло б на злочин, так?
 
 802
 00:52:31,808 --> 00:52:36,800
-And, there is this idea that, like,
+І тому є думка, що, розумієте, 
 
 803
-00:52:36,960 --> 00:52:38,990
-there's no reason that he should be labeled a felon
+00:52:36,960 --> 00:52:38,960
+нема жодної причини називати його злочинцем
 
 804
 00:52:39,000 --> 00:52:42,800
-and taken away his right to vote in many states
+і відбирати в нього право голосувати у багатьох штатах
 
 805
-00:52:43,320 --> 00:52:44,798
-for doing what he did, like,
+00:52:43,320 --> 00:52:44,784
+за те, що він зробив, 
 
 806
 00:52:44,808 --> 00:52:46,890
-that's just outrageous, like, it makes sense for him to be
+це, звісно, обурливо, типу, його мало б сенс
 
 807
 00:52:46,900 --> 00:52:50,208
-you know, maybe fined a bunch of money or
+оштрафувати на купу грошей або,
 
 808
 00:52:50,560 --> 00:52:53,872
-you know, asked not to come back to MIT again
+знаєте, ніколи більше не вертатися в MIT,
 
 809
 00:52:54,200 --> 00:52:57,904
-but like, to be a felon? To face jail time?
+але оце ось, стати злочинцем? З тюремним строком попереду?
 
 810
 00:53:01,120 --> 00:53:03,440
-Swartz turned down the plea deal.
+Шварц відмовився від домовленості про визнання вини.
 
 811
 00:53:03,910 --> 00:53:06,824
-Heymann redoubled his efforts,
+Гейманн подвоїв свої зусилля,
 
 812
 00:53:06,968 --> 00:53:12,512
-Heymann continued to press us, at all levels.
+Гейманн продовжував тиснути на нас, на всіх рівнях.
 
 813
-00:53:12,710 --> 00:53:14,510
-Even with the physical evidence
+00:53:12,710 --> 00:53:14,512
+Навіть маючи фізичні докази, 
 
 814
-00:53:14,520 --> 00:53:18,180
-seized from Aaron's Acer computer, hard drive, and usb drive,
+00:53:14,520 --> 00:53:18,100
+вилучені з Ааронового комп'ютера Acer, жорсткого диска та флешки,
 
 815
-00:53:18,448 --> 00:53:21,268
-the prosecutors needed evidence of his motives.
+00:53:18,448 --> 00:53:21,232
+обвинувачувачам потрібні були докази його мотивів.
 
 816
 00:53:21,376 --> 00:53:24,696
-Why was Aaron Swartz downloading articles from JSTOR?
+Навіщо Аарон Шварц завантажував статті з JSTOR?
 
 817
-00:53:24,824 --> 00:53:27,344
-and just what did he plan to do with them?
+00:53:24,824 --> 00:53:27,160
+і що він, власне кажучи, планував з ними робити?
 
 818
-00:53:29,160 --> 00:53:32,454
-The government claim is that he was planning to publish these.
+00:53:29,160 --> 00:53:32,096
+Уряд заявляє, що він планував їх опублікувати.
 
 819
 00:53:32,464 --> 00:53:36,008
-We don't really know whether that was his real intention,
+Ми не знаємо точно, чи такими були його справжні наміри,
 
 820
-00:53:36,016 --> 00:53:38,116
-because Aaron also had a history of
+00:53:36,016 --> 00:53:37,832
+бо в минулому Аарон також займався проектами
 
 821
 00:53:39,136 --> 00:53:42,768
-doing projects where he'd analyze giant datasets of articles
+з аналізу гігантських наборів даних статей,
 
 822
-00:53:42,920 --> 00:53:45,238
-in order to learn interesting things about them.
+00:53:42,920 --> 00:53:45,048
+щоб дізнатися про них цікаві речі.
 
 823
-00:53:45,248 --> 00:53:48,640
-The best evidence for that was that when he was at Stanford
+00:53:45,248 --> 00:53:48,136
+Найкраще свідчення цього — коли він був у Стенфорді,
 
 824
 00:53:48,650 --> 00:53:53,192
-he also downloaded the whole Westlaw legal database.
+то також завантажив повну юридичну базу даних Westlaw.
 
 825
-00:53:53,616 --> 00:53:55,854
-In a project with Stanford law students,
+00:53:53,616 --> 00:53:55,824
+У спільному проекті зі студентами-юристами Стенфорда
 
 826
-00:53:55,864 --> 00:53:58,702
-Swartz had downloaded the Westlaw legal database.
+00:53:55,864 --> 00:53:58,664
+Шварц завантажив юридичну базу даних Westlaw.
 
 827
-00:53:58,712 --> 00:54:00,910
-He uncovered troubling connections between
+00:53:58,712 --> 00:54:00,904
+Він розкрив тривожні зв'язки між
 
 828
 00:54:00,920 --> 00:54:04,208
-funders of legal research and favorable results.
+спонсорами юридичних досліджень та бажаними результатами.
 
 829
 00:54:04,488 --> 00:54:07,696
-He did this amazing analysis of for-profit companies
+Він зробив надзвичайний аналіз того, як прибуткові компанії
 
 830
-00:54:07,700 --> 00:54:11,054
-giving money to law professors who wrote law review articles,
+00:54:07,700 --> 00:54:11,040
+дають гроші професорам права, які пишуть статті з огляду законів, 
 
 831
 00:54:11,064 --> 00:54:15,072
-which were then beneficial to, like, Exxon, during an oil spill.
+які потім будуть вигідні, наприклад, Exxon при виливі нафти.
 
 832
 00:54:15,080 --> 00:54:19,528
-So it was a very corrupt system of funding, you know, vanity research.
+Тобто це була дуже корумпована система фінансування, знаєте, марні дослідження.
 
 833
 00:54:19,768 --> 00:54:22,680
-Swartz had never released the Westlaw documents.
+Шварц ніколи не публікував документів Westlaw.
 
 834
-00:54:22,808 --> 00:54:25,646
-In theory he could have been doing the same thing about the JSTOR database.
+00:54:22,808 --> 00:54:25,544
+В теорії, він міг робити те саме і з базою даних JSTOR.
 
 835
-00:54:25,656 --> 00:54:27,558
-That would have been completely OK.
+00:54:25,656 --> 00:54:27,540
+І це було б цілком прийнятно.
 
 836
-00:54:27,568 --> 00:54:29,982
-If he were on the other hand intending to
+00:54:27,568 --> 00:54:29,976
+Якщо ж він натомість мав на меті
 
 837
 00:54:29,992 --> 00:54:33,040
-create a competitive service to JSTOR,
+створити сервіс-конкурент JSTOR,
 
 838
-00:54:33,184 --> 00:54:37,054
-like we're gonna set up our own, you know, access to the Harvard Law Review,
+00:54:33,184 --> 00:54:37,064
+типу, ми запустимо власний доступ до, скажімо, Harvard Law Review
 
 839
 00:54:37,064 --> 00:54:39,060
-and charge money for it,
+і братимемо за це гроші,
 
 840
-00:54:39,104 --> 00:54:42,030
-then, you know, OK, now it seems like a criminal violation
+00:54:39,104 --> 00:54:42,024
+тоді, знаєте, так, тепер це виглядає як кримінальне порушення,
 
 841
 00:54:42,040 --> 00:54:44,810
-because you're commercially trying to exploit this material
+бо це намагання комерційно використати матеріал,
 
 842
-00:54:44,820 --> 00:54:48,254
-but that's kind of crazy to imagine that's what he was doing.
+00:54:44,820 --> 00:54:47,272
+але це просто божевілля — припускати, що він робив саме це.
 
 843
-00:54:48,264 --> 00:54:49,638
-So, but than there's a middle case
+00:54:48,264 --> 00:54:49,624
+Але тоді є ще проміжний випадок,
 
 844
-00:54:49,648 --> 00:54:53,726
-what if he was just trying to liberate it for all of the developing world?
+00:54:49,648 --> 00:54:52,720
+що, якщо він просто намагався звільнити це все для світу, що розвивається?
 
 845
-00:54:53,736 --> 00:54:55,350
-But depending on what he was doing,
+00:54:53,736 --> 00:54:55,360
+Але залежно від того, що він робив,
 
 846
-00:54:55,360 --> 00:54:59,174
-it creates a very different character to how the law should be thinking about it.
+00:54:55,360 --> 00:54:58,648
+виходить дуже різна ситуація, і як закон має на неї дивитися.
 
 847
-00:54:59,184 --> 00:55:00,740
-The government was prosecuting him
+00:54:59,184 --> 00:55:00,744
+Уряд притягнув його до відповідальності,
 
 848
-00:55:00,750 --> 00:55:03,550
-as if this was like a commercial criminal violation
+00:55:00,750 --> 00:55:03,536
+наче то було комерційне кримінальне правопорушення,
 
 849
-00:55:03,560 --> 00:55:05,590
-like stealing a whole bunch of credit card records
+00:55:03,560 --> 00:55:05,608
+подібно до крадіжки купи даних про кредитні картки,
 
 850
-00:55:05,600 --> 00:55:07,000
-like it was that kind of crime.
+00:55:05,600 --> 00:55:06,840
+наче це саме такий вид злочину.
 
 851
 00:55:07,010 --> 00:55:10,424
-I don't know what he was gonna do with that database
+Я не знаю, що він збирався робити з тою базою даних,
 
 852
-00:55:10,430 --> 00:55:12,350
-but I heard from a friend of his
+00:55:10,430 --> 00:55:12,248
+але я чув від його друга,
 
 853
-00:55:12,360 --> 00:55:14,940
-that Aaron had told him he was going to analyze the data
+00:55:12,360 --> 00:55:14,944
+що Аарон казав йому, що збирається аналізувати дані
 
 854
-00:55:14,950 --> 00:55:18,390
-for evidence of corporate funding of climate change research
+00:55:14,950 --> 00:55:18,376
+на предмет корпоративного фінансування досліджень змін клімату,
 
 855
 00:55:18,400 --> 00:55:20,024
-that led to biased results.
+що мали упереджені результати.
 
 856
 00:55:20,432 --> 00:55:22,752
-And I totally believe that.
+І я цілком у це вірю.
 
 857
-00:55:25,216 --> 00:55:28,096
-I was just told that Steve wanted to talk to me.
+00:55:25,216 --> 00:55:27,848
+Мені саме сказали, що Стів хоче зі мною поговорити.
 
 858
 00:55:29,152 --> 00:55:32,896
-and I thought maybe this is a way I could get out of this.
+І я подумала, може у цей спосіб я можу з цього виплутатися.
 
 859
 00:55:33,136 --> 00:55:35,016
-just exit the situation.
+Вийти з ситуації.
 
 860
-00:55:35,224 --> 00:55:38,662
-And I didn't want to leave in fear of having my computer seized
+00:55:35,224 --> 00:55:37,824
+І я не хотіла жити у страху, що мій комп'ютер вилучать,
 
 861
-00:55:38,672 --> 00:55:41,038
-I didn't want to leave in fear of having to go to jail
+00:55:38,672 --> 00:55:41,032
+Я не хотіла жити у страху опинитися у в'язниці
 
 862
 00:55:41,048 --> 00:55:43,030
-on a contempt of court charge if
+за неповагу до суду, якщо 
 
 863
 00:55:43,080 --> 00:55:46,296
-they tried to compel me to decrypt my computer
+вони спробують змусити мене дешифрувати мій комп'ютер,
 
 864
-00:55:46,616 --> 00:55:50,156
-when they came to me and said: "Steve wants to talk to you"
+00:55:46,616 --> 00:55:49,456
+тож коли вони прийшли до мене і сказали: «Стів хоче поговорити з тобою»,
 
 865
 00:55:50,560 --> 00:55:52,208
-that seemed reasonable.
+це виглядало прийнятно.
 
 866
 00:55:52,864 --> 00:55:54,760
-They offered Norton what is known as
+Вони запропонували Нортон те, що
 
 867
 00:55:54,770 --> 00:55:57,296
-a "Queen for a day" letter or a proffer
+відомо під назвою лист «Королеви на день» або ж пропозиція,
 
 868
-00:55:57,576 --> 00:56:00,734
-it allowed prosecutors to ask questions about Aaron's case.
+00:55:57,576 --> 00:56:00,728
+що дозволяє обвинувачувачам ставити запитання щодо Ааронової справи.
 
 869
-00:56:00,744 --> 00:56:03,870
-Norton would be given immunity from prosecution herself,
+00:56:00,744 --> 00:56:03,848
+Нортон дали б недоторканість від притягання до відповідальності,
 
 870
-00:56:03,880 --> 00:56:06,342
-for any information she revealed during the meeting.
+00:56:03,880 --> 00:56:06,240
+за будь-яку інформацію, яку вона розкриє під час зустрічі.
 
 871
 00:56:06,352 --> 00:56:07,432
-I didn't like it
+Мені це не сподобалося.
 
 872
 00:56:07,630 --> 00:56:10,608
-I told my lawyers repeatedly that I didn't,
+Я не раз казала своїм юристам, що я не буду,
 
 873
-00:56:10,920 --> 00:56:12,718
-this seemed fishy, I didn't like this
+00:56:10,920 --> 00:56:12,712
+що це виглядає підозріло, мені це не подобається,
 
 874
-00:56:12,728 --> 00:56:14,622
-I didn't want immunity, I didn't need immunity
+00:56:12,728 --> 00:56:14,616
+я не хочу імунітету, мені не потрібна недоторканість,
 
 875
 00:56:14,632 --> 00:56:16,112
-I hadn't done anything.
+я нічого не зробила.
 
 876
-00:56:16,248 --> 00:56:18,022
-But they were really, really stringent
+00:56:16,248 --> 00:56:18,000
+Але вони були дуже, дуже переконливі,
 
 877
 00:56:18,032 --> 00:56:21,696
-they did not want me meeting the prosecutor without immunity.
+вони не хотіли, щоб я зустрічалася з обвинувачувачем без імунітету.
 
 878
-00:56:21,800 --> 00:56:24,950
-Interviewer: just to be clear, this is a "Queen For A Day" deal proffer
+00:56:21,800 --> 00:56:24,928
+Інтерв'юер: Просто для уточнення, це лист пропозиції «Королеви на день» 
 
 879
-00:56:24,960 --> 00:56:25,910
-Right, a proffer letter
+00:56:24,960 --> 00:56:25,920
+Так, це лист-пропозиція
 
 880
-00:56:25,920 --> 00:56:28,230
-Interviewer: In which you basically handed information over
+00:56:25,920 --> 00:56:28,224
+Інтерв'юер: У ньому ви, по суті, передали інформацію 
 
 881
-00:56:28,240 --> 00:56:30,350
-in exchange for protection from prosecution.
+00:56:28,240 --> 00:56:30,312
+в обмін на захист від обвинувачень
 
 882
 00:56:30,360 --> 00:56:33,592
-So, it wasn't handing information over,
+Це не було передачею інформації,
 
 883
-00:56:33,624 --> 00:56:36,334
-it was, at least that's not how I saw it, it was just
+00:56:33,624 --> 00:56:36,304
+це була, принаймні, так мені виглядало, це була прост
 
 884
-00:56:36,344 --> 00:56:38,246
-having a discussion, having an interview with them
+00:56:36,344 --> 00:56:38,232
+розмова, інтерв'ю з ними
 
 885
-00:56:38,256 --> 00:56:41,062
-Interviewer: Well, they're asking you questions
-Quinn: They're asking me questions
+00:56:38,256 --> 00:56:41,040
+Інтерв'юер: Що ж, вони ставлять вам запитання
+Квінн: Вони ставлять мені запитання
 
 886
-00:56:41,072 --> 00:56:42,400
-Interviewer: And they can ask about whatever they want
-Quinn: Right
+00:56:41,072 --> 00:56:42,144
+Інтерв'юер: І вони можуть запитати про будь-що, що хочуть
+Квінн: Так
 
 887
-00:56:42,410 --> 00:56:44,334
-Interviewer: and whatever they learn they can go and prosecute for that
+00:56:42,410 --> 00:56:44,288
+Інтерв'юер: І що б вони не дізналися, вони можуть збудувати на цьому обвинувачення
 
 888
 00:56:44,344 --> 00:56:49,352
-Right, I really... right, and I repeatedly tried to go in naked.
+Так, я насправді… так, і я не раз намагалася обійтися без цього.
 
 889
 00:56:50,120 --> 00:56:53,536
-I repeatedly tried to turn down the proffer letter.
+Я раз за разом намагалася відхилити лист-пропозицію.
 
 890
-00:56:53,800 --> 00:56:56,550
-I was ill, I was being pressured by my lawyers,
+00:56:53,800 --> 00:56:56,520
+Я була хвора, на мене тисли мої юристи,
 
 891
 00:56:56,560 --> 00:56:57,712
-I was confused.
+Я була розгублена.
 
 892
 00:56:57,896 --> 00:57:01,208
-I was not doing well by this point.
+На цей момент, я не справлялася.
 
 893
-00:57:01,216 --> 00:57:03,006
-I was depressed, and I was scared,
+00:57:01,216 --> 00:57:02,992
+Я був пригнічена, я був налякана,
 
 894
-00:57:03,016 --> 00:57:05,710
-and I didn't understand the situation I was in.
+00:57:03,016 --> 00:57:05,648
+і я не розуміла ситуацію, у яку потрапила.
 
 895
 00:57:05,720 --> 00:57:08,888
-I had no idea why I was in this situation.
+У мене не було жодного уявлення, чому я у цій ситуації.
 
 896
 00:57:09,000 --> 00:57:13,312
-I hadn't done anything interesting, much less wrong.
+Я не зробила нічого цікавого, не те що поганого.
 
 897
-00:57:13,584 --> 00:57:15,084
-We were out of our minds.
+00:57:13,584 --> 00:57:14,800
+Ми не знаходили собі місця.
 
 898
-00:57:15,096 --> 00:57:17,220
-Aaron was clearly very destroyed about it,
+00:57:15,096 --> 00:57:17,024
+Аарон був дуже подавлений через це,
 
 899
-00:57:17,230 --> 00:57:19,014
-we were very destroyed about it.
+00:57:17,230 --> 00:57:18,624
+ми були дуже подавлені через це.
 
 900
 00:57:19,024 --> 00:57:21,166
