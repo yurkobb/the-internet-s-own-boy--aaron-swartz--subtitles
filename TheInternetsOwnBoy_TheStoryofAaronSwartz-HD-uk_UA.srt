@@ -1610,99 +1610,148 @@ reddit стає величезним і це справжній «ґіківсь
 401
 00:27:44,500 --> 00:27:47,320
 He could be tremendously optimistic about life.
+//
+Він міг бути неймовірно опимістичним щодо життя.
 
 402
 00:27:53,400 --> 00:27:57,700
 Aaron: What are you doing?
 Quinn: Flickr has video now
+//
+Аарон: Що ти робиш?
+Куінн: На Flickr'і тепер є відео
 
 403
 00:27:59,000 --> 00:28:04,800
 Swartz threw his energy into a string of new projects involving access to public information
+//
+Шварц вкладав свою енергію в низку проєктів, пов'язаних з доступом до публічної інформації
 
 404
 00:28:04,900 --> 00:28:08,600
 including an accountability website called "Watchdog.net"
+//
+Зокрема сайт відповідальність під назвою "Watchdog.net" ("наглядач")
 
 405
 00:28:08,650 --> 00:28:10,790
 and a project called the "Open Library".
+//
+та проєкт під назвою "Open Library" ("Відкрита бібліотека")
 
 406
 00:28:10,800 --> 00:28:13,400
 So the Open Library project is a website,
+,,
+Отож Відкрита бібліотека — це сайт,
 
 407
 00:28:13,450 --> 00:28:17,340
 that you can visit at openlibrary.org and the idea is to be huge wiki,
+,,
+який має адресу openlibrary.org, і який задумано як величезна вікі,
 
 408
 00:28:17,350 --> 00:28:19,930
 an editable website with one page per book.
+,,
+сайт, який можна редагувати, і де кожній книзі присвячено окрему сторінку
 
 409
 00:28:20,062 --> 00:28:23,590
 So for every book ever published you wanna have a web page about it
+,,
+Отож для кожної книги, яка коли-небудь була видана, має бути сторінка
 
 410
 00:28:23,600 --> 00:28:25,856
 that combines all the information from publishers,
+,,
+яка об'єднує всю інформацію від видавців
 
 411
 00:28:25,866 --> 00:28:29,084
 from book sellers, from libraries, from readers
+,,
+продавців, бібліотек, читачів
 
 412
 00:28:29,310 --> 00:28:31,181
 under one site and then gives you links
+,,
+на одному сайті, який також містить лінки,
 
 413
 00:28:31,191 --> 00:28:34,630
 where you can buy it, you can borrow it, or you can browse it.
+,,
+де можна купити чи позичити чи почитати в інтернеті.
 
 414
 00:28:34,640 --> 00:28:37,190
 I love libraries, you know, I'm the kind of person who goes
+,,
+знаєте, я люблю бібліотеки і належу до людей, які
 
 415
 00:28:37,200 --> 00:28:39,690
 to a new city and immediately seeks out the library.
+,,
+коли потрапляють до нового міста, відразу шукають бібліотеку.
 
 416
 00:28:39,700 --> 00:28:42,638
 That's the dream of Open library, is building this website
+,,
+це візія Відкритої бібліотеки — це створення вебсайту, 
 
 417
 00:28:42,648 --> 00:28:46,010
 where both you can leap from book to book, from person to author
+,,
+де ви можете перестрибувати від книжки до книжки, від людини до автора
 
 418
 00:28:46,020 --> 00:28:50,142
 from subject to idea. You go through this vast tree of knowledge
+,,
+від теми до ідеї. Ви рухаєтеся цим великим деревом знань
 
 419
 00:28:50,195 --> 00:28:52,690
 that has been embedded and lost in big physical libraries,
+,,
+яке було вбудовним і втраченим разом з фізичними бібліотеками, 
 
 420
 00:28:52,700 --> 00:28:55,670
 that's hard to find, that's not very well accessible on-line,
+,,
+які важко знайти, які не дуже добре доступні онлайн
 
 421
 00:28:55,680 --> 00:28:58,976
 it's really important because books are our cultural legacy,
+,,
+це дуже важливо, оскільки книжки є нашим культурним надбанням
 
 422
 00:28:58,986 --> 00:29:02,290
 you know, books are the place people go to write things down,
+,,
+книжки є тією сферою, куди люди йшли, щоб щось записати,
 
 423
 00:29:02,300 --> 00:29:04,683
 and to have that all swallowed up by one corporation,
+,,
+і якщо це все проковтне одна корпорація,
 
 424
 00:29:04,693 --> 00:29:06,222
 is kind of scary.
+,,
+це буде страхіття.
 
 425
 00:29:06,871 --> 00:29:10,737
