@@ -1756,378 +1756,566 @@ is kind of scary.
 425
 00:29:06,871 --> 00:29:10,737
 How can you bring public access to the public domain?
+,,
+Як ви можете надати суспільству доступ до суспільного надбання?
 
 426
 00:29:10,780 --> 00:29:14,816
 It may sound obvious, that you'd have public access to public domain,
+,,
+Це може звучати очевидно, що ви мали б мати вільний доступ до суспільного надбання,
 
 427
 00:29:14,826 --> 00:29:19,410
 but in fact it's not true. So the public domain should be free to all,
+,,
+але в дійсності це не так. Суспільне набдання повинно бути вільним для всіх,
 
 428
 00:29:19,670 --> 00:29:21,170
 but it's often locked up.
+,,
+але воно часто під замком.
 
 429
 00:29:21,395 --> 00:29:25,500
 There's often guard gates, it is just like having national park
+,,
+Часто воно перебуває за воротами з охороною, ніби мати національний парк
 
 430
 00:29:25,600 --> 00:29:29,093
 but with a moat around it and gun turrets pointed out
+,,
+але з оборонним ровом довкола і баштами, спрямованими назовні
 
 431
 00:29:29,120 --> 00:29:33,012
 in case somebody might want to actually come and enjoy the public domain.
+,,
+на випадок, якщо хтось раптом захоче власне прийти і отримати якусь користь від суспільного надбання.
 
 432
 00:29:33,022 --> 00:29:36,562
 One of the things Aaron was particularly interested in, was
+,,
+Однією з речей, якою Аарон був особливо зацікавлений,
 
 433
 00:29:36,600 --> 00:29:39,306
 bringing public access to the public domain.
+,,
+було давати суспільству доступ до суспільного надбання.
 
 434
 00:29:39,368 --> 00:29:42,968
 This is one of the things that got him into so much trouble.
+,,
+Це одна з речей, яка спричинила йому багато проблем.
 
 435
 00:29:46,106 --> 00:29:52,240
 I had been trying to get access to federal court records in the United States.
+,,
+Я намагався отримати доступ до реєстрів федеральних судів у США.
 
 436
 00:29:54,400 --> 00:29:58,906
 What I discovered was a puzzling system called "PACER",
+,,
+Я наштовхнувся на дивну систему під назвою «PACER»,
 
 437
 00:29:59,040 --> 00:30:02,888
 which stands for "Public Access to Court Electronic Records"
+,,
+назва якої розшифровується як «Публічний доступ до електронних судовх записів»
 
 438
 00:30:03,048 --> 00:30:07,500
 I started googling and that's when I ran across Carl Malamud.
+,,
+Я почав ґуґлити і натрапив на Карла Маламуда.
 
 439
 00:30:08,835 --> 00:30:14,897
 Access to legal materials in the United States is a 10 billion dollar per year business.
+,,
+Доступ до юридичних матеріалів у США є зараз бізнесом, який сягає 10 мільярдів доларів на рік.
 
 440
 00:30:15,004 --> 00:30:20,097
 PACER is just this incredible abomination of government service.
+,,
+PACER є винятковим знущанням державного сервісу.
 
 441
 00:30:20,100 --> 00:30:25,333
 It's 10 cents a page, it's this most brain dead code you've ever seen.
+,,
+Це коштує 10 центів за сторінку, і це найбільш бездарний код, який ви коли-небудь бачили.
 
 442
 00:30:25,377 --> 00:30:29,590
 You can't search it, you can't bookmark anything, you got to have a credit card.
+,,
+Ви навіть не можете здійснювати пошук, додавати закладки, і обов'язково мусите мати кредитку.
 
 443
 00:30:29,600 --> 00:30:34,640
 and these are public records, it's, you know, US district courts are very important,
+,,
+і все це — громадські реєстри, розумієте, окружні суди є дуже важливими,
 
 444
 00:30:35,600 --> 00:30:38,425
 it's where a lot of our seminal litigations starts, civil right cases,
+,,
+оскільки вони задають багато визначних прецедентів, зокрема у справах громадянських прав, 
 
 445
 00:30:38,435 --> 00:30:42,500
 patent cases, all sorts of stuff, and journalists, and students,
+,,
+патентів, багато різних речей, і журналісти, студенти,
 
 446
 00:30:42,600 --> 00:30:48,500
 and citizens and lawyers all need access to PACER and it fights them every step of the way.
+,,
+громадяни й юристи всі потребують доступу до PACER, який їх відгороджує усіма можливими способами.
 
 447
 00:30:48,551 --> 00:30:51,857
 People without means can't see the law
+,,
+Незабезпечені люди не можуть переглядати закон
 
 448
 00:30:51,893 --> 00:30:55,083
 as readily as people that have that gold American express card.
+,,
+як це можуть ті, хто мають цю позолочену картку American Express.
 
 449
 00:30:55,093 --> 00:30:57,800
 It's a poll tax on access to justice.
+,,
+Це збір податку за доступ до правосуддя.
 
 450
 00:30:57,800 --> 00:31:04,800
 You know the law is the operating system of our democracy and you have to pay to see it?
+,,
+Розумієте, закон є операційною системою нашої демократії, і вам треба платити, щоб читати його?
 
 451
 00:31:04,900 --> 00:31:07,180
 You know, that's not a much of democracy.
+,,
+Це далеке від демократії.
 
 452
 00:31:07,190 --> 00:31:11,964
 They make about a 120 million dollars a year on the PACER system,
+,,
+Вони зароблять 120 мільйонів доларів щороку на системі PACER,
 
 453
 00:31:11,982 --> 00:31:16,700
 and it doesn't cost anything near that according to their own records.
+,,
+але вона й близько того не коштує, згідно з їхніми ж власними даними.
 
 454
 00:31:16,730 --> 00:31:18,364
 In fact, it's illegal
+,,
+Насправді, вона незаконна
 
 455
 00:31:18,906 --> 00:31:23,964
 the "e-Government Act" of 2002 states that the courts may charge
+,,
+Закон «e-Government Act» від 2002 року стверджує, що суди мають право
 
 456
 00:31:24,008 --> 00:31:30,700
 only to the extent necessary in order to reimburse the cost of running PACER.
+,,
+брати плату лише в розмірі, який покриє витрати на забезпечення роботи PACER.
 
 457
 00:31:34,620 --> 00:31:37,386
 As the founder of public.resource.org,
+,,
+Як засновник public.resource.org,
 
 458
 00:31:37,466 --> 00:31:40,408
 Malamud wanted to protest the PACER charges.
+,,
+Маламуд хотів заперечити цим комісіям PACER'а,
 
 459
 00:31:40,530 --> 00:31:44,016
 He started a programme called "The PACER recycling Project",
+,,
+Він започаткував проєкт під назвою «PACER recycling Project» («повторне використання PACER»).
 
 460
 00:31:44,026 --> 00:31:47,625
 where people could upload PACER documents they had already paid for
+,,
+де люди мали можливість завантажувати документи, які вони вже оплатили в PACER
 
 461
 00:31:47,635 --> 00:31:50,043
 to a free database so others can use them.
+,,
+до вільної бази даних, щоб інші могли ними скористатися.
 
 462
 00:31:50,053 --> 00:31:53,150
 The PACER people were getting a lot of flak from congress
+,,
+Представників PACER сильно критикував Конгрес та інші
 
 463
 00:31:53,160 --> 00:31:56,701
 and others about public access and so they put together this system
+,,
+щодо вільного доступу, тому вони надали 17-м бібліотекам по країні
 
 464
 00:31:56,711 --> 00:32:01,700
 in 17 libraries across the country that was free PACER access.
+,,
+безкоштовний доступ до PACER.
 
 465
 00:32:01,800 --> 00:32:05,875
 You know, that's 1 library every 22,000 square miles I believe.
+,,
+Це десь 1 бібліотека на 22 тис. квадратних миль.
 
 466
 00:32:05,902 --> 00:32:07,882
 So wasn't like really convenient.
+,,
+Тому, звісно, це було не надто зручно.
 
 467
 00:32:08,035 --> 00:32:11,755
 I encouraged volunteers to join the so called ThumbDrive corp.
+,,
+Я заохотив волонтерів приєднатися до так званої «Флешкової корпорації»
 
 468
 00:32:12,080 --> 00:32:17,030
 and download docs from the public access libraries and upload them to the PACER recycling site.
+,,
+й завантажувати документи з бібліотек й викладати їз на сайт «PACER recycling Project».
 
 469
 00:32:17,040 --> 00:32:19,270
 People take a ThumbDrive into one of these libraries
+,,
+Люди брали флешки в одну з цих бібліотек
 
 470
 00:32:19,280 --> 00:32:23,012
 and they download a bunch of documents and they send them to me.
+,,
+тоді завантажували жмут документів і надсилали мені.
 
 471
 00:32:23,022 --> 00:32:24,853
 I mean, it was just a joke
+,,
+Розумієте, це було просто жартом
 
 472
 00:32:24,888 --> 00:32:28,594
 In fact when you click on ThumbDrive corps there was a "Wizard of Oz"
+,,
+Коли ви клацали на «Флешкову корпорацію», там було відео «Чарівника країни Оз»
 
 473
 00:32:28,604 --> 00:32:31,700
 you know the Munchkin singing video clip came up.
+,,
+знаєте, цей відеоролик з карликами.
 
 474
 00:32:35,288 --> 00:32:38,630
 But of course I get this phone call from Steve Schultze and Aaron
+,,
+І звичайно ж мені дзвонять Стів Шульц і Аарон
 
 475
 00:32:38,640 --> 00:32:42,700
 saying "Gee! We would like to join the Thumbdrive corp!"
+,,
+і кажуть: «Гей, ми хочемо приєднатися до Флешкової корпорації!»
 
 476
 00:32:43,440 --> 00:32:47,466
 Around that time, I ran into Aaron at a conference.
+,,
+Десь в той час я зустрів Аарона на конференції.
 
 477
 00:32:47,490 --> 00:32:51,590
 This is something that really has to be a collaboration between a lot of different people.
+,,
+Це було дійсно мало бути співпрацею багатьох різних людей.
 
 478
 00:32:51,600 --> 00:32:53,786
 So I approached him and said
+,,
+Я підійшов до нього й сказав
 
 479
 00:32:53,840 --> 00:32:58,110
 "Hey, I am thinking about an intervention on the PACER problem."
+,,
+«Слухай, я думаю про вирішення цієї проблеми з PACER'ом»
 
 480
 00:33:00,000 --> 00:33:02,114
 Schultze had already developed a program
+,,
+Шульц вже розробив програму
 
 481
 00:33:02,124 --> 00:33:06,490
 that could automatically download PACER documents from the trial libraries.
+,,
+яка могла автоматично звантажувати документи PACER з цих бібліотек.
 
 482
 00:33:06,500 --> 00:33:08,462
 Swartz wanted to take a look.
+,,
+Шварц хотів на неї глянути.
 
 483
 00:33:08,657 --> 00:33:13,653
 So I showed him the code and I didn't know what would come next,
+,,
+Я показав йому код і не знав, що буде далі,
 
 484
 00:33:13,733 --> 00:33:18,942
 but as it turns out, over the course of the next few hours at that conference,
+,,
+але як виявилося, протягом наступних кількох годин на тій конференції,
 
 485
 00:33:18,977 --> 00:33:22,071
 he was off sitting in a corner, improving my code,
+,,
+він сидів у кутку і вдосконалював мій код,
 
 486
 00:33:22,097 --> 00:33:26,515
 recruiting a friend of his that lived near one of these libraries,
+,,
+а також залучив друга, який жив недалеко від однієї з цих бібліотек,
 
 487
 00:33:26,560 --> 00:33:31,653
 to go into the library and to begin to test his improved code,
+,,
+щоб він пішов до бібліотеки й випробував його вдосконалену програму,
 
 488
 00:33:32,080 --> 00:33:38,293
 at which point the folks at the courts realized something's not going quite according to plan.
+,,
+і тоді народ у судах зрозумів, що щось іде не за планом.
 
 489
 00:33:38,337 --> 00:33:42,311
 And data started to come in... and come in... and come in...
+,,
+Дані почали приходити... й приходити... й приходити...
 
 490
 00:33:42,355 --> 00:33:47,500
 and soon there were 760 GigaBytes of PACER docs, about 20 million pages.
+,,
+І скоро там були 760 гігабайтів документів PACER, близько 20 мільйонів сторінок.
 
 491
 00:33:48,740 --> 00:33:51,955
 Using information retrieved from the trial libraries,
+,,
+Використовуючи інформацію, отриману з пілотних бібліотек,
 
 492
 00:33:51,982 --> 00:33:57,130
 Swartz was conducting massive automated parallel downloading of the PACER system.
+,,
+Шварц здійснював масове автоматичне паралелізоване завантаження документів системи PACER.
 
 493
 00:33:57,288 --> 00:34:01,500
 He was able to acquire nearly 2.7 million federal court documents,
+,,
+Він зумів отримати близько 2.7 млн документів федеральних судів,
 
 494
 00:34:01,600 --> 00:34:04,275
 almost 20 million pages of text.
+,,
+близько 20 млн сторінок тексту.
 
 495
 00:34:04,320 --> 00:34:07,500
 Now, I'll grant you that 20 million pages had perhaps
+,,
+Можу побитися об заклад, що 20 млн сторінок перевищило
 
 496
 00:34:07,530 --> 00:34:11,850
 exceeded the expectations of the people running the pilot access project
+,,
+очікування тих, хто реалізовували цей пілотний проєкт з бібліотеками
 
 497
 00:34:11,884 --> 00:34:14,500
 but surprising a bureaucrat isn't illegal.
+,,
+але здивувати бюрократа не є порушенням закону.
 
 498
 00:34:14,862 --> 00:34:19,500
 Aaron and Carl decided to go talk to the New York Times about what happened.
+,,
+Аарон і Карл вирішили поспілкуватися з Нью-Йорк Таймс про цей випадок.
 
 499
 00:34:20,070 --> 00:34:22,737
 They also caught the attention of the FBI.
+,,
+Також на них звернуло свою увагу ФБР.
 
 500
 00:34:22,950 --> 00:34:26,490
 who began to stake-out Swartz's parent's house in Illinois.
+,,
+які почали слідкувати за домом батьків Шварца в Іллінойсі.
 
 501
 00:34:26,570 --> 00:34:31,004
 I get a tweet from his mother saying: "Call me!!"
+,,
+Я отримав твіт від його мами зі словами: «Подзвони мені!»
 
 502
 00:34:31,102 --> 00:34:33,560
 I thought "What the hell is going on here?"
+,,
+Я подумав «Що за чортівня там діється?»
 
 503
 00:34:33,570 --> 00:34:36,570
 and so I finally got a hold of Aaron and, you know
+,,
+врешті я зв'язався з Аароном, і, знаєте,
 
 504
 00:34:36,640 --> 00:34:39,700
 Aaron's mother was like "Oh my god, FBI! FBI! FBI!"
+,,
+його мама була схвильована: «О Боже, ФБР! ФБР! ФБР!»
 
 505
 00:34:40,151 --> 00:34:46,133
 An FBI agent drives down our home's driveway trying to see if Aaron is in his room.
+,,
+Агент ФБР приїжджає до будинку й хотів побачити, чи Аарон у своїй кімнаті.
 
 506
 00:34:47,500 --> 00:34:50,283
 and I remember being home that day and wondering why
+,,
+і я пам'ятаю, що був тоді вдома й був здивований, чому
 
 507
 00:34:50,293 --> 00:34:53,714
 this car was driving down our driveway and just driving back out,
+,,
+чому ця машина просто під'їхала й від'їхала назад,
 
 508
 00:34:53,724 --> 00:34:55,500
 That's weird!
+,,
+Це було дивно!
 
 509
 00:34:56,500 --> 00:34:59,581
 Like 5 years later, I read this FBI file and I'm like
+,,
+5 років по тому я читаю цей файл ФБР і згадую
 
 510
 00:34:59,591 --> 00:35:00,830
 Oh my goodness!
+,,
+Боженьку!
 
 511
 00:35:01,503 --> 00:35:03,153
 that was the FBI agent
+,,
+це якраз був той самий агент ФБР
 
 512
 00:35:04,208 --> 00:35:05,192
 in my driveway.
+,,
+біля нашого будинку.
 
 513
 00:35:05,418 --> 00:35:08,075
 He was terrified, he was totally terrified.
+,,
+Він був наляканий, зовсім наляканий.
 
 514
 00:35:09,717 --> 00:35:13,623
 He was way more terrified after the FBI actually
+,,
+Особливо після того, як з ФБР подзвонили йому
 
 515
 00:35:13,896 --> 00:35:16,630
 called him up on the phone, tried to sucker him into
+,,
+й хотіли його хитрістю переконати
 
 516
 00:35:16,640 --> 00:35:19,030
 coming down to a coffee shop without a lawyer.
+,,
+зустрітися з ними на каві без адвоката.
 
 517
 00:35:19,040 --> 00:35:21,792
 He said he went home and laid down on the bed
+,,
+Він казав, що прийшов додому, ліг на ліжко
 
 518
 00:35:21,792 --> 00:35:23,790
 and, you know, was shaking.
+,,
+і його трусило.
 
 519
 00:35:25,620 --> 00:35:27,782
