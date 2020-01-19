@@ -2320,306 +2320,458 @@ and, you know, was shaking.
 519
 00:35:25,620 --> 00:35:27,782
 The downloading also uncovered massive
+,,
+Завантаження викрило серйозні
 
 520
 00:35:27,792 --> 00:35:30,312
 privacy violations in the court documents.
+,,
+порушення приватності в документах судів.
 
 521
 00:35:30,390 --> 00:35:34,650
 Ultimately, the courts were forced to change their policies as a result
+,,
+Кінець кінцем, суди змушені були змінити свої норми.
 
 522
 00:35:35,152 --> 00:35:38,992
 and the FBI closed their investigation without bringing charges.
+,,
+А ФБР закрило своє розслідування, не висунувши звинувачень.
 
 523
 00:35:39,628 --> 00:35:43,068
 To this day I find it remarkable that anybody,
+,,
+Донині мені видається неймовірним, як будь-хто,
 
 524
 00:35:43,260 --> 00:35:47,007
 even at the most remote Podunk field office of the FBI,
+,,
+навіть у найбільш віддаленому провінційному офісі ФБР,
 
 525
 00:35:47,317 --> 00:35:49,792
 thought that a fitting use for taxpayer dollars
+,,
+міг подумати, що прийнятним використанням коштів платників податків
 
 526
 00:35:49,802 --> 00:35:53,049
 was investigating people for criminal theft
+,,
+було розслідувати людей за кримінальну крадіжку
 
 527
 00:35:53,124 --> 00:35:55,731
 on the grounds that they had made the law public.
+,,
+на основі того, що вони зробили закон доступним гродмаськості.
 
 528
 00:35:55,741 --> 00:35:57,952
 How can you call yourself a lawman,
+,,
+Як ви можете називати себе захисником закону,
 
 529
 00:35:58,291 --> 00:36:01,872
 and think that there can possibly be anything wrong in this whole world
+,,
+і водночас думати, що якимось чином у цьому світі відкритий доступ до законів
 
 530
 00:36:01,882 --> 00:36:03,502
 with making the law public?
+,,
+може бути злочином?
 
 531
 00:36:03,736 --> 00:36:06,263
 Aaron was willing to put himself at risk
+,,
+Аарон був готовий наразити себе на ризик
 
 532
 00:36:06,447 --> 00:36:08,800
 for the causes that he believed in.
+,,
+заради речей, у які він вірив.
 
 533
 00:36:09,576 --> 00:36:11,336
 Bothered by wealth disparity,
+,,
+Стурбований економічною нерівністю,
 
 534
 00:36:11,557 --> 00:36:13,440
 Swartz moves beyond technology
+,,
+Шварц виходить за межі технологій
 
 535
 00:36:13,468 --> 00:36:15,985
 into a broader range of political causes.
+,,
+у ширшу політичну проблематику.
 
 536
 00:36:16,225 --> 00:36:18,745
 I went into congress, and I invited him to
+,,
+Я пішов у Конгрес і запросив його
 
 537
 00:36:18,823 --> 00:36:21,583
 come and hangout and intern for us for a while
+,,
+прийти й постажуватися для нас на деякий час
 
 538
 00:36:21,712 --> 00:36:25,072
 so that he could learn, you know, the political process.
+,,
+щоб він міг навчитися політичного процесу.
 
 539
 00:36:25,303 --> 00:36:27,815
 He was sort of learning about a new community
+,,
+Він наче пізнавав нову спільноту
 
 540
 00:36:27,825 --> 00:36:29,190
 and a new set of skills
+,,
+та отримував нові навики
 
 541
 00:36:29,200 --> 00:36:31,480
 and kind of learning to hack politics.
+,,
+він вчився гакувати політику.
 
 542
 00:36:31,505 --> 00:36:34,305
 It seems ridiculous that miners should have to hammer away
+,,
+Здається абсурдним, що шахтарів мусять працювати ломом
 
 543
 00:36:34,315 --> 00:36:36,691
 until they whole bodies are dripping with sweat,
+,,
+аж доки усе їхнє тіло стікає потом,
 
 544
 00:36:36,701 --> 00:36:38,893
 faced with the knowledge that if they dare to stop
+,,
+усвідомлюючи, що якщо вони припинять,
 
 545
 00:36:38,903 --> 00:36:41,359
 they won't be able to put food on the table that night,
+,,
+вони не матиму що їсти увечері,
 
 546
 00:36:41,369 --> 00:36:43,919
 while I get to make larger and larger amounts of money each day
+,,
+а я в той же час заробляю щодня більше грошей,
 
 547
 00:36:43,929 --> 00:36:45,849
 just by sitting and watching TV.
+,,
+просто сидячи й дивлячись телебачення.
 
 548
 00:36:46,592 --> 00:36:48,932
 But apparently the world is ridiculous.
+,,
+Але, схоже, що світ таки є абсурдним.
 
 549
 00:36:49,520 --> 00:36:51,251
 So, I co-founded a group called
+,,
+Тому я заснував групу під назвою
 
 550
 00:36:51,261 --> 00:36:53,119
 the "Progressive Change Campaign Committee"
+,,
+«Комітет кампаній прогресивних змін»
 
 551
 00:36:53,129 --> 00:36:56,135
 and what we try and do is we try and organize people over the Internet
+,,
+ми пробуємо організувати людей через Інтернет,
 
 552
 00:36:56,145 --> 00:36:58,126
 who care about progressive politics
+,,
+які вболівають за прогресивну політику,
 
 553
 00:36:58,136 --> 00:37:00,286
 and moving the country in a more progressive direction,
+,,
+та рухом країни в більш прогресивному напрямку,
 
 554
 00:37:00,296 --> 00:37:01,736
 to kind of come together
+,,
+щоб вони зібралися разом,
 
 555
 00:37:01,800 --> 00:37:03,360
 join our e-mail list, join our campaigns,
+,,
+приєдналися до нашої поштової конференції і наших кампаній,
 
 556
 00:37:03,370 --> 00:37:06,262
 help get progressive candidates elected all across the country.
+,,
+та допомогли прогресивним кандидатам бути обраними по всій країні.
 
 557
 00:37:06,272 --> 00:37:09,260
 The group is responsible for igniting the grassroots efforts
+,,
+Ця група відповідає за те, щоб запускати низові ініціативи
 
 558
 00:37:09,270 --> 00:37:12,870
 behind the campaign to elect Elizabeth Warren to the Senate.
+,,
+в рамках кампанії на підтримку обрання Елізабет Воррен до Сенату.
 
 559
 00:37:13,032 --> 00:37:15,342
 He might have thought it was a dumb system, but
+,,
+Він міг вважати цю систему примітивною, але
 
 560
 00:37:15,352 --> 00:37:17,678
 he came in and he said I need to learn this system,
+,,
+але він прийшов і вирішив, що має її вивчити,
 
 561
 00:37:17,688 --> 00:37:21,478
 cause it can be manipulated, like any, you know, like any social system.
+,,
+оскільки неє можна маніпулювати, як і будь-якою соціальною системою.
 
 562
 00:37:21,488 --> 00:37:23,894
 But his passion for knowledge and libraries
+,,
+Але його пристрасть до знань і бібліотек
 
 563
 00:37:23,904 --> 00:37:25,344
 didn't take a back seat.
+,,
+не перейшла на задній план.
 
 564
 00:37:25,744 --> 00:37:27,286
 Aaron began to take a closer look
+,,
+Аарон почав придивлятися
 
 565
 00:37:27,296 --> 00:37:30,596
 at institutions that publish academic journal articles.
+,,
+до інституцій, які публікують статті з наукових журналів.
 
 566
 00:37:31,248 --> 00:37:33,942
 By virtue of being students at a major US university
+,,
+Оскільки ви є студентами одного з провідних університетів США
 
 567
 00:37:33,952 --> 00:37:38,152
 I assume that you have access to a wide variety of scholarly journals.
+,,
+я припускаю, що ви маєте доступ до широкого спектру наукових журналів.
 
 568
 00:37:38,384 --> 00:37:41,190
 Pretty much every major university in the United States
+,,
+Більшість важливих університетів у США
 
 569
 00:37:41,200 --> 00:37:42,822
 pays these sort of licensing fees
+,,
+платить за ліцензію
 
 570
 00:37:42,832 --> 00:37:46,072
 to organizations like JSTOR and Thompson ISI
+,,
+організаціям, як то JSTOR чи Thompson ISI
 
 571
 00:37:46,496 --> 00:37:49,056
 to get access to scholarly journals that
+,,
+щоб отримати доступ до наукових журналів
 
 572
 00:37:49,096 --> 00:37:50,950
 the rest of the world can't read.
+,,
+які решта світу не може читати.
 
 573
 00:37:50,960 --> 00:37:53,180
 These scholarly journals and articles
+,,
+Ці наукові журнали й статті
 
 574
 00:37:53,248 --> 00:37:57,240
 are essentially the entire wealth of human knowledge on-line
+,,
+є фактично всім багатством людських знань онлайн
 
 575
 00:37:57,288 --> 00:38:00,168
 and many have been payed for with taxpayer money
+,,
+і багато вже оплачені з грошей платників податків
 
 576
 00:38:00,296 --> 00:38:02,040
 or with government grants.
+,,
+або з урядових ґрантів.
 
 577
 00:38:02,480 --> 00:38:05,120
 But to read them you often have to pay again
+,,
+Але щоб їх читати, вам доводиться платити ще раз
 
 578
 00:38:05,130 --> 00:38:08,550
 handing over steep fees to publishers like Reed Elsevier.
+,,
+віддаючи суттєві гроші видавцям, як то Reed Elsevierz
 
 579
 00:38:08,830 --> 00:38:11,142
 These licensing fees are so substantial that
+,,
+Ці кошти на ліцензію такі високі, що
 
 580
 00:38:11,152 --> 00:38:12,985
 people who are studying in India,
+,,
+люди, які навчаються в Індії,
 
 581
 00:38:12,995 --> 00:38:15,094
 instead of studying in the United States,
+,,
+замість США,
 
 582
 00:38:15,104 --> 00:38:16,870
 don't have this kind of access.
+,,
+не можуть собі дозволити такого доступу.
 
 583
 00:38:16,880 --> 00:38:19,462
 They're locked out from all of these journals.
+,,
+Вони позбавлені доступу до цих всіх журналів,
 
 584
 00:38:19,472 --> 00:38:22,704
 They're locked out from our entire scientific legacy.
+,,
+Вони позбавлені доступу до усього надбання науки.
 
 585
 00:38:22,992 --> 00:38:26,790
 I mean, a lot of those journal articles, they go back to the enlightenment.
+,,
+Багато з цих статей сягають назад аж до просвітництва.
 
 586
 00:38:26,800 --> 00:38:29,600
 Every time someone has written down a scientific paper,
+,,
+Кожного разу як хтось написав наукову статтю,
 
 587
 00:38:29,610 --> 00:38:32,838
 it has been scanned, digitized and put in these collections.
+,,
+Її треба відсканувати, оцифрувати й додати до цієї колекції.
 
 588
 00:38:32,848 --> 00:38:35,568
 That is a legacy that has been brought to us
+,,
+Це надбання, яке дійшло до нас завдяки
 
 589
 00:38:35,768 --> 00:38:38,454
 by the history of people doing interesting work,
+,,
+історії людей, які робили цікаву роботу,
 
 590
 00:38:38,464 --> 00:38:39,758
 the history of scientists,
+,,
+історії науковців,
 
 591
 00:38:39,768 --> 00:38:43,382
 it's a legacy that should belong to us as a commons, as a people
+,,
+це надбання, яке має належати нам як суспільству, як людям,
 
 592
 00:38:43,392 --> 00:38:45,900
 but instead it's been locked down and put on-line
+,,
+але замість того, його тримають підзамком онлайн
 
 593
 00:38:45,910 --> 00:38:48,448
 by handful of for-profit corporations,
+,,
+жменя комерційних корпорацій,
 
 594
 00:38:48,616 --> 00:38:52,156
 who then try and get the maximum profit they can out of it.
+,,
+які намагаються витягнути з цього максимум доходу.
 
 595
 00:38:53,376 --> 00:38:57,288
