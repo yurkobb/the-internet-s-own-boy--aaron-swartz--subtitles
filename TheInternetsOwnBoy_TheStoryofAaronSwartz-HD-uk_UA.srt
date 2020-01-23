@@ -4430,584 +4430,876 @@ In the meantime, Swartz was becoming a goto expert on a series of Internet issue
 972
 01:01:17,930 --> 01:01:22,062
 Do you think that the Internet is something that should be considered a human right
+,,
+Чи на вашу думку Інтернет є чимось, що можна зарахувати до прав людини,
 
 973
 01:01:22,072 --> 01:01:25,130
 something that the government can not take away from you?
+,,
+щось, чого держава не повинна мати право вас позбавити?
 
 974
 01:01:25,140 --> 01:01:26,967
 Yes. Definitely.
+,,
+Так, безперечно.
 
 975
 01:01:27,127 --> 01:01:30,614
 I mean, this notion that national security is an excuse to shut down the Internet,
+,,
+Ця думка про те, що можна повністю вимкнути Інтернет і виправдовуватися національною безпекою,
 
 976
 01:01:30,624 --> 01:01:34,280
 that's exactly what we heard in Egypt, in Syria and all these other countries.
+,,
+це власне те, що ми чули в Єгипті, Сирії й усіх цих інших країнах.
 
 977
 01:01:34,290 --> 01:01:37,168
 and so its true, sites like WikiLeaks are going to be putting up
+,,
+І справді, такі сайти, як WikiLeaks, будуть публікувати
 
 978
 01:01:37,178 --> 01:01:40,022
 some embarrassing material about what what the US government does
+,,
+інформацію, якю може бути соромно визнати уряду США
 
 979
 01:01:40,032 --> 01:01:42,506
 and people are going to be organizing to protest about it
+,,
+і громадськість буде організовувати протести щодо цього
 
 980
 01:01:42,516 --> 01:01:44,019
 and try and change their government.
+,,
+й намагатися змінити владу.
 
 981
 01:01:44,029 --> 01:01:46,160
 You know, and that's a good thing.
+,,
+І це є доброю річчю.
 
 982
 01:01:46,210 --> 01:01:48,251
 Thats what all these First Amendment rights of free expression,
+,,
+Це саме те, для чого існують усі ці права Першої поправки конституції:
 
 983
 01:01:48,261 --> 01:01:49,940
 of freedom of association are all about.
+,,
+свобода слова, свобода об'єднань,
 
 984
 01:01:49,950 --> 01:01:52,360
 and so the notion that we should try and shut those down
+,,
+і тому ідея того, що ми повинні намагатися це зупинити,
 
 985
 01:01:52,370 --> 01:01:55,110
 I think, just goes against very basic American principles.
+,,
+на мою думку, суперечить основним американським принципам.
 
 986
 01:01:55,120 --> 01:01:58,128
 a principle, I think, is one that our founding fathers would have understood.
+,,
+принцип, який, на мою думку, один з наших батьків-засновників би зрозумів,
 
 987
 01:01:58,138 --> 01:01:59,779
 If the Internet had been around back then
+,,
+якби в ті часи інстував Інтернет,
 
 988
 01:01:59,789 --> 01:02:04,469
 instead of putting Post Offices in the Constitution, they would have put ISPs.
+,,
+замість згадувати в Конституції поштові відділення, вони згадали б Інтернет-провайдерів.
 
 989
 01:02:05,504 --> 01:02:10,261
 Swartz meets activist Taren Steinbrickner-Kauffman and the two begin to date.
+,,
+Шварц зустрічає активістку Терен Стайнбрікнер-Кауффман і вони починають зустрічатися.
 
 990
 01:02:10,794 --> 01:02:12,427
 ...we need a massive public outcry.
+,,
+...нам потрібне масове громадське невдоволення.
 
 991
 01:02:12,437 --> 01:02:15,648
 If there is no massive global public outcry. It won't create any change.
+,,
+Якщо немає масового, глобального громадського невдоволення, це не дасть ніяких змін.
 
 992
 01:02:15,658 --> 01:02:19,008
 You know, 4 people in this city should cause a massive global public outcry.
+,,
+Знаєте, 4 людини в цьому місті мають спричинити глобальне громадське невдоволення.
 
 993
 01:02:19,018 --> 01:02:22,140
 You know, we need a petition signer.
+,,
+Знаєте, нам треба сайт для петицій.
 
 994
 01:02:22,390 --> 01:02:24,215
 Without telling her specifics, he warned her
+,,
+Не сказавши їй нічого конкретного, він попередив її
 
 995
 01:02:24,225 --> 01:02:27,790
 he was involved in something he called simply "the bad thing".
+,,
+що він був вплутаний у дещо, що він називав просто «поганою річчю».
 
 996
 01:02:27,800 --> 01:02:29,917
 And I had, sort of, crazy theories, like
+,,
+І у мене були, типу, божевільні ідеї, наприклад,
 
 997
 01:02:29,927 --> 01:02:33,270
 that he was having an affair with Elizabeth Warren or something
+,,
+що у нього був роман з Елізабет Воррен чи щось таке
 
 998
 01:02:33,280 --> 01:02:36,580
 I speculated both Hillary Clinton and Elizabeth Warren.
+,,
+Я думала і про Гілларі Клінтон і про Елізабет Воррен.
 
 999
 01:02:38,000 --> 01:02:41,767
 So sometime in probably late July, Aaron called me
+,,
+І десь мабуть в кінці липня Аарон подзвонив мені
 
 1000
 01:02:42,356 --> 01:02:44,636
 and I happened to pick up and he said:
+,,
+я взяля трубку і він сказав:
 
 1001
 01:02:45,265 --> 01:02:47,524
 "The bad thing might be in the news tomorrow"
+,,
+«Ця погана річ напевно буде завтра в новинах»
 
 1002
 01:02:47,534 --> 01:02:49,662
 "Do you want me to tell you or do you want to read about it in the news".
+,,
+«Хочеш, щоб я тобі сказав, чи хочеш дізнатися з новин?»
 
 1003
 01:02:49,672 --> 01:02:51,832
 and I said: "I want you to tell me."
+,,
+я відповіла: «Хочу, щоб ти мені сказав.»
 
 1004
 01:02:53,469 --> 01:02:58,654
 and he said: "Well, I've been arrested"
+,,
+він відказав: «Ну, мене арештували»
 
 1005
 01:02:58,690 --> 01:03:00,830
 "for downloading too many academic journal articles"
+,,
+«за те, що я звантажив занадто багато наукових статей»
 
 1006
 01:03:00,840 --> 01:03:03,540
 "and they want to make an example out of me."
+,,
+«і вони хочуть використати мене як приклад».
 
 1007
 01:03:04,240 --> 01:03:08,906
 and I was like: "That's it? That's the big fuss? Really?"
+,,
+я була здивована: «І це все? Це була ця погана річ? Справді?»
 
 1008
 01:03:09,288 --> 01:03:11,307
 "it just doesn't sound like a very big deal."
+,,
+«зовсім не виглядає як щось серйозне.»
 
 1009
 01:03:11,317 --> 01:03:17,632
 On  July 14th, 2011, Federal prosecutors indict Swartz on 4 felony counts.
+,,
+14 липня 2011 року Шварцу оголосили обвинувачення в чотирьох злочинах.
 
 1010
 01:03:17,630 --> 01:03:18,613
 He gets indicted
+,,
+Звинувачення оголосили
 
 1011
 01:03:18,871 --> 01:03:24,110
 on the same day that two people in England who are part of LulzSec get arrested
+,,
+в той сам день, коли заарештували двоє людей в Англії, хто належали до LulzSec
 
 1012
 01:03:24,410 --> 01:03:26,995
 and few other real hackers
+,,
+а також кількох інших справжніх хакерів
 
 1013
 01:03:27,288 --> 01:03:29,910
 and Aaron is just someone who kind of looks like a hacker
+,,
+А Аарон є людиною, яка наче виглядає достатньо подібним на хакера,
 
 1014
 01:03:29,920 --> 01:03:35,082
 enough that, they can like, put his head on the stick and put it on the gates.
+,,
+що вони хотіли настромити його голову на патик і почепити на ворота.
 
 1015
 01:03:35,317 --> 01:03:38,794
 Aaron went to surrender and they arrested him.
+,,
+Аарон пішов, щоб здатися і його заарештували.
 
 1016
 01:03:39,178 --> 01:03:42,336
 they then strip searched him.
+,,
+Потім вони обшукали його голяка.
 
 1017
 01:03:42,417 --> 01:03:45,137
 took away his shoelaces, took away his belt
+,,
+Забрали його шнурівки, пояс,
 
 1018
 01:03:45,324 --> 01:03:47,544
 and left him in solitary confinement.
+,,
+і залишили в камері-одиночці.
 
 1019
 01:03:50,290 --> 01:03:52,941
 The District of Massachusetts, United States Attorney's Office
+,,
+Прокурорський офіс Массачусетського округу
 
 1020
 01:03:52,951 --> 01:03:54,862
 released a statement saying:
+,,
+опублікував заяву:
 
 1021
 01:03:54,897 --> 01:03:57,795
 "Swartz faces up to 35 years in prison
+,,
+«Шварца чекає до 35 років в'язниці
 
 1022
 01:03:57,875 --> 01:04:00,656
 to be followed by 3 years of supervised release
+,,
+після чого 3 роки нагляду на волі
 
 1023
 01:04:00,666 --> 01:04:05,350
 restitution, forfeiture and a fine of up to $1 million dollars."
+,,
+компенсація збитків, конфіскація і штраф до 1 млн доларів.»
 
 1024
 01:04:06,248 --> 01:04:09,130
 He is released on a $100,000 bail.
+,,
+Його випустили під заставу у $100 тис.
 
 1025
 01:04:09,380 --> 01:04:12,417
 The same day, the primary victim in the case JSTOR
+,,
+Того ж дня, основна постраждала сторона у справі — JSTOR
 
 1026
 01:04:12,560 --> 01:04:17,217
 formally drops all charges against Swartz and declines to pursue the case.
+,,
+знімає всі звинувачення проти Шварца і відмовляється продовжувати справу.
 
 1027
 01:04:17,822 --> 01:04:21,661
 JSTOR, they weren't our friends. They weren't helpful or friendly to us
+,,
+JSTOR, вони не були нашими друзями. Вони не допомагали й не були дружніми до нас
 
 1028
 01:04:21,671 --> 01:04:25,270
 but they also were just kind of like "We are not part of this".
+,,
+але вони також не хотіли бути частиною цього.
 
 1029
 01:04:25,280 --> 01:04:27,560
 JSTOR, and their parent company Ithica
+,,
+JSTOR та їхня батьківська компанія Ithica
 
 1030
 01:04:27,662 --> 01:04:30,780
 also sidestepped requests to talk with this film.
+,,
+також уникали відповіді на запити від авторів цього фільму.
 
 1031
 01:04:30,970 --> 01:04:33,341
 But at the time they released a statement saying
+,,
+Але коли вони опублікували заяву, у якій вони стверджували
 
 1032
 01:04:33,351 --> 01:04:37,371
 it was the government's decision whether to prosecute, not JSTOR's.
+,,
+що відкриття справи було рішенням уряду, а не JSTOR'у.
 
 1033
 01:04:38,208 --> 01:04:42,304
 And so it was our belief that with that the case would be over
+,,
+І тоді ми вважали, що на цьому ця справа буде закінченою
 
 1034
 01:04:42,675 --> 01:04:45,385
 that we should be able to get Stephen Heymann to drop the case
+,,
+що нам вдасться переконати Стівена Геймана її закрити
 
 1035
 01:04:45,395 --> 01:04:48,170
 or settle in some rational way.
+,,
+або дійти якоїсь раціональної домовленості.
 
 1036
 01:04:48,789 --> 01:04:50,409
 And the government refused.
+,,
+Але уряд відмовив.
 
 1037
 01:04:51,137 --> 01:04:52,157
 Interviewer: Why?
+,,
+Інтерв'юер: Чому?
 
 1038
 01:04:55,315 --> 01:04:58,140
 Well, because I think, they wanted to make an example out of Aaron
+,,
+Тому що, на мою думку, вони хотіли використати Аарона як приклад
 
 1039
 01:04:58,150 --> 01:05:03,200
 and they said the reason why they wouldn't move on
+,,
+вони казали, що причиною того, що вони не стали продовжувати
 
 1040
 01:05:03,235 --> 01:05:05,474
 requiring a felony conviction and jail time
+,,
+вимагати ув'язнення як кримінального злочинця,
 
 1041
 01:05:05,484 --> 01:05:12,190
 was that they wanted to use this case as a case for deterrence.
+,,
+полягала в тому, що вони хотіли використати цю справу для запобігання [правопорушень].
 
 1042
 01:05:12,192 --> 01:05:13,301
 They told us that.
+,,
+Вони це сказали нам.
 
 1043
 01:05:13,395 --> 01:05:14,212
 Interviewer: They told you that?
+,,
+Інтерв'юер: Вони вам це сказали?
 
 1044
 01:05:14,222 --> 01:05:15,000
 Yes.
+,,
+Так.
 
 1045
 01:05:15,315 --> 01:05:17,376
 Interviewer: This was gonna be an example?
 Aaron's Father: Yes.
+,,
+Інтерв'юер: Це мало стати прикладом?
+Батько Аарона: Так.
 
 1046
 01:05:17,386 --> 01:05:21,945
 Interviewer: He was gonna be an example?
 Aaron's Father: Yes. Steve Heymann said that.
+,,
+Інтерв'юер: Його хотіли зробити прикладом?
+Батько Аарона: Так. Стів Нейман сам це сказав.
 
 1047
 01:05:21,955 --> 01:05:23,413
 Deterring who?
+,,
+Запобігання щодо кого?
 
 1048
 01:05:23,466 --> 01:05:26,505
 There's no other people running around logging onto JSTOR
+,,
+Немає інших людей, які бігають і заходять в JSTOR
 
 1049
 01:05:26,515 --> 01:05:29,710
 and downloading the articles to make a political statement, I mean, who are they deterring?
+,,
+і завантажують статті, щоб зробити таким чином політичну заявку, ну тобто, кого вони хочуть стримувати?
 
 1050
 01:05:29,720 --> 01:05:35,502
 It would be easier to understand the Obama Administration's posture
+,,
+Було б легше зрозуміти позицію адміністрації Обами
 
 1051
 01:05:35,520 --> 01:05:40,853
 of supposedly being for deterrence if this was an Administration that, for instance
+,,
+що вони ніби-то підтримують запобігання [правопорушень через суд], якби це була Адміністрація,
 
 1052
 01:05:40,880 --> 01:05:45,883
 prosecuted arguably the biggest economic crime that this country has seen in the last 100 years
+,,
+яка розслідувала найбільший економічний злочин, який ця країна бачила за останні 100 років
 
 1053
 01:05:45,893 --> 01:05:50,114
 the crimes that were committed that led to the financial crisis on Wall Street.
+,,
+злочини, які були були здійснені і призвели до фінансової кризи 2008 року.
 
 1054
 01:05:50,124 --> 01:05:58,310
 When you start deploying the non-controversial idea of deterrence only selectively
+,,
+Коли ви починаєте використовувати неконтроверсійну ідею запобігання лише вибірково
 
 1055
 01:05:58,360 --> 01:06:01,964
 you stop making a dispassionate analysis of law breaking
+,,
+ви перестаєте робити неупереджений аналіз порушень закону
 
 1056
 01:06:02,000 --> 01:06:06,417
 and you start deciding to deploy law enforcement resources
+,,
+і починаєте використовувати ресурси правоохоронних органів
 
 1057
 01:06:06,520 --> 01:06:10,151
 specifically on the basis of political ideology
+,,
+на основі політичної ідеології
 
 1058
 01:06:10,275 --> 01:06:15,570
 and thats not just un-democratic it is supposed to be un-American.
+,,
+і це не лише недемократично, це мало б вважатися не по-американськи.
 
 1059
 01:06:19,850 --> 01:06:24,050
 Prosecutor Stephen Heymann later reportedly told MIT's outside counsel
+,,
+Прокурор Стівен Гейман пізніше, згідно повідомлень, сказав зовнішнім юристам MIT
 
 1060
 01:06:24,150 --> 01:06:27,456
 that the straw that broke the camel's back was a press release
+,,
+що останньою краплею став прес-реліз
 
 1061
 01:06:27,466 --> 01:06:31,323
 sent out by an organization Swartz founded called "Demand Progress".
+,,
+який розіслала організація «Demand Progress» («Вимагаймо Прогресу»)
 
 1062
 01:06:31,333 --> 01:06:33,120
 According to the MIT account
+,,
+Згідно з інформацією від MIT
 
 1063
 01:06:33,191 --> 01:06:35,981
 Heymann reacted to the short statement of support
+,,
+Гейман відреагував на коротке висловлення підтримки
 
 1064
 01:06:35,991 --> 01:06:38,186
 calling it a wild Internet campaign
+,,
+назвавши його дикою Інтернет-кампанією
 
 1065
 01:06:38,302 --> 01:06:44,160
 and a foolish move that moved the case from human one-on-one level to an institutional level.
+,,
+та нерозумним кроком, який перевів справу з рівня один-на-один між людьми до рівня інституцій.
 
 1066
 01:06:44,231 --> 01:06:46,622
 That was a poisonous combination.
+,,
+Це була отруйна комбінація.
 
 1067
 01:06:46,684 --> 01:06:51,234
 A prosecutor who didn't want to lose face, who had a political career in the offing maybe
+,,
+Прокурор, який не хотів втратити свою репутацію, можливо мав уже пропозиції для політичної кар'єри
 
 1068
 01:06:51,244 --> 01:06:53,492
 and didn't want to have this come back and haunt them.
+,,
+і не хотів, щоб це потім за ним ходило й переслідувало.
 
 1069
 01:06:53,502 --> 01:06:57,888
 you spent how many tax dollars arresting someone for taking too many books out of the library
+,,
+Ви витратили купу податків на те, щоб заарештувати людину за те, що вона взяла занадто багато книжок у бібліотеці
 
 1070
 01:06:57,898 --> 01:07:00,960
 and then got your ass handed to you in court. No way!
+,,
+і вас повністю розіб'ють у суді. Е, ні!
 
 1071
 01:07:00,970 --> 01:07:04,648
 I then moved to try and put pressure on MIT in various ways
+,,
+Я спробував знайти спосіб якось натиснути на MIT
 
 1072
 01:07:04,684 --> 01:07:06,381
 to get them to go to the government
+,,
+щоб вони пішли до уряду
 
 1073
 01:07:06,391 --> 01:07:10,071
 and request the government to stop the prosecution.
+,,
+й попросили припинити провадження.
 
 1074
 01:07:11,217 --> 01:07:13,737
 Interviewer: What was MIT's reaction then?
+,,
+Інтерв'юер: Якою була реакція MIT?
 
 1075
 01:07:14,275 --> 01:07:17,935
 There doesn't seem to be any reaction from MIT at that point.
+,,
+Ми не бачили ніякої реакції від MIT тоді.
 
 1076
 01:07:23,110 --> 01:07:25,724
 MIT doesn't defend Aaron
+,,
+MIT не захищає Аарона
 
 1077
 01:07:25,910 --> 01:07:30,497
 which to people inside of MIT community seems outrageous
+,,
+що обурюює людей всередині спільноти MIT
 
 1078
 01:07:30,542 --> 01:07:35,700
 because MIT is a place that encourages hacking in the biggest sense of the word.
+,,
+адже MIT завжди був місцем, де заохочували хакування у найблагороднішому значенні слова.
 
 1079
 01:07:35,900 --> 01:07:39,740
 At MIT the idea of going and running around on roofs and tunnels
+,,
+У MIT думка про те, щоб бігати по дахах чи тунелях
 
 1080
 01:07:39,751 --> 01:07:43,711
 that you weren't allowed to be in, was not only a rite of passage,
+,,
+де вам не можна було перебувати, було не лише способом посвяти,
 
 1081
 01:07:43,733 --> 01:07:45,870
 it was part of the MIT tour
+,,
+це було частиною туру MIT
 
 1082
 01:07:45,877 --> 01:07:49,952
 and lock picking was a winter course at MIT.
+,,
+а підбирання замків було серед зимових курсів у MIT.
 
 1083
 01:07:50,990 --> 01:07:56,074
 They had the moral authority to stop it in its tracks.
+,,
+У них був моральний авторитет зупинити цей процес.
 
 1084
 01:07:56,186 --> 01:08:00,780
 MIT never stood up and took a position of saying to the Feds:
+,,
+MIT жодного разу не зайняли чітку позицію, щоб сказати федералам:
 
 1085
 01:08:00,980 --> 01:08:03,902
 "Don't do this. We don't want you to do this
+,,
+«Не робіть цього. Ми не хочемо, щоб ви це робили
 
 1086
 01:08:03,937 --> 01:08:07,657
 you are over reacting, this is too strong", that I'm aware of.
+,,
+ви перестаралися, це занадто». Принаймні мені про таке невідомо.
 
 1087
 01:08:08,800 --> 01:08:12,506
 They acted kind of like any corporation would.
+,,
+Вони діяли так, як будь-яка корпорація.
 
 1088
 01:08:12,551 --> 01:08:15,680
 They helped the government, they didn't help us
+,,
+Вони допомагали уряду, і не допомагали нам.
 
 1089
 01:08:15,680 --> 01:08:21,418
 unless they felt that they had to, and they never tried to stop it.
+,,
+якщо вони не були вимушені, вони не намагалися цього зупинити.
 
 1090
 01:08:22,442 --> 01:08:25,216
 MIT declined repeated requests to comment.
+,,
+MIT відповіли відмовою на запит на коментар.
 
 1091
 01:08:25,216 --> 01:08:30,198
 but they later released a report saying that they attempted to maintain a position of neutrality
+,,
+але потім вони опублікували звіт, де сказали, що намагалися триматися нейтральної позиції
 
 1092
 01:08:30,208 --> 01:08:35,851
 and believed Heymann and the US Attorney's office did not care what MIT thought or said about the case.
+,,
+та вважали, що Гейман і Прокурорський офіс не зважали на те, що MIT вважав чи казав про цю справу.
 
 1093
 01:08:35,861 --> 01:08:41,472
 MIT's behavior seemed really at odds with the MIT ethos.
+,,
+Поведінка MIT справді не виглядала відповідною до етосу MIT.
 
 1094
 01:08:42,069 --> 01:08:47,274
 You could argue that MIT turned a blind eye and that was okay for them to do
+,,
+Ви можете сказати, що MIT не зважав на це, і що їм можна було так зробити
 
 1095
 01:08:47,445 --> 01:08:52,747
 but taking that stance, taking that neutral stance in and of itself, was taking a pro-prosecutor stance.
+,,
+але обираючи таку позицію, позицію нейтральності, само по собі означно бути на боці прокурора.
 
 1096
 01:08:52,757 --> 01:08:58,922
 If you look at Steve Jobs and Steve Wozniack, they started by selling a blue box
+,,
+Якщо ви подивитеся на Стіва Джобса чи Стіва Возняка, вони починали з продавання синьої коробки
 
 1097
 01:08:58,922 --> 01:09:01,700
 which was a thing designed to defraud the phone company.
+,,
+суть якої полягала в тому, щоб дурити телефонну компанію.
 
 1098
 01:09:01,710 --> 01:09:04,506
 If you look at Bill Gates and Paul Allen,
+,,
+Якщо ви подивитеся на Білла Ґейтса чи Пола Аллена,
 
 1099
 01:09:04,551 --> 01:09:08,811
 they initially started their business by using computer time at Harvard
+,,
+вони починали свій бізнес, використовуючи комп'ютерні ресурси Гарварду
 
 1100
 01:09:08,826 --> 01:09:11,130
 which was pretty clearly against the rules.
+,,
+що було очевидним порушенням правил.
 
 1101
 01:09:11,140 --> 01:09:13,456
 The difference between Aaron and the people that I just mentioned
+,,
+Різниця між Аароном і людьми, яких я щойно згадав
 
 1102
 01:09:13,466 --> 01:09:18,806
 is that Aaron wanted to make the world a better place, he didn't just want to make money.
+,,
+полягає в тому, що Аарон хотів зробити світ кращим, а не просто заробляти гроші.
 
 1103
 01:09:19,244 --> 01:09:23,300
 Swartz continues to be outspoken on a variety of Internet Issues.
+,,
+Шварц продовує активно висловлюватися щодо ряду проблем Інтернету.
 
 1104
 01:09:23,440 --> 01:09:28,580
 You know, the reason the Internet works is because of the competitive marketplace of ideas.
+,,
+Знаєте, Інтернет працює, тому що це є конкурентим ринком ідей.
 
 1105
 01:09:28,590 --> 01:09:31,838
 and what we need to be focusing on is getting more information about our government
+,,
+і нам потрібно зосередитися на тому, щоб отримувати більше інформації про уряд
 
 1106
 01:09:31,848 --> 01:09:34,731
 more accessibility, more discussion, more debate.
+,,
+більше доступу, більше обговорення, більше дискусії.
 
 1107
 01:09:34,741 --> 01:09:38,505
 but instead, it seems what Congress is focused on, is shutting things down
+,,
+але натомість, виглядає так, наче Конгрес намагається закривати і зупиняти різні речі
 
 1108
 01:09:38,515 --> 01:09:40,478
 Aaron thought he could change the world
+,,
+Аарон вважав, що може змінити світ
 
 1109
 01:09:40,488 --> 01:09:44,071
 just by explaining the world very clearly to people.
+,,
+просто чітко пояснюючи його людям.
 
 1110
 01:09:44,346 --> 01:09:48,920
 FLAME can literally control your computer and make it spy on you.
+,,
+FLAME може буквально контролювати ваш комп'ютер і шпигувати за вами.
 
 1111
 01:09:48,960 --> 01:09:52,050
 Welcome Aaron, good to have you back on the show here.
+,,
+Вітаємо, Аароне, раді бачити тебе знову в нашій програмі.
 
 1112
 01:09:52,060 --> 01:09:54,360
 You know, just like spies used to, in olden days,
+,,
+Знаєте, як колись шпигуни встановлювали
 
 1113
 01:09:54,370 --> 01:09:56,363
 put microphones and tap what people were saying,
+,,
+мікрофони, щоб прослуховувати розмови людей,
 
 1114
 01:09:56,373 --> 01:09:59,243
 now they are using computers to do the same things.
+,,
+зараз вони використовують комп'ютери, щоб робити те саме.
 
 1115
 01:09:59,253 --> 01:10:01,621
 Swartz's political activity continues,
+,,
+Політична діяльність Шварца продовжується,
 
 1116
 01:10:01,777 --> 01:10:06,838
 his attention turning to a bill moving through Congress designed to curb on-line piracy.
+,,
+
 
 1117
 01:10:06,848 --> 01:10:08,896
