@@ -5299,515 +5299,768 @@ Swartz's political activity continues,
 01:10:01,777 --> 01:10:06,838
 his attention turning to a bill moving through Congress designed to curb on-line piracy.
 ,,
-
+його увагу привернув законопроєкт у Конгресі, який мав би придушити піратство онлайн.
 
 1117
 01:10:06,848 --> 01:10:08,896
 It was called SOPA.
+,,
+Він називався SOPA.
 
 1118
 01:10:09,200 --> 01:10:12,980
 Activists like Peter Eckersley saw it as an enormous overreach,
+,,
+Такі активісти, як Пітер Екерслі, вважали його серйозним перегинанням палки,
 
 1119
 01:10:13,084 --> 01:10:15,883
 threatening the technical integrity of Internet itself.
+,,
+яке поставить під загрозу технологічну цілісність самого Інтернету.
 
 1120
 01:10:15,893 --> 01:10:18,230
 And one of the first things I did was to call Aaron,
+,,
+Перше, що я зробив, — подзволив Аарону,
 
 1121
 01:10:18,240 --> 01:10:21,900
 and I said can we do a big on-line campaign against this,
+,,
+і спитав: ми можемо зробити велику онлайн-кампанію проти цього?
 
 1122
 01:10:21,955 --> 01:10:24,115
 "This isn't a bill about copyright."
+,,
+«Це не закон про авторське право.»
 
 1123
 01:10:25,109 --> 01:10:25,941
 "It's not?"
+,,
+«Ні?»
 
 1124
 01:10:26,355 --> 01:10:29,930
 "No", he said. "It's a bill about the freedom to connect."
+,,
+«Ні», він сказав. «Це закон про свободу спілкування».
 
 1125
 01:10:30,533 --> 01:10:31,733
 Now I was listening.
+,,
+Тепер я уважно слухав.
 
 1126
 01:10:32,177 --> 01:10:35,608
 And he thought about it for a while and then said yes,
+,,
+І він подумав над цим деякий час, а тоді сказав так,
 
 1127
 01:10:35,715 --> 01:10:38,115
 and he went and founded Demand Progress.
+,,
+і заснував «Вимагаймо Прогресу».
 
 1128
 01:10:38,400 --> 01:10:40,710
 Demand Progress in an on-line activism organization.
+,,
+«Вимагаймо Прогресу» — це онлайнова активістська організація.
 
 1129
 01:10:40,720 --> 01:10:44,240
 We got around a million and half members now.
+,,
+У нас уже є понад півтора мільйона членів.
 
 1130
 01:10:44,355 --> 01:10:47,182
 But started in the Fall on 2010.
+,,
+Але заснована восени 2010.
 
 1131
 01:10:47,297 --> 01:10:49,332
 Aaron was one of the most prominent people
+,,
+Аарон був однією з ключових осіб
 
 1132
 01:10:49,342 --> 01:10:52,043
 in a community of people who helped lead organizing
+,,
+у спільноті людей, яка допомогала організовуватися довкола
 
 1133
 01:10:52,053 --> 01:10:55,750
 around social justice issues at the federal level in this country.
+,,
+питань соціальної справедливості на федеральному рівні цієї держави.
 
 1134
 01:10:55,760 --> 01:11:01,440
 SOPA was the bill that was intended to curtail on-line piracy of music and movies,
+,,
+SOPA був законопроєктом, який був задуманий для згортання онлайн-піратства музики й фільмів,
 
 1135
 01:11:01,480 --> 01:11:04,897
 but what it did was basically take a sledge hammer
+,,
+але в дійсності це був ніби великий молоток
 
 1136
 01:11:04,924 --> 01:11:07,060
 to a problem that needed a scalpel.
+,,
+яким пробували розв'язати проблему, що потребувала скальпеля.
 
 1137
 01:11:07,226 --> 01:11:11,918
 If passed, the law would allow a company to cut off finances to entire websites
+,,
+Якщо б його прийняли, закон дозволив би компаніями відрізати фінансування цілих вебсайтів
 
 1138
 01:11:11,928 --> 01:11:16,650
 without due process or even to force Google to exclude their links
+,,
+без належного розгляду, або ж навіть змусити Google вилучити посилання на сайт
 
 1139
 01:11:16,949 --> 01:11:20,609
 all they needed was a single claim of copyright infringement.
+,,
+і все, що було би для цього потрібно — одна заява про порушення авторського права.
 
 1140
 01:11:20,808 --> 01:11:23,918
 It pitted the titans of traditional media against a new
+,,
+SOPA робить титанів традиційних медіа ворогами нової
 
 1141
 01:11:23,928 --> 01:11:26,720
 and now far more sophisticated remix culture.
+,,
+і складнішої культури реміксу.
 
 1142
 01:11:27,160 --> 01:11:30,340
 It makes everyone who runs a website into a policeman
+,,
+Він змушує будь-кого, хто є власником вебсайту, ставати поліціянтом
 
 1143
 01:11:30,382 --> 01:11:33,056
 and if they don't do their job of making sure nobody on their site
+,,
+і якщо він не зробить усе можливе, щоб впевнитися, що ніхто на цьому сайті
 
 1144
 01:11:33,066 --> 01:11:35,643
 uses it for anything that's even potentially illegal
+,,
+не використовує його для чогось навіть потенційно незаконного
 
 1145
 01:11:35,653 --> 01:11:38,612
 the entire site could get shutdown without even so much as a trial.
+,,
+увесь сайт можуть закрити без хоча б розгляду.
 
 1146
 01:11:38,622 --> 01:11:43,500
 This was over the top. I mean, this was a catastrophe.
+,,
+Це було забагато. Ну тобто, це була катастрофа.
 
 1147
 01:11:43,706 --> 01:11:49,310
 This bill poses a serious threat to speech and civil liberties
+,,
+Законопроєкт є серйозною загрозою [свободі] слова і громадським свободам
 
 1148
 01:11:49,368 --> 01:11:51,570
 for all who use the Internet.
+,,
+усіх, хто користується Інтернетом.
 
 1149
 01:11:51,626 --> 01:11:55,848
 Only handful of us who said: "Look we are not for piracy either
+,,
+Лише жменя тих, хто казали: «Ми також не підтримуємо піратство
 
 1150
 01:11:56,293 --> 01:11:59,074
 but it makes no sense to destroy the architecture of the Internet,
+,,
+але не можна знищити архітектуру Інтернету,
 
 1151
 01:11:59,084 --> 01:12:03,466
 the domain name system and so much that makes it free and open
+,,
+системи доменних імен, і усе, що робить його вільним і відкритим,
 
 1152
 01:12:03,591 --> 01:12:06,080
 in the name of fighting piracy
+,,
+в ім'я боротьби проти підратства,
 
 1153
 01:12:06,142 --> 01:12:07,670
 and Aaron got that right away.
+,,
+і Аарон відразу це зрозумів.
 
 1154
 01:12:07,680 --> 01:12:09,643
 The freedoms guaranteed in our constitution,
+,,
+Свободи, які гарантовані нам конституцією,
 
 1155
 01:12:09,653 --> 01:12:13,840
 the freedoms our country had been built on would be suddenly deleted.
+,,
+свободи, на яких наша країна була збудована, були б за секунду стерті.
 
 1156
 01:12:14,124 --> 01:12:16,932
 New technology, instead of bringing us greater freedom
+,,
+Нова технологія, замість приносити нам більшу свободу
 
 1157
 01:12:16,942 --> 01:12:21,382
 would have snuffed out fundamental rights we had always taken for granted.
+,,
+забрала б нам фундаментальні права, які ми завжди вважали як дані,
 
 1158
 01:12:21,422 --> 01:12:26,850
 And I realized that day, talking to Peter, that I couldn't let that happen.
+,,
+І в той день, коли розмовляв з Пітеорм, я зрозумів, що не можу цього допустити.
 
 1159
 01:12:28,497 --> 01:12:33,360
 When SOPA was introduced in October 2011 it was considered inevitable.
+,,
+Коли SOPA запропонували у жовтні 2011 року, його вважали неуникним.
 
 1160
 01:12:33,422 --> 01:12:37,510
 Our strategy when it first came out was to hopefully slow the bill down
+,,
+Наша стратегія на початку полягала в тому, щоб відтягнути його ухвалення
 
 1161
 01:12:37,520 --> 01:12:39,573
 maybe weaken it a little bit
+,,
+і можливо трохи послабити
 
 1162
 01:12:39,600 --> 01:12:44,355
 but even we didn't think that we would be able to stop this bill.
+,,
+але навіть ми не думали, що зможемо зупинити цей законопроєкт.
 
 1163
 01:12:45,920 --> 01:12:49,431
 Having worked in Washington what you learn is that
+,,
+Якщо ви працювали у Вашингтоні, ви мали можливість бачити,
 
 1164
 01:12:49,982 --> 01:12:53,377
 typically in Washington the legislative fights
+,,
+що типово у Вашингтоні законодавчі протистояння
 
 1165
 01:12:53,644 --> 01:12:57,760
 are fights between different sets of corporate money interests.
+,,
+погялають у протистоянні між різними корпоративними фінансовими інтересами.
 
 1166
 01:12:58,000 --> 01:13:00,613
 And all duking it out to pass legislation
+,,
+І всі вливають кошти, щоб протягнути законопроєкт.
 
 1167
 01:13:00,650 --> 01:13:05,376
 and the fights that are the closest are when you have one set of corporate interests
+,,
+і найгарячіші протистояння тоді, коли у вас є один блок корпоративних інтересів
 
 1168
 01:13:05,386 --> 01:13:08,158
 against another set of corporate interests and they are financially
+,,
+проти іншого такого блоку, і фінансово вони
 
 1169
 01:13:08,168 --> 01:13:11,158
 equally matched in terms of campaign contributions and lobbying.
+,,
+на одному рівні в контексті лобіювання і пожертв політичним кампаніям.
 
 1170
 01:13:11,168 --> 01:13:12,788
 Those are the closest ones.
+,,
+Це найбільш наближені протистояння.
 
 1171
 01:13:13,013 --> 01:13:15,518
 The ones that aren't even fights, typically,
+,,
+Ті, що навіть не можна назвати протистояннями, зазвичай,
 
 1172
 01:13:15,528 --> 01:13:18,440
 are ones where all the money is on one side
+,,
+це ті, де всі гроші на одному боці,
 
 1173
 01:13:18,480 --> 01:13:20,381
 all the corporations are on one side,
+,,
+усі корпорації там же,
 
 1174
 01:13:20,391 --> 01:13:23,391
 and its just millions of people on the other side.
+,,
+а по інший бік — мільйони людей.
 
 1175
 01:13:25,141 --> 01:13:30,560
 I haven't seen anything like PIPA and SOPA in all my time in public service
+,,
+Я не бачив нічого такого, як PIPA і SOPA за всю мою роботу на громадській службі
 
 1176
 01:13:31,413 --> 01:13:36,832
 there were more than 40 United States senators on that bill as co-sponsors.
+,,
+було понад 40 сенаторів США, які підтримували законопроєкт.
 
 1177
 01:13:37,557 --> 01:13:43,744
 So they were already a long long way to getting 60 votes to clear all the procedural hoops.
+,,
+і вони вже були близько до того, щоб дістати 60 голосів, щоб закрити усі процедурні питання.
 
 1178
 01:13:44,682 --> 01:13:48,010
 Even I began to doubt myself. It was a rough period.
+,,
+Навіть я почав сумніватися. Це був складний час.
 
 1179
 01:13:48,010 --> 01:13:51,850
 Swartz and Demand Progress were able to marshal enormous support
+,,
+Шварц і «Вимагаймо прогресу» змогли отримати величезну підтримку
 
 1180
 01:13:52,106 --> 01:13:56,168
 using traditional outrage combined with commonly used Voice over IP
+,,
+використовуючи традиційне висловлювання невдоволення в поєднанні з IP-телефонією
 
 1181
 01:13:56,370 --> 01:13:59,310
 to make it very easy for people to call Congress.
+,,
+щоб полегшити людям дзвонити в Конгрес.
 
 1182
 01:13:59,850 --> 01:14:03,857
 I've never met anybody else who was able to operate at his level,
+,,
+Я ніколи раніше не зустрічав нікого, хто міг діяти на такому рівні,
 
 1183
 01:14:03,928 --> 01:14:08,320
 both on the technological side and on the campaign strategy side.
+,,
+як з точки зору технології, так і з точки зору стратегування кампанії.
 
 1184
 01:14:08,453 --> 01:14:12,593
 Millions of people contacted Congress and signed anti-SOPA petitions.
+,,
+Мільйони людей звернулися до Конгресу й підписали петиції проти SOPA.
 
 1185
 01:14:13,048 --> 01:14:14,970
 Congress was caught off guard.
+,,
+Конгрес застали зненацька.
 
 1186
 01:14:15,660 --> 01:14:20,670
 There was just something about watching those clueless members of Congress debate the bill,
+,,
+Було щось таке в тому, коли ми бачили як члени Конгресу обговорюють законопроєкт, не маючи
 
 1187
 01:14:20,680 --> 01:14:22,825
 watching them insist they could regulate the Internet
+,,
+жодного уявлення про Інтернет, і наполягають, що можуть його регулювати
 
 1188
 01:14:22,835 --> 01:14:25,083
 and a bunch of nerds couldn't possibly stop them.
+,,
+і що гурток «ботанів» не можуть їх зупинити.
 
 1189
 01:14:25,093 --> 01:14:26,071
 I'm not a nerd.
+,,
+Я не «ботан».
 
 1190
 01:14:26,133 --> 01:14:27,678
 I am just not enough of a nerd.
+,,
+Я просто недостатньо «ботан».
 
 1191
 01:14:27,688 --> 01:14:30,859
 ...maybe we ought to ask some nerds what this thing really does.
+,,
+і можливо нам варто би спитати «ботанів», що ця річ насправді робить.
 
 1192
 01:14:30,869 --> 01:14:33,329
 Let's have a hearing, bring in the nerds.
+,,
+Зробімо слухання, запросимо «ботанів».
 
 1193
 01:14:35,617 --> 01:14:36,390
 Really?
+,,
+Дійсно?
 
 1194
 01:14:39,760 --> 01:14:41,031
 Nerds?
+,,
+«Ботанів?»
 
 1195
 01:14:42,088 --> 01:14:46,228
 You know, I think actually the word you are looking for is "Experts".
+,,
+Знаєте, я думаю, що ви правильне слово — «експерти».
 
 1196
 01:14:46,698 --> 01:14:53,290
 to enlighten you, so your laws won't backfire, break the Internet.
+,,
+щоб вас просвітити, щоб ваші закони не вилізли боком і не зруйнували Інтернет.
 
 1197
 01:14:53,351 --> 01:14:56,790
 We use the term Geek, but we're allowed to use that because we are geeks.
+,,
+Ми використовуємо слово «ґік», але нам можна так казати, бо ми і є «ґіки».
 
 1198
 01:14:56,800 --> 01:15:01,880
 The fact that it got as far as it did without them talking to any technical experts
+,,
+Сам факт того, що воно зайшло так далеко без консультації з технічними експертами
 
 1199
 01:15:01,888 --> 01:15:04,727
 reflects the fact that there is a problem in this town.
+,,
+показує, що в цьому місті є проблема.
 
 1200
 01:15:04,737 --> 01:15:10,115
 I'm looking for somebody to come before this body and testify in a hearing
+,,
+Мені треба когось, хто прийде сюди й буде свідчити на слуханні
 
 1201
 01:15:10,248 --> 01:15:12,288
 and say this is why they're wrong.
+,,
+і пояснить, чому вони не мають рації.
 
 1202
 01:15:12,320 --> 01:15:15,536
 There used to be an office that provided Science and Technology advice
+,,
+Колись було бюро надання консультацій щодо науки і технології
 
 1203
 01:15:15,546 --> 01:15:19,480
 and members could go to them and say "Help me understand XYZ".
+,,
+і члени Конгресу могли піти туди й сказати: «Допоможіть мені краще розуміти XYZ»
 
 1204
 01:15:19,488 --> 01:15:22,059
 and Gingrich killed it. He said it was waste of money.
+,,
+Але Ґінґріч його закрив. Він казав, що це було марнування коштів.
 
 1205
 01:15:22,069 --> 01:15:25,717
 Ever since then Congress has plunged into the dark ages.
+,,
+З того часу Конгрес скотився до темних віків.
 
 1206
 01:15:26,097 --> 01:15:30,212
 I don't think anybody really thought that SOPA could be beaten, including Aaron.
+,,
+Не думаю, що хтось припускав, що SOPA можливо буде зупинити, навіть Аарон.
 
 1207
 01:15:30,222 --> 01:15:34,053
 I think it was worth trying, but it didn't seem winnable.
+,,
+На мою думку, це треба було спробувати, але шансів виграти було мало.
 
 1208
 01:15:34,506 --> 01:15:37,136
 And I remember, maybe a few months later, I remember him
+,,
+І я пам'ятаю, може кілька місяців потому, я пам'ятаю, як він
 
 1209
 01:15:37,146 --> 01:15:40,384
 just turning to me and being like "I think we might win this"
+,,
+повернувся до мене і сказав: «Думаю, ми можемо виграти»
 
 1210
 01:15:40,394 --> 01:15:42,734
 and I was like "That would be amazing!"
+,,
+я відповіла: «Це було б чудово!»
 
 1211
 01:15:44,500 --> 01:15:50,238
 Calls to Congress continue when the domain hosting site GoDaddy becomes a supporter of the bill.
+,,
+Дзвінки до Конгресу продовжуються, коли доменний реєстратор GoDaddy стає на підтримку законопроєкту.
 
 1212
 01:15:50,248 --> 01:15:54,920
 Tens of thousands of users transfered their domain names in protest.
+,,
+Десятки тисяч користувачів перенесли свої доменні імена в знак протесту.
 
 1213
 01:15:55,351 --> 01:15:59,650
 Within a week, a humbled GoDaddy reverses their position on SOPA.
+,,
+Протягом тижня, упокорений GoDaddy відмовляється від підтримки SOPA.
 
 1214
 01:15:59,650 --> 01:16:04,453
 About when the Congress people that supported these
+,,
+Приблизно коли члени Конгресу, які підтримували
 
 1215
 01:16:04,471 --> 01:16:08,336
 the record and movie industries realize that there was this backlash
+,,
+кіно- і музичну індустрію, розуміють, що є спротив
 
 1216
 01:16:08,346 --> 01:16:10,420
 they kind of scaled the bill back a little bit
+,,
+вони трішки зменшили масштаби
 
 1217
 01:16:10,430 --> 01:16:11,678
 you could see the curve happening.
+,,
+можна було чітко бачити, що відбувається зміну курсу.
 
 1218
 01:16:11,688 --> 01:16:15,890
 you could see that our arguments were starting to resonate.
+,,
+ми бачили, що наші аргументи починають отримувати відгук.
 
 1219
 01:16:15,946 --> 01:16:18,976
 It was like Aaron had been like striking a match and it was being blown out...
+,,
+Це було так, наче Аарон запалює сірника, а він не горить...
 
 1220
 01:16:18,986 --> 01:16:21,100
 striking another one and being blown out and finally
+,,
+запалює іншого, і той теж не горить, а тоді
 
 1221
 01:16:21,110 --> 01:16:24,779
 he managed to catch enough kindling that the flame actually caught
+,,
+йому вдалося набрати достатньо дров, щоб вогнище охопило вогнем
 
 1222
 01:16:24,789 --> 01:16:27,019
 and then they turned into this roaring blaze.
+,,
+і перетворилося на могутнє полум'я
 
 1223
 01:16:27,029 --> 01:16:32,042
 On January 16th, 2012, the White House issued a statement saying
+,,
+16 січня 2012 р. Білий дім опублікував заяву, де було сказано,
 
 1224
 01:16:32,042 --> 01:16:33,782
 they didn't support the bill.
+,,
+що вони не підтримують законопроєкт.
 
 1225
 01:16:34,048 --> 01:16:35,776
 and then this happened.
+,,
+а тоді сталося таке.
 
 1226
 01:16:36,180 --> 01:16:39,883
 I'm a big believer that we should be dealing with issues of piracy
+,,
+Я глибоко переконаний у тому, що ми повинні намагатися боротися з піратством
 
 1227
 01:16:39,893 --> 01:16:42,550
 and we should deal with them in a serious way
+,,
+і ми повинні до цього серйозно ставитися,
 
 1228
 01:16:42,560 --> 01:16:44,443
 but this bill is not the right bill.
+,,
+Але цей законопроєкт не є правильним.
 
 1229
 01:16:44,453 --> 01:16:48,930
 When Jimmy Wales put his support towards blacking out Wikipedia
+,,
+Коли Джиммі Вейлз висловив підтримку ідеї страйку Вікіпедії
 
 1230
 01:16:49,057 --> 01:16:52,666
 the number 5 most popular website in the world
+,,
+5-го за популярністю сайту у світі
 
 1231
 01:16:52,773 --> 01:16:58,680
 this is a website that 7% of all of the clicks on anywhere on the Internet.
+,,
+це сайт, на який посилається значна частина сайтів в Інтернеті.
 
 1232
 01:16:58,720 --> 01:17:00,110
 Wikipedia went black,
+,,
+Вікіпедія страйкує,
 
 1233
 01:17:00,266 --> 01:17:01,580
 Reddit went black,
+,,
+Reddit страйкує,
 
 1234
 01:17:01,724 --> 01:17:03,044
 Craigslist went black,
+,,
+Craigslist страйкує,
 
 1235
 01:17:03,306 --> 01:17:06,110
 phone lines on Capitol Hill flat out melted,
+,,
+телефонні лінії Конгресу розплавилися,
 
 1236
 01:17:06,280 --> 01:17:09,412
 members of Congress started rushing to issue statements
+,,
+члени Конгресу почали в поспіху робити заяви
 
 1237
 01:17:09,422 --> 01:17:13,590
 retracting their support for the bill, that they were promoting just a couple days ago.
+,,
+й відкликати свою підтримку законопроєкту, який вони захищали лише на кілька днів раніше.
 
 1238
 01:17:13,600 --> 01:17:17,973
 Within 24 hours the number of opponents of SOPA in Congress
+,,
+Протягом 24-х годин кількість опонентів SOPA в Конгресі
 
 1239
 01:17:18,017 --> 01:17:19,475
 went from this...
+,,
+змінилася з...
 
 1240
 01:17:19,546 --> 01:17:21,130
 ...to this.
+...до.
 
 1241
 01:17:22,711 --> 01:17:27,697
 To see Congressmen and Senators slowly flip sides
+,,
+Бачити, як конгресмени й сенатори повільно переходять на інший бік
 
 1242
 01:17:27,733 --> 01:17:31,244
 throughout the day of blackout was pretty unbelievable,
+,,
+протягом цього дня страйків, було неймовірно,
 
 1243
 01:17:31,271 --> 01:17:34,080
 there was like a hundred representative swing,
+,,
+
 
 1244
 01:17:34,506 --> 01:17:38,571
