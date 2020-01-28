@@ -6060,391 +6060,583 @@ throughout the day of blackout was pretty unbelievable,
 01:17:31,271 --> 01:17:34,080
 there was like a hundred representative swing,
 ,,
-
+було хитання до сотні,
 
 1244
 01:17:34,506 --> 01:17:38,571
 And that was when, as hard as it was for me to believe after all this
+,,
+І саме тоді, як не було важко в це повірити,
 
 1245
 01:17:38,581 --> 01:17:39,925
 We had won!
+,,
+ми перемогли!
 
 1246
 01:17:40,690 --> 01:17:42,452
 The thing that everyone said was impossible,
+,,
+Те, що усі називали неможливим,
 
 1247
 01:17:42,462 --> 01:17:48,540
 that some of the biggest companies in the world had written off as kind of a pipe dream had happened.
+,,
+те, що найбільші компанії світу списували як якусь неймовірну вигадку, здійснилося.
 
 1248
 01:17:48,702 --> 01:17:50,030
 We did it!
+,,
+Нам це вдалося!
 
 1249
 01:17:50,942 --> 01:17:52,275
 We won!
+,,
+Ми перемогли!
 
 1250
 01:17:55,777 --> 01:17:58,816
 This is a historic week in Internet politics, maybe American politics.
+,,
+Це був історичний тиждень в політичній історії Інтернету, і можливо Американської політики.
 
 1251
 01:17:58,826 --> 01:18:02,488
 The thing that we heard from people in Washington D.C.
+,,
+Ми чули від людей у Вашингтоні,
 
 1252
 01:18:02,533 --> 01:18:06,960
 from staffers on Capitol Hill was, they received more emails and more phone calls
+,,
+працівнииків Конгресу, — що вони отримали більше емейлів і дзвінків
 
 1253
 01:18:06,970 --> 01:18:10,571
 on SOPA blackout day than they'd ever received about anything.
+,,
+у день страйку проти SOPA, ніж у вони отримували про що-завгодно.
 
 1254
 01:18:10,581 --> 01:18:12,918
 I think that was an extremely exciting moment,
+,,
+Думаю, це був дуже захопливий момент,
 
 1255
 01:18:12,928 --> 01:18:17,770
 this was the moment when the Internet had grown up politically.
+,,
+це був момент, коли Інтернет політично подорослішав.
 
 1256
 01:18:17,770 --> 01:18:21,341
 It was exhilarating because its hard to believe that it actually happened.
+,,
+Це було буде радісно, тому що було важко повірити, що це дійсно сталося.
 
 1257
 01:18:21,351 --> 01:18:25,470
 It's hard to believe, a bill with so much financial power behind it
+,,
+Було важко повірити, що законопроєкт з такою потужною фінансовою підтримкою
 
 1258
 01:18:25,893 --> 01:18:29,244
 didn't simply sail through the Congress.
+,,
+не зміг просто прослизнути через Конгрес.
 
 1259
 01:18:29,376 --> 01:18:32,976
 and not only did it not sail through, it didn't pass at all.
+,,
+І він не просто не прослизнув, а його взагалі не прийняли.
 
 1260
 01:18:34,060 --> 01:18:36,301
 It's easy sometimes to feel like you are powerless
+,,
+Часом ви можете почуватися безсилими
 
 1261
 01:18:36,311 --> 01:18:39,065
 like, when you come out on the streets and you march and you yell,
+,,
+коли ви виходите на вулицю, протестуєте, викрикуєте,
 
 1262
 01:18:39,075 --> 01:18:40,435
 and nobody hears you.
+,,
+і ніхто цього не чує.
 
 1263
 01:18:40,462 --> 01:18:43,402
 But I'm here to tell you today: you are powerful!
+,,
+Але я хочу вам сказати сьогодні: ви сильні!
 
 1264
 01:18:46,053 --> 01:18:48,567
 Maybe sometimes you feel like you not being listened to,
+,,
+Можливо часом вам здається, що вас не чують і не слухають,
 
 1265
 01:18:48,577 --> 01:18:51,860
 but I'm here to tell you that you are, that you are being listened to,
+,,
+але я хочу сказати, що вас таки чують і таки слухають,
 
 1266
 01:18:51,870 --> 01:18:56,610
 You are making a difference. You can stop this bill if you don't stop fighting.
+,,
+Ви можете робити зміни. Ви можете зупинити цей законопроєкт, якщо не припинете боротися.
 
 1267
 01:18:59,968 --> 01:19:02,404
 Stop PIPA! Stop SOPA!
+,,
+Стоп PIPA! Стоп SOPA!
 
 1268
 01:19:04,444 --> 01:19:07,590
 Some of the biggest Internet companies, to put it frankly, would benefit
+,,
+Деяким Інтернет-гігантам, чесно кажучи, було б вигідно
 
 1269
 01:19:07,600 --> 01:19:11,560
 from a world in which their little competitors could get censored.
+,,
+перебувати у світі, де їхніх маленьких конкурентів заглишили б цензурою.
 
 1270
 01:19:12,524 --> 01:19:14,040
 We can't let that happen.
+,,
+Ми не можемо цього допустити.
 
 1271
 01:19:15,114 --> 01:19:19,254
 For him it was more important to be sure that you made a small change
+,,
+Для нього було важливіше усвідомлювати, що ви змінили щось маленьке
 
 1272
 01:19:19,582 --> 01:19:22,640
 than to play a small part in a big change.
+,,
+ніж відігравати маленьку роль у великих змінах.
 
 1273
 01:19:23,377 --> 01:19:26,990
 But SOPA was like playing a major part in a major change.
+,,
+Але у випадку SOPA — це була велика роль у великих змінах.
 
 1274
 01:19:27,351 --> 01:19:30,411
 and so for him it was kind of his proof of concept.
+,,
+отож для нього це був свого роду спосіб підтвердження.
 
 1275
 01:19:30,862 --> 01:19:34,816
 Okay, you know, what I want to do with my life is to change the world.
+,,
+Ось — я вибрав своє призначення у житті — змінювати світ.
 
 1276
 01:19:34,826 --> 01:19:40,074
 I think about it in this really scientific way of measuring my impact
+,,
+Я ставлюся до цього науково і оцінюю те, наскільки можу впливати на світ
 
 1277
 01:19:40,186 --> 01:19:42,310
 and this shows that it is possible
+,,
+і це доводить, що це можливо
 
 1278
 01:19:42,528 --> 01:19:46,034
 right, that the thing that I want to do with my life is possible.
+,,
+що мій життєвий вибір має сенс і це можливо.
 
 1279
 01:19:46,044 --> 01:19:50,860
 I have proved that I can do it. That I, Aaron Swartz, could change the world.
+,,
+Я довів, що можу це робити. Що я, Аарон Шварц, можу змінювати світ.
 
 1280
 01:19:50,869 --> 01:19:56,352
 For a guy who never really thought he had done much
+,,
+Для хлопця, який ніколи не вважав, що зробив багато,
 
 1281
 01:19:56,672 --> 01:19:57,888
 which was Aaron.
+,,
+таким був Аарон,
 
 1282
 01:19:59,381 --> 01:20:02,741
 it was one of the few moments where you could really see
+,,
+це був один із тих моментів, коли він міг дійсно бачити,
 
 1283
 01:20:03,925 --> 01:20:06,848
 that he felt like he had done something good.
+,,
+і мати відчуття того, що він зробив щось добре.
 
 1284
 01:20:06,890 --> 01:20:11,392
 feeling like here is his maybe one and only victory lap.
+,,
+Відчувати, що це є його одна і можливо єдина перемога.
 
 1285
 01:20:13,717 --> 01:20:16,346
 Everyone said that there was no way we could stop SOPA.
+,,
+Усі казали, що немає жодного шансу, що ми зупинемо SOPA.
 
 1286
 01:20:16,356 --> 01:20:22,025
 We stopped it. These are 3 outrageously good victories and the year isn't over yet.
+,,
+Але ми це зробили. Це 3 неймовірно чудові перемоги, а рік ще навіть не завершився.
 
 1287
 01:20:22,025 --> 01:20:25,194
 I mean, if there is a time to be positive it's now.
+,,
+Якщо коли-небудь варто радіти, то це зараз.
 
 1288
 01:20:27,200 --> 01:20:29,845
 He wins at SOPA a year after he is arrested.
+,,
+Він перемагає з SOPA рік після арешту.
 
 1289
 01:20:30,016 --> 01:20:31,968
 it's not an unambiguously happy moment.
+,,
+це не однозначно щасливий момент.
 
 1290
 01:20:31,978 --> 01:20:33,334
 There is a lot going on.
+,,
+Багато відбувалося.
 
 1291
 01:20:33,344 --> 01:20:40,149
 He is so atuned towards participating in the political process, you can't stop him.
+,,
+Він настільки налаштувався брати участь у політичному процесі, що його неможливо зупинити.
 
 1292
 01:20:40,337 --> 01:20:44,342
 The list of organizations Swartz founded or co-founded is enormous.
+,,
+Перелік організацій, які Аарон заснував, є дуже великим.
 
 1293
 01:20:44,352 --> 01:20:48,430
 and years before Edward Snowden would expose widespread Internet surveillance
+,,
+і роками до того, як Едвард Сновден розкриє масове стеження за Інтернетом
 
 1294
 01:20:48,440 --> 01:20:50,490
 Swartz was already concerned.
+,,
+Шварц уже був насторожений цим.
 
 1295
 01:20:50,670 --> 01:20:54,620
 It is shocking to think that accountability is so lax
+,,
+Шокує те, наскільки відповідальність є розмитою
 
 1296
 01:20:55,290 --> 01:20:57,127
 that they don't even have basic statistics
+,,
+що у них навіть немає базової статистики
 
 1297
 01:20:57,137 --> 01:20:59,190
 about how big this spying program is.
+,,
+про те, наскільки широкою є ця програма стеження.
 
 1298
 01:20:59,200 --> 01:21:03,584
 If the answer is "We are spying on so many people we can't possibly even count them."
+,,
+Якщо відповідь звучить як: «Ми стежимо за такою кількістю людей, що навіть не можемо порахувати»,
 
 1299
 01:21:03,594 --> 01:21:05,749
 then that's an awful lot of people.
+,,
+тоді це справді велика маса людей.
 
 1300
 01:21:06,602 --> 01:21:10,048
 One thing that they said was "Look, we know the number of telephones we are spying on,
+,,
+Серед того, що вони казали, було: «Ми знаємо, за скількома телефонами стежимо,
 
 1301
 01:21:10,058 --> 01:21:13,200
 we don't know exactly how many real people that corresponds to."
+,,
+але ми не знаємо точно, скільком людям це відповідає».
 
 1302
 01:21:13,210 --> 01:21:15,376
 but they just came back and said we can't give you a number at all.
+,,
+але водночас сказали, що не можуть надати взагалі ніяких цифр.
 
 1303
 01:21:15,386 --> 01:21:18,800
 Thats pretty... I mean, scary is what it is.
+,,
+Це досить... досить страшно, саме так.
 
 1304
 01:21:18,888 --> 01:21:25,730
 And they put incredible pressure on him, took away.. all of the money he had made.
+,,
+Вони дуже тиснули на нього, забрали усі гроші, які він заробив.
 
 1305
 01:21:27,500 --> 01:21:30,047
 they threatened to take away his physical freedom.
+,,
+Вони погрожували, що позбавлять його фізичної свободи.
 
 1306
 01:21:30,057 --> 01:21:34,293
 Why did they do it? Why are they going after whistleblowers?
+,,
+Чому вони це робили? Чому вони переслідують тих, хто сповіщає про порушення?
 
 1307
 01:21:34,540 --> 01:21:38,337
 Why are they going after people who tell the truth
+,,
+Чому вони ганяються за людьми, що повідомляють правду
 
 1308
 01:21:38,650 --> 01:21:42,986
 about all sorts of things, from the banks
+,,
+про найрізноманітніші речі, від банків
 
 1309
 01:21:43,066 --> 01:21:46,190
 to war, to just sort of government transparency.
+,,
+до війн, чи просто того, що стосується прозорості держави.
 
 1310
 01:21:46,447 --> 01:21:51,610
 So secrecy serves those who are already in power, and we are living in an era of secrecy
+,,
+Секретність служить тим, хто вже має владу, і ми живемо в ері секретності,
 
 1311
 01:21:51,620 --> 01:21:54,470
 that coincides with an era where the government is doing
+,,
+яка збігається з ерою, де держава робить
 
 1312
 01:21:54,480 --> 01:21:58,560
 also a lot of things that are probably illegal and unconstitutional.
+,,
+багато речей, які є, імовірно, незаконними і неконституційними.
 
 1313
 01:21:58,595 --> 01:22:01,520
 So, those two things are not coincidences
+,,
+Тому це не є збігом.
 
 1314
 01:22:01,530 --> 01:22:04,301
 It's very clear that this technology has been developed
+,,
+Чітко зрозуміло, що ця технологія розроблена
 
 1315
 01:22:04,311 --> 01:22:07,351
 not for small countries overseas, but right here
+,,
+не для малих країн за океаном, але для застосування тут
 
 1316
 01:22:07,440 --> 01:22:09,910
 for use in the United States by the US government.
+,,
+у США американським урядом.
 
 1317
 01:22:09,920 --> 01:22:13,710
 The problem with the spying program is its this sort of long, slow expansion
+,,
+Проблема цих програм стеження коріниться у їхній протяжній, повільній експансії
 
 1318
 01:22:13,720 --> 01:22:16,880
 you know, going back to the Nixon Administration, right
+,,
+аж від адміністрації Ніксона.
 
 1319
 01:22:16,890 --> 01:22:19,963
 obviously it became big after 9/11 under George W. Bush
+,,
+Ясно, що найбільше вона розрослася після 11 вересня за Джорджа Буша
 
 1320
 01:22:19,973 --> 01:22:21,838
 and Obama has continued to expand it
+,,
+а Обама продовжив її розширювати
 
 1321
 01:22:21,848 --> 01:22:23,981
 the problems have slowly grown worse and worse
+,,
+її проблеми поглиблювалися
 
 1322
 01:22:23,991 --> 01:22:26,541
 but there's never been this moment you can point to and say
+,,
+але не було якогось конкретного одного моменту, на який можна було б вказати
 
 1323
 01:22:26,551 --> 01:22:31,231
 "Okay we need to galvanize opposition today because today is when it matters."
+,,
+і сказати: «Ок, нам треба оргіназувати опір цьому, тому що саме зараз це важливо».
 
 1324
 01:22:32,230 --> 01:22:34,967
 The prosecution, in my estimation, of Aaron Swartz
+,,
+Це кримінальне провадження проти Аарона Шварца, на мій погляд,
 
 1325
 01:22:34,977 --> 01:22:41,230
 was about sending a particular laser-like message to a group of people
+,,
+полягало в тому, щоб подати чіткий як лазер знак певній категорії людей,
 
 1326
 01:22:41,237 --> 01:22:45,504
 that the Obama Administration sees as politically threatening
+,,
+яких адміністрація Обами вважає політичною загрозою,
 
 1327
 01:22:47,422 --> 01:22:53,780
 and that is the essentially the hacker, the information and the democracy activist community.
+,,
+і це є спільнота хакерів і активістів, згуртованих довкола цінностей демократії і вільного поширення інформації.
 
 1328
 01:22:54,030 --> 01:22:57,323
 and the message that the Obama Administration wanted to send
+,,
+І знак, який адміністрація Обами хотіла подати,
 
 1329
 01:22:57,333 --> 01:23:00,800
 to that particular community was in my estimation
+,,
+цій спільноті людей, на мій погляд, виглядав так:
 
 1330
 01:23:00,853 --> 01:23:04,873
 "we know you have the ability to make trouble for the establishment
+,,
+«Ми знаємо, що ви можете створити проблеми естеблішменту,
 
 1331
 01:23:06,910 --> 01:23:08,887
 and so are going to try to make an example out of Aaron Swartz
+,,
+і тому ми на прикладі Аарона Шварца спробуємо налякати
 
 1332
 01:23:08,897 --> 01:23:13,600
 to scare as many of you as possible into not making that trouble."
+,,
+якомога більше таких, як ви, щоб не дати вам наробити нам проблем».
 
 1333
 01:23:13,706 --> 01:23:14,878
 And the government said
+,,
+І уряд стверджував:
 
 1334
 01:23:14,888 --> 01:23:20,270
 "Oh, the legal opinions we are using to legalize the spying program are also classified
+,,
+«Судові рішення, на які ми сприраємося щодо законності цієї програми стеження,
 
 1335
 01:23:20,355 --> 01:23:23,480
 so we can't even tell you which laws we are using to spy on you."
+,,
+також засекречені, тому ми не можемо навіть пояснити, чому це законно.»
 
 1336
 01:23:23,490 --> 01:23:26,550
 Every time they can say "Oh this is another instance of cyber war"
+,,
+Кожен раз, коли вони кажуть: «Це приклад кібевійни»
 
 1337
 01:23:26,560 --> 01:23:28,452
 "the cyber criminals are attacking us again"
+,,
+«кіберзлочинці знову нас атакують»
 
 1338
 01:23:28,462 --> 01:23:30,425
 "we are all in danger, we are all under threat".
+,,
+«ми всі в небезпеці, ми всі під загрозою»
 
 1339
 01:23:30,435 --> 01:23:34,695
 they use those as excuses to push through more and more dangerous laws.
+,,
+вони використовують це, аби протягнути щораз більш небезпечні закони.
 
 1340
 01:23:37,320 --> 01:23:40,920
