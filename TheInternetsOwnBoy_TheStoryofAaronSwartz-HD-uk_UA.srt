@@ -6641,238 +6641,356 @@ they use those as excuses to push through more and more dangerous laws.
 1340
 01:23:37,320 --> 01:23:40,920
 Interviewer: Personally, how do you feel the fight is going?
+,,
+Інтерв'юер: як ви відчуваєте особисто, як іде зараз боротьба?
 
 1341
 01:23:41,004 --> 01:23:42,890
 It's up to you.
+,,
+Це залежить від вас!
 
 1342
 01:23:47,635 --> 01:23:52,195
 You know, there are sort of these two polarizing perspectives
+,,
+Знаєте, є ці поляризовані погляди:
 
 1343
 01:23:52,320 --> 01:23:55,447
 Everything is great, Internet has created all this freedom and liberty,
+,,
+Все чудово, Інтернет створив усю цю свободу,
 
 1344
 01:23:55,457 --> 01:23:57,074
 and every thing's gonna be fantastic.
+,,
+і все буде прекрасно.
 
 1345
 01:23:57,084 --> 01:23:58,532
 or everything is terrible.
+,,
+або: все жахливо.
 
 1346
 01:23:58,542 --> 01:24:00,487
 the Internet has created all these tools for cracking down
+,,
+Інтернет створив усі ці знаряддя придушення
 
 1347
 01:24:00,497 --> 01:24:03,474
 and spying and, you know, controlling what we say.
+,,
+стеження, контролювання, як ми часто кажемо.
 
 1348
 01:24:03,484 --> 01:24:05,310
 and I think both are true.
+,,
+і я вважаю, що і те, й те — правда.
 
 1349
 01:24:06,293 --> 01:24:10,087
 the Internet has done both and both are kind of amazing and astonishing
+,,
+Інтернет створив обидві речі, і це само по собі дивовижно,
 
 1350
 01:24:10,097 --> 01:24:13,150
 and which one will win out in the long run is up to us.
+,,
+і те, яка з них візьме верх у довгій перспективі, залежить від нас.
 
 1351
 01:24:13,160 --> 01:24:15,643
 It doesn't make sense to say "Oh one is doing better than the other"
+,,
+Нема сенсу казати, що якась сторона сильніша за іншу
 
 1352
 01:24:15,653 --> 01:24:17,620
 you know, they're both true.
+,,
+вони обидві є фактом.
 
 1353
 01:24:17,728 --> 01:24:21,701
 and it's up to us which ones we emphasize and which ones we take advantage of
+,,
+але від нас залежить те, котру ми будемо підкреслювати і використовувати
 
 1354
 01:24:21,711 --> 01:24:25,491
 because they are both there and they are always gonna be there.
+,,
+тому що вони обидві існують і завжди будуть існувати.
 
 1355
 01:24:29,184 --> 01:24:34,901
 On September 12th, 2012, Federal prosecutors filed a superseding indictment against Swartz
+,,
+12 вересня 2012 федеральні прокурори подали нове обвинувачення проти Шварца,
 
 1356
 01:24:34,965 --> 01:24:40,496
 adding additional counts of wire fraud, unauthorized access to a computer, and Computer Fraud.
+,,
+додавши до нього електронне шахрайство, неавторизований доступ до комп'ютера і комп'юетрне шахрайство.
 
 1357
 01:24:40,506 --> 01:24:45,397
 Now, instead of 4 felony counts, Swartz was facing 13.
+,,
+Тепер, замість 4 звинувачень, Шварца чекало 13.
 
 1358
 01:24:45,760 --> 01:24:48,816
 The prosecution's leverage had dramatically increased
+,,
+Тиск прокурорів суттєво збільшився
 
 1359
 01:24:48,826 --> 01:24:51,797
 as did Swartz's potential jail time and fines.
+,,
+як і потенційний термін Шварца у в'язниці й штрафи.
 
 1360
 01:24:52,047 --> 01:24:55,488
 They filed a separate indictment to add more charges
+,,
+Вони подали окреме обвинувачення, щоб додати більше категорій порушень
 
 1361
 01:24:55,738 --> 01:25:01,589
 and they had a theory about why this conduct constituted a number of federal crimes
+,,
+і в них була теорія, чому ці дії були цілом рядом федеральних злочинів
 
 1362
 01:25:01,839 --> 01:25:06,039
 and that a very significant sentence could attach to it under the law.
+,,
+і за них можна отримати дуже серйозний термін за законом.
 
 1363
 01:25:07,048 --> 01:25:10,630
 That theory and much of the prosecution's case against Swartz
+,,
+Ця теорія й уся справа проти Шварца
 
 1364
 01:25:10,640 --> 01:25:13,857
 involved a law created originally in 1986.
+,,
+була збудована на законі, створеному у 1986 р.
 
 1365
 01:25:14,044 --> 01:25:16,684
 it is called "Computer Fraud and Abuse Act".
+,,
+закону «Про комп'ютерне шахрайство і зловживання»
 
 1366
 01:25:16,885 --> 01:25:19,972
 The Computer Fraud and Abuse Act was inspired by the movie "War Games"
+,,
+Закон «Про комп'ютерне шахрайство і зловживання» виник як відповідь на фільм «Воєнні ігри»
 
 1367
 01:25:19,982 --> 01:25:22,682
 with Mathew Brodrick, which is a great movie.
+,,
+з Мет'ю Бродріком, досить гарний фільм.
 
 1368
 01:25:23,320 --> 01:25:27,884
 In this movie, a kid gets the ability through the magic of computer networks
+,,
+У фільмі, школяр через «магічне» використання комп'ютерних мереж
 
 1369
 01:25:27,911 --> 01:25:30,257
 to, like, launch a nuclear attack.
+,,
+отримує можливість запустити ядерну атаку.
 
 1370
 01:25:33,920 --> 01:25:37,690
 Now that's not actually possible and it certainly wasn't possible in the 80s
+,,
+І хоча насправді це неможливо, і точно не було можливо у 1980-х,
 
 1371
 01:25:37,700 --> 01:25:40,613
 but apparently this movie scared Congress enough
+,,
+виглядає, що цей фільм так налякав Конгрес,
 
 1372
 01:25:40,702 --> 01:25:44,960
 to pass the original Computer Fraud and Abuse Act.
+,,
+що вони ухвалили закон «Про комп'ютерне шахрайство і зловживання».
 
 1373
 01:25:45,130 --> 01:25:47,110
 This is a law that's just behind the times
+,,
+Цей закон вже давно відстав від часу
 
 1374
 01:25:47,120 --> 01:25:53,130
 for example it penalizes a Terms of Service kinds of arrangements
+,,
+наприклад, він робить карними [порушення] угод Умов користування
 
 1375
 01:25:53,130 --> 01:25:56,906
 and something like eHarmony or match.com
+,,
+тому, приміром, на eHarmony чи match.com,
 
 1376
 01:25:56,995 --> 01:26:01,400
 and somebody sort of inflates their own personal characteristics
+,,
+де хтось може себе трохи перехвалити,
 
 1377
 01:26:01,431 --> 01:26:05,942
 and all of a sudden, depending on the jurisdiction and the prosecutors, they
+,,
+і раптом, залежно від юрисдикції і прокурорів, це може
 
 1378
 01:26:05,952 --> 01:26:08,106
 could be in whole host of troubles.
+,,
+спричинити для цієї людини серйозну халепу.
 
 1379
 01:26:08,120 --> 01:26:10,389
 We all know what Terms of Use are.
+,,
+Ми всі знаємо, що таке Умови користування.
 
 1380
 01:26:10,600 --> 01:26:13,607
 Most people don't read them, but not abiding by their terms
+,,
+Більшість людей їх не читають, і водночас якщо ви їх не дотрималися,
 
 1381
 01:26:13,617 --> 01:26:16,300
 could mean you are committing a felony.
+,,
+це може бути злочином.
 
 1382
 01:26:16,426 --> 01:26:20,698
 The website terms of service often say things like "Be nice to each other" or
+,,
+Умови користування сайтів часто містять щось на зразок «Будьте ввічливі» чи
 
 1383
 01:26:20,708 --> 01:26:22,594
 "don't do anything that's improper".
+,,
+«не робіть нічого непорядного».
 
 1384
 01:26:22,604 --> 01:26:27,600
 The idea that the criminal law has anything to say about these kinds of violations
+,,
+Сама ідея того, що кримінальне право має якийсь стосунок до цього роду порушень
 
 1385
 01:26:27,697 --> 01:26:29,917
 I think strikes most people as crazy.
+,,
+Більшості людей, думаю, видається божевільною.
 
 1386
 01:26:30,586 --> 01:26:33,130
 The examples get even more crazy.
+,,
+Є навіть ще більш божевільні приклади.
 
 1387
 01:26:33,664 --> 01:26:36,202
 Until it was changed in March of 2013.
+,,
+До того, як їх змінили у 2013 році,
 
 1388
 01:26:36,202 --> 01:26:42,645
 the Terms of Use on the website of Hearst's Seventeen magazine said you had to be 18 in order to read it.
+,,
+Умови користування сайту журналу Seventeen (17) забороняли неповнолітнім його читати.
 
 1389
 01:26:42,880 --> 01:26:46,754
 I would say that the way the CFAA has been interpreted by Justice Department
+,,
+Я б сказала, що якщо трактувати цей закон так, як це робить Міністертво Юстиції,
 
 1390
 01:26:46,764 --> 01:26:49,066
 we are all probably breaking the law.
+,,
+ми усі порушуємо закон.
 
 1391
 01:26:49,600 --> 01:26:55,082
 Vague and prone to misuse, the CFAA has become "one size, fits all" hammer
+,,
+Розмитий і вразливий до зловживання, цей закон став «молотком» на будь-яку потребу
 
 1392
 01:26:55,111 --> 01:26:57,865
 for a wide range of computer related disputes.
+,,
+для широкого поля справ, пов'язаних з комп'ютерами.
 
 1393
 01:26:57,875 --> 01:27:02,737
 Though not the only factor in his case, 11 of 13 charges against Swartz
+,,
+І хоча це не єдиний фактор у справі Шварца, 11 з 13 звинувачень
 
 1394
 01:27:02,826 --> 01:27:05,346
 involved the Computer Fraud and Abuse Act.
+,,
+були базовані на законі «Про комп'ютерне шахрайство і зловживання».
 
 1395
 01:27:07,351 --> 01:27:11,760
 The question "Why?" hangs over much of the story of Aaron Swartz.
+,,
+Запитання «Чому» висить над усією історією Аарона Шварца.
 
 1396
 01:27:11,946 --> 01:27:16,194
 just what was motivating the government and what would their case have been?
+,,
+що спонукало уряд, і що вони хотіли цим довести?
 
 1397
 01:27:16,204 --> 01:27:19,440
 The Dept. of Justice declined requests for answers.
+,,
+Міністерство Юстиції відмовилося надати відповідь.
 
 1398
 01:27:19,637 --> 01:27:23,483
 but Prof. Orin Kerr is a former prosecutor who has studied the case.
+,,
+але професор Орін Керр, колишній прокурор, досліджував цю справу.
 
 1399
 01:27:23,493 --> 01:27:28,267
