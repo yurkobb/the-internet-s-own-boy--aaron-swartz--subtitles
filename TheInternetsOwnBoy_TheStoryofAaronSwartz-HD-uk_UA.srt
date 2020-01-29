@@ -6995,280 +6995,421 @@ but Prof. Orin Kerr is a former prosecutor who has studied the case.
 1399
 01:27:23,493 --> 01:27:28,267
 I think I come about this case from a different direction than other people on a number of reasons.
+,,
+Думаю, я дивлюся на цю справу під іншим кутом з ряду причин.
 
 1400
 01:27:28,277 --> 01:27:32,603
 I was a federal prosecutor at the justice department for 3 years before I started teaching.
+,,
+Я був федеральним прокурором у МінЮсті 3 роки, перш ніж почав викладати.
 
 1401
 01:27:32,613 --> 01:27:34,674
 The government came forward with an indictment
+,,
+Уряд висунув обвинувачення
 
 1402
 01:27:34,684 --> 01:27:37,920
 based on what crimes they thought were committed
+,,
+базуючись на тому, які злочини, на їхню думку, були здійснені
 
 1403
 01:27:37,920 --> 01:27:41,154
 just as a purely lawyers matter, looking at the precedents
+,,
+лише як чисто юридичне питання, дивлячись на прецеденти
 
 1404
 01:27:41,164 --> 01:27:43,230
 looking at the statute, looking at the history,
+,,
+дивлячись на попередні рішення і на історію,
 
 1405
 01:27:43,240 --> 01:27:45,687
 looking at the cases that are out there so far
+,,
+дивлячись на інші відкриті справи,
 
 1406
 01:27:45,697 --> 01:27:48,517
 I think it was a fair indictment based on that.
+,,
+і я думаю, що це було справедливим обвинуваченням, спираючись на це.
 
 1407
 01:27:49,120 --> 01:27:51,563
 You can debate whether they should have charged this case.
+,,
+Можна обговорювати, чи вони повинні були висувати ці обвинувачення.
 
 1408
 01:27:51,573 --> 01:27:52,864
 There is just a lot of disagreement.
+,,
+Є багато суперечливих поглядів.
 
 1409
 01:27:52,874 --> 01:27:56,992
 Some people are on the Open Access side, some people are not.
+,,
+Хтось підтримує Відкритий доступ, хтось ні.
 
 1410
 01:27:57,342 --> 01:28:03,260
 I think the government took Swartz's Guerilla Open Access Manifesto very seriously
+,,
+Думаю, уряд дуже серйозно сприйняв Шварцовий Маніфест відкритого доступу,
 
 1411
 01:28:03,502 --> 01:28:09,810
 and I think they saw him as somebody who was committed, as a moral imperative,
+,,
+і вони сприймали його як людину, яка була дуже послідовна, на рівні моральних переконань,
 
 1412
 01:28:09,813 --> 01:28:15,488
 to breaking the law to overcome a law that Swartz saw as unjust
+,,
+у тому, що порушити закон, який Шварц вважав несправедливим,
 
 1413
 01:28:15,488 --> 01:28:20,821
 and in a democracy if you think a law is unjust, there are ways of changing that law
+,,
+у демократичному суспільстві, якщо ви вважаєте, що закони є несправедливими,
 
 1414
 01:28:20,821 --> 01:28:24,715
 there is, going to congress, as Swartz did so masterfully with SOPA
+,,
+є способи, як їх змінити — наприклад, піти до Конгресу, як Шварц вдало зробив з SOPA,
 
 1415
 01:28:24,725 --> 01:28:28,448
 or you can violate that law in a way to try to nullify that law.
+,,
+або ж ви можете порушувати якийсь закон і в такий його заперечити й звести до нуля.
 
 1416
 01:28:28,458 --> 01:28:32,512
 And I think what was driving the prosecution was the sense
+,,
+Я думаю, обвинувачення особливо мотивувало те, що
 
 1417
 01:28:32,762 --> 01:28:39,594
 that Swartz was committed not just to breaking the law, but to really making sure that law was nullified.
+,,
+Шварц не хотів просто порушувати закон, а хотів бути впевненим, що цей закон буде зведено до нуля.
 
 1418
 01:28:39,768 --> 01:28:43,768
 That everyone would have have access to the database in a way that
+,,
+Що будь-яка людина мала б доступ до цієї бази даних,
 
 1419
 01:28:43,804 --> 01:28:47,066
 you couldn't put the toothpaste back into the tube
+,,
+ви не зможе запхати зубну пасту назад у тюбик,
 
 1420
 01:28:47,200 --> 01:28:50,400
 it would be done and Swartz's side would win.
+,,
+задумена здійснили б, і сторона Шварца перемогла б.
 
 1421
 01:28:52,650 --> 01:28:56,167
 There is a big disagreement in society as to whether that is an unjust law
+,,
+Є багато суперечливих думок у суспільстві, чи цей закон несправедливий
 
 1422
 01:28:56,177 --> 01:29:00,427
 and ultimately that's a decision for American people to make, working through Congress.
+,,
+і це рішення повинно бути за американським суспільством, втілене через Конгрес.
 
 1423
 01:29:00,437 --> 01:29:03,714
 and than the second problem is I think, we are still trying to figure out
+,,
+А друга проблема, на мою думку, полягає у тому, щоб зрозуміти, де межа
 
 1424
 01:29:03,724 --> 01:29:07,930
 what's the line between less serious offenses and more serious offenses.
+,,
+між менш серйозними і більш серйозними порушеннями.
 
 1425
 01:29:07,940 --> 01:29:12,680
 We are now entering this different environment of computers and computer misuse
+,,
+Ми зараз входимо у це нове середовище комп'ютерів і їхнього використання на чиюсь шкоду
 
 1426
 01:29:12,850 --> 01:29:16,772
 and we don't yet have a really strong sense of exactly what these lines are
+,,
+але у нас немає чіткого уявлення, де є межі між одним і другим.
 
 1427
 01:29:16,782 --> 01:29:19,002
 because we are just working that out.
+,,
+тому що ми лише в процесі пошуку цього розуміння.
 
 1428
 01:29:19,208 --> 01:29:22,088
 This is a poor use of prosecutorial discretion.
+,,
+Це є дуже невдале використання судження обвинувачення.
 
 1429
 01:29:22,204 --> 01:29:28,400
 The hammer that the Justice Department has to scare people with just gets bigger and bigger and bigger
+,,
+Цей молоток, яким МінЮст намагається налякати людей, стає все більшим і більшим
 
 1430
 01:29:28,453 --> 01:29:32,994
 and so most people, you know, you can't roll the  dice with your life like that
+,,
+і більшість людей, розумієте, не можуть просто давати своє життя на таку лотерею
 
 1431
 01:29:33,004 --> 01:29:35,678
 Should we tap somebody's phone? Should we film them?
+,,
+Чи потрібно нам прослуховувати чийсь телефон? Знімати їх?
 
 1432
 01:29:35,688 --> 01:29:39,744
 Should we turn somebody and get them to testify against these other people?
+,,
+Чи ми повинні змушувати когось свідчити проти інших людей?
 
 1433
 01:29:39,754 --> 01:29:42,411
 That's how federal agents and prosecutors think.
+,,
+Саме в такий спосіб думають прокурори й федеральні агенти.
 
 1434
 01:29:42,421 --> 01:29:45,194
 They build cases, they make cases.
+,,
+Вони вибудовують справи, вони їх створюють.
 
 1435
 01:29:46,835 --> 01:29:50,198
 Swartz was caught in the gears of brutal criminal justice system
+,,
+Шварц потрапив між шестерні брутальної системи кримінального правосуддя
 
 1436
 01:29:50,208 --> 01:29:51,829
 that could not turn back.
+,,
+шестерень, які могли повертатися тільки в один бік.
 
 1437
 01:29:51,875 --> 01:29:57,074
 A machine that has made America the country with the highest rate of incarceration in the world.
+,,
+Машини, яка зробила Америку країною з найбільшим відсотком ув'язнених громадян у світі.
 
 1438
 01:29:57,084 --> 01:30:02,770
 We have in this country allowed ourselves to be captured by the politics of fear and anger
+,,
+Ми дозволили політиці страху й гніву захопити нас у цій країні
 
 1439
 01:30:02,773 --> 01:30:08,021
 and anything we are afraid of, like the future of the Internet and access
+,,
+і все, чого ми боїмося, як то майбутнє з Інтернетом і доступом,
 
 1440
 01:30:08,746 --> 01:30:11,926
 and anything we are angry about instinctively creates
+,,
+та будь-що, що нас обурює, автоматично породжує
 
 1441
 01:30:11,991 --> 01:30:13,810
 a criminal justice intervention.
+,,
+кримінальне розслідування.
 
 1442
 01:30:13,820 --> 01:30:17,182
 and we have used jail, prison and punishment
+,,
+Ми використовували в'язницю і поканання
 
 1443
 01:30:17,262 --> 01:30:21,198
 to resolve a whole host of problems that historically were never seen
+,,
+щоб розв'язувати цілий перелік проблем, які історично ніколи не трактувалися
 
 1444
 01:30:21,208 --> 01:30:22,896
 as criminal justice problems.
+,,
+як такі, що належать до кримінального правосуддя.
 
 1445
 01:30:22,906 --> 01:30:26,702
 The impulse to threaten, indict, prosecute
+,,
+Імпульс погрожувати, обвинувачувати, розслідувати
 
 1446
 01:30:26,844 --> 01:30:32,992
 which is part of what has created this debate and controversy over on-line access and information on the Internet.
+,,
+є частиною того, що створило ці дискусії й суперечки про доступ до інформації в Інтернеті.
 
 1447
 01:30:33,002 --> 01:30:35,501
 It's very consistent with what we have seen in other areas
+,,
+Це дуже збігається з тим, що ми бачимо в інших сферах
 
 1448
 01:30:35,511 --> 01:30:40,284
 the one difference is people are usually targeted and victimized by
+,,
+єдина різниця полягає в тому, що люди, які типово стають жертвами
 
 1449
 01:30:40,328 --> 01:30:45,068
 these kinds of criminal and carceral responses are typically poor and minority.
+,,
+цієї системи кримінального правосуддя і ув'язнення, часто є бідними і належать до меншостей.
 
 1450
 01:30:47,440 --> 01:30:50,620
 Swartz's isolation from friends and family increased.
+,,
+Ізольованість Шварца від друзів і родичів поглиблювалася.
 
 1451
 01:30:50,640 --> 01:30:53,287
 He had basically stopped working on anything else.
+,,
+Він фактично припинив працювати над будь-чим іншим.
 
 1452
 01:30:53,297 --> 01:30:56,740
 and the case was in fact taking over his whole life.
+,,
+і ця справа фактично поглинала все його життя.
 
 1453
 01:30:56,888 --> 01:31:00,043
 One of Aaron's lawyers apparently told the prosecutors that
+,,
+Один з юристів Аарона сказав прокурорам, що
 
 1454
 01:31:00,053 --> 01:31:02,702
 he was emotionally vulnerable.
+,,
+він був емоційно вразливий.
 
 1455
 01:31:03,048 --> 01:31:06,896
 and that was something they really needed to keep in mind, so that.. they knew that.
+,,
+і що їм варто про це пам'ятати... щоб вони знали про це.
 
 1456
 01:31:06,906 --> 01:31:09,271
 It was weighing on him very heavily
+,,
+Це висіло над ним дуже важким тягарем
 
 1457
 01:31:09,324 --> 01:31:15,260
 he did not like having his actions and his movements restricted in any way
+,,
+Він не любив, щоб його дії й пересування будь-як обмежували
 
 1458
 01:31:15,514 --> 01:31:20,640
 and the threat of jail, which they pounded him with a lot
+,,
+і загроза в'язниці, якою йому постійно погрожували
 
 1459
 01:31:22,097 --> 01:31:23,710
 was terrifying to him.
+,,
+для нього була чимось жахливим.
 
 1460
 01:31:23,768 --> 01:31:26,871
 ...completely exhausted his financial resources and
+,,
+...повністю виснажило його фінансові ресурси і
 
 1461
 01:31:27,537 --> 01:31:32,097
 it cost us a lot of money also, and he raised a substantial amount of money.
+,,
+це коштувало нам дуже багато грошей, і він зібрав велику суму.
 
 1462
 01:31:32,280 --> 01:31:35,680
 So it was, you know, it was in the millions of dollars.
+,,
+Це було, ви розумієте, в мільйонах доларів.
 
 1463
 01:31:36,378 --> 01:31:38,437
 Interviewer: The legal defense?
 Aaron's Father: Yes.
+,,
+Інтерв'юер: Юридичний захист?
+Батько Аарона: Так.
 
 1464
 01:31:38,447 --> 01:31:41,163
 Interviewer: Was in millions?
 Aaron's Father: Yes.
+,,
+Інтерв'юер: Коштував мільйони?
+Батько Аарона: Так.
 
 1465
 01:31:41,173 --> 01:31:45,197
 Yea, I think he didn't want to be a burden to people. I think that was a factor
+,,
+Таа, я думаю він не хотів бути тягарем для інших. Думаю, що це відігравало свою роль
+
 
 1466
 01:31:45,207 --> 01:31:49,572
 Like I have my normal life, and then I have this shitty thing I have to deal with.
+,,
+Ось у мене є нормальне життя, і водночас я мушу тягнути на собі це паскудство.
 
 1467
 01:31:49,582 --> 01:31:53,062
 and I try to keep the two of them as separate as possible.
+,,
+Я намагаюся тримати їх якомога більш відділеними одне від одного.
 
 1468
 01:31:53,146 --> 01:31:58,006
