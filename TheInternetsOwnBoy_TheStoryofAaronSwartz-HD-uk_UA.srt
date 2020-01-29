@@ -7724,335 +7724,501 @@ we have lost one of our own.
 Nurturers, carers, listeners,
 feeders, parents all,
 ,,
+Ті, хто плекає, дбає, слухає,
+вигодовує, батьки, усі,
 
 1520
 01:37:02,755 --> 01:37:04,933
 we have lost a child.
+,,
+ми втратили дитину.
 
 1521
 01:37:05,262 --> 01:37:07,386
 Let us all weep.
+,,
+Заплачмо, усі.
 
 1522
 01:37:14,742 --> 01:37:17,953
 My first thought was what if nobody even notices.
+,,
+Моя перша думка була — а що, як ніхто навіть не помітить?
 
 1523
 01:37:18,805 --> 01:37:22,913
 It wasn't clear to me how salient he was.
+,,
+Мені не було ясно, наскільки помітним він був.
 
 1524
 01:37:23,818 --> 01:37:29,749
 I had never seen anything quite like the outpouring I saw.
+,,
+Я ніколи не бачила подібного виливу емоцій.
 
 1525
 01:37:29,856 --> 01:37:31,242
 The net just lit up.
+,,
+Інтернет запалав.
 
 1526
 01:37:31,505 --> 01:37:35,600
 Everyone was trying to explain it in their own way
+,,
+Кожен і кожна намагалися пояснити це у якийсь свій спосіб
 
 1527
 01:37:35,636 --> 01:37:39,883
 but I have never seen people grieve on Twitter before.
+,,
+Але я ніколи не бачив, щоб люди впадали в жалобу на Твітері.
 
 1528
 01:37:39,968 --> 01:37:42,549
 People were visibly grieving on-line.
+,,
+Люди відкрито оплакували його онлайн.
 
 1529
 01:37:46,465 --> 01:37:51,253
 He was the Internet's Own Boy... and the old world killed him.
+,,
+Він був був дитям Інтернету... і старий світ його убив.
 
 1530
 01:37:55,328 --> 01:38:00,277
 We are standing in the middle of a time when great injustice is not touched.
+,,
+Ми перебуваємо в часі, коли глибока несправедливість залишається недоторканою.
 
 1531
 01:38:01,960 --> 01:38:06,259
 Architects of the financial meltdown have dinner with the President regularly.
+,,
+Архітектори фінансової кризи регулярно ходять на вечері до президента.
 
 1532
 01:38:06,269 --> 01:38:09,992
 In middle of that time the idea that this
+,,
+У цей сам час, сама думка, що держава мала
 
 1533
 01:38:10,516 --> 01:38:12,916
 was what the government had to prosecute
+,,
+розслідувати *це*,
 
 1534
 01:38:14,528 --> 01:38:17,642
 it just seems absurd, if it weren't tragic.
+,,
+видається просто абсурдною, якби не була трагічною.
 
 1535
 01:38:17,670 --> 01:38:23,221
 The question is can we do something, given what's happened
+,,
+Питання в тому, чи ми можемо щось зробити, після того, що сталося
 
 1536
 01:38:23,272 --> 01:38:25,252
 to make the world a better place.
+,,
+щоб зробити світ кращим.
 
 1537
 01:38:26,389 --> 01:38:30,769
 And how can we further that legacy? That's the only question one can ask.
+,,
+І як ми можемо розвивати цей спадок? Це єдине запитання, яке можна поставити.
 
 1538
 01:38:33,061 --> 01:38:37,229
 All over the world there are starting to be hackathons, gatherings
+,,
+По всьому світу відбуваться гакатони, зібрання
 
 1539
 01:38:37,260 --> 01:38:42,101
 and Aaron Swartz has in some sense brought the best out of us
+,,
+і Аарон Шварц у певному сенсі зібрав найкращих із нас
 
 1540
 01:38:42,232 --> 01:38:45,030
 in trying to say "how do we fix this?"
+,,
+намагаючись сказати: «як ми можемо це виправити?»
 
 1541
 01:38:47,130 --> 01:38:50,341
 He was, in my humble opinion one, of the true
+,,
+Він був, на мою скромну думку, одним із
 
 1542
 01:38:50,356 --> 01:38:54,480
 extraordinary revolutionaries that this country has produced
+,,
+правдивих і неповторних революціонерів, яких ця країна створила
 
 1543
 01:38:55,010 --> 01:38:59,250
 I don't know whether Aaron was defeated or victorious, but
+,,
+Я не знаю, чи Аарон був переможений чи став переможцем,
 
 1544
 01:38:59,280 --> 01:39:04,270
 we are certainly shaped by the hand of the things
+,,
+але нас точно формує рука тих речей,
 
 1545
 01:39:04,527 --> 01:39:05,877
 that he wrestled with.
+,,
+з якими боровся Аарон.
 
 1546
 01:39:06,127 --> 01:39:08,692
 When we turn armed agents of the law
+,,
+Коли ми скеровуємо озброєних агентів закону
 
 1547
 01:39:08,821 --> 01:39:12,192
 on citizens trying to increase access to knowledge
+,,
+на громадян, які намагаються збільшити доступ до знань
 
 1548
 01:39:12,442 --> 01:39:14,133
 we've broken the rule of law
+,,
+ми порушили закон
 
 1549
 01:39:14,383 --> 01:39:16,778
 we've desecrated the temple of justice.
+,,
+ми осквернили храм правосуддя.
 
 1550
 01:39:17,028 --> 01:39:19,530
 Aaron Swartz was not a criminal.
+,,
+Аарон Шварц не був злочинцем.
 
 1551
 01:39:21,000 --> 01:39:25,470
 Change does not roll in on the wheels of inevitability
+,,
+Зміни не котятся на колесах неуникності
 
 1552
 01:39:25,510 --> 01:39:27,730
 it comes through continuous struggle.
+,,
+вони приходять через постійну боротьбу.
 
 1553
 01:39:30,026 --> 01:39:31,690
 Aaron really could do magic
+,,
+Аарон дійсно міг творити чари
 
 1554
 01:39:32,000 --> 01:39:34,085
 and I am dedicated to making sure...
+,,
+і я віддана тому, щоб зробити все,
 
 1555
 01:39:34,095 --> 01:39:36,176
 ... that his magic doesn't end with his death.
+,,
+щоб ці чари не закінчувалися після його смерті.
 
 1556
 01:39:36,186 --> 01:39:37,904
 He believed that he could change the world.
+,,
+Він був переконаний, що може змінити світ.
 
 1557
 01:39:37,914 --> 01:39:39,498
 And he was right.
+,,
+І він мав рацію.
 
 1558
 01:39:40,590 --> 01:39:44,550
 Out of the last week and out of today phoenixes are already rising
+,,
+Від минулого тижня і від сьогодні фенікси здіймаються
 
 1559
 01:39:46,890 --> 01:39:51,630
 Since Swartz's death Representative Zoe Lofgren and Senator Ron Wyden
+,,
+Після смерті Шварца членкиня палати представників Зоя Лофґрен і сенатор Рон Вайден
 
 1560
 01:39:51,887 --> 01:39:53,776
 have introduced legislations that would reform
+,,
+запропонували законопроєкт, який може реформувати
 
 1561
 01:39:53,786 --> 01:39:55,490
 the Computer Fraud and Abuse Act.
+,,
+закон «Про ком'пютерне шахрайство і зловживання»
 
 1562
 01:39:55,500 --> 01:39:59,820
 the outdated law that formed the majority of the charges against Swartz.
+,,
+цей застарілий закон, який був основою більшості звинувачень щодо Шварца.
 
 1563
 01:40:00,186 --> 01:40:02,389
 It's called "Aaron's Law."
+,,
+Законопроєкт називається «Закон Аарона».
 
 1564
 01:40:02,639 --> 01:40:05,802
 Aaron believed that like you literally ought to
+,,
+Аарон вважав, що ви повинні буквально
 
 1565
 01:40:06,052 --> 01:40:07,664
 be asking yourself all the time
+,,
+запитувати себе постійно
 
 1566
 01:40:07,674 --> 01:40:11,397
 "what is the most important thing I could be working on in the world right now?"
+,,
+«що є найважливішим у світі, над чим я міг/могла б працювати зараз?»
 
 1567
 01:40:11,407 --> 01:40:14,467
 And if you are not working on that, why aren't you?
+,,
+І якщо ви не працюєте над цим, то чому?
 
 1568
 01:40:33,700 --> 01:40:37,098
 I wish we could change the past, but we cannot.
+,,
+Я б хотів, щоб ми могли змінити минуле, але ми не можемо.
 
 1569
 01:40:37,160 --> 01:40:39,610
 but we can change the future and we must.
+,,
+Але ми можемо змінити майбутнє, і ми мусимо.
 
 1570
 01:40:39,620 --> 01:40:43,750
 We must do so for Aaron. We must do so for ourselves.
+,,
+Ми мусимо зробити це заради Аарона. Ми мусимо зробити це заради самих себе.
 
 1571
 01:40:43,880 --> 01:40:48,460
 We must do so to make our world a better place, a more humane place.
+,,
+Ми мусимо робити це, щоб світ ставав кращим, більш людяним.
 
 1572
 01:40:48,719 --> 01:40:50,399
 A place where justice works.
+,,
+Світом, де правосуддя працює.
 
 1573
 01:40:50,554 --> 01:40:54,272
 And access to knowledge becomes a human right.
+,,
+І доступ до знань належить до прав людини.
 
 1574
 01:40:54,520 --> 01:40:59,010
 So there was a kid, back in February from Baltimore.
+,,
+Один хлопчина, ще в лютому в Балтиморі,
 
 1575
 01:40:59,140 --> 01:41:01,500
 14 years old
+,,
+14-літній
 
 1576
 01:41:02,000 --> 01:41:08,350
-who had access to JSTOR and he had been splunking through JSTOR after reading something.
+who had access to JSTOR and he had been splunking through JSTOR after reading something
+,,
+мав доступ до JSTOR, який копався в JSTOR після того, як щось прочитав
 
 1577
 01:41:08,602 --> 01:41:13,365
 and he figured out a way to do early tests for Pancreatic Cancer.
+,,
+і він винайшов спосіб раннього тестування раку підшлункової залози.
 
 1578
 01:41:14,810 --> 01:41:17,830
 and Pancreatic cancer kills the shit out of you.
+,,
+Рак підшлункової залози дуже небезпечний,
 
 1579
 01:41:17,940 --> 01:41:22,730
 Because we detect it way too late. By the time we detect it, it's already too late to do anything about that.
+,,
+тому що ми виявляємо його надто пізно. Коли його виявлено, вже пізно що-небудь робити.
 
 1580
 01:41:22,740 --> 01:41:28,720
 And, he sent emails off to the entire Oncology department at Johns Hopkins.
+,,
+Він надіслав емейли до цілого факультету онкології Університету Джона Гопкінса.
 
 1581
 01:41:28,810 --> 01:41:31,460
 you know hundreds of them.
 Interviewer: A 14 year old?
+,,
+сотні.
+Інтерв'юер: 14-річний?
 
 1582
 01:41:31,470 --> 01:41:33,850
 14 year old kid yeah. And most of them ignored it.
+,,
+14-річний хлопчина, так. І більшість його проігнорували.
 
 1583
 01:41:33,860 --> 01:41:35,834
 But one of them, like, sent him a email back
+,,
+Але одна людина надіслала йому відповідь:
 
 1584
 01:41:35,844 --> 01:41:38,340
 And said, "this is not an entirely stupid idea. Why don't you come on over."
+,,
+«Це не така вже й дурна ідея. Чому б тобі не приїхати?»
 
 1585
 01:41:38,350 --> 01:41:43,456
 This kid worked evenings and weekends with this researcher and in February, I heard him on the news
+,,
+Цей хлопчина працював вечорами й на вихідних з цим науковцем, і в лютому, я почув про нього в новинах
 
 1586
 01:41:43,466 --> 01:41:47,786
 just couple of weeks after Aaron died, when Aaron was in the news a lot.
+,,
+лише кілька тижнів після смерті Аарона, коли про Аарона багато було в новинах.
 
 1587
 01:41:50,000 --> 01:41:51,200
 ...sorry.
+,,
+...вибачте.
 
 1588
 01:41:53,344 --> 01:41:58,997
 And he said, the reason he was on the news is because they had done it.
+,,
+І він сказав, що потрапив у новини тому, що вони це зробили.
 
 1589
 01:41:59,247 --> 01:42:03,616
 They were shipping an early test for pancreatic cancer that was gonna save lives.
+,,
+Вони вже запускали новий тест раку підшлункової залози, який рятуватиме життя.
 
 1590
 01:42:03,626 --> 01:42:07,744
 And he said, "This is why what Aaron did was so important."
+,,
+Він також сказав: «Ось чому те, що Аарон робив, було так важливо.»
 
 1591
 01:42:10,496 --> 01:42:12,235
 Because you never know, right.
+,,
+Тому що ви ніколи не знаєте.
 
 1592
 01:42:12,245 --> 01:42:17,264
 This truth of the universe is not only something that policy makers use to figure out
+,,
+Правда про всесвіт використовується не тільки для того, щоб законотворці вирішували
 
 1593
 01:42:17,274 --> 01:42:19,269
 you know, what the speed limit should be.
+,,
+яке обмеження швидкості встановити.
 
 1594
 01:42:19,279 --> 01:42:25,258
 It's where the thing that's gonna keep, your kid from dying of Pancreatic cancer comes from.
+,,
+Це також знання, завдяки яким, можливо, ваші діти не загинуть від раку підшлункової залози.
 
 1595
 01:42:26,026 --> 01:42:31,146
 And, without access the person who might come up with the thing that's got your
+,,
+Без доступу, людина, яка могла б знайти відповідь на вашу проблему,
 
 1596
 01:42:31,396 --> 01:42:34,901
 number on it may never find that answer.
+,,
+можливо, ніколи не зможе її знайти.
 
 1597
 01:42:35,856 --> 01:42:47,520
 He slept so well, he didn't fall out of [baby talk] not even when he dreamed he was back on the spacecraft.
+,,
+Він так добре спав, він не впав з дерева, навіть коли йому снилося, що він знову на космічному кораблі.
 
 1598
 01:42:48,210 --> 01:42:50,534
 Very good, Aaron, very good!
+,,
+Дуже добре, Аароне, дуже добре!
 
 1599
 01:42:51,113 --> 01:42:56,890
 Okay! Now it's song time
+,,
+Окей! Пора на пісеньку!
 
 1600
 01:43:28,000 --> 01:43:34,000
 Subtitles Creative Commons CC0 license:
 http://creativecommons.org/publicdomain/zero/1.0/
+,,
+Субтитри під ліцензією Creative Commons Zero 1.0:
+http://creativecommons.org/publicdomain/zero/1.0/
 
 1601
 01:43:38,000 --> 01:43:44,960
-Contribute and help translating at:
+,,
+Долучайтеся й допомагайте поліпшувати:
 https://github.com/iliasbartolini/the-internet-s-own-boy--aaron-swartz--subtitles
-
